@@ -4,7 +4,13 @@ This project aims to utilize the production resource utilization, passenger capa
 
 ## Prerequisites
 
-You must have PostgreSQL and Python installed on your Operating System. You also must know the postgres password of PostgreSQL server.
+You must have PostgreSQL, Pip and Python installed on your Operating System. You also must know the postgres password of PostgreSQL server.
+Run this before going to the next section:
+```
+pip install pipreqs
+pipreqs
+
+```
 
 ## Usage/Examples
 
