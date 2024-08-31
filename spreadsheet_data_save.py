@@ -7,7 +7,7 @@ import os
 
 header=0
 engine = create_engine('postgresql://wrsr:wrsr3423@localhost:5432/wrsr')
-file = ezodf.opendoc(filename="workers and resources soviet republic normalized tables.ods")
+file = ezodf.opendoc(filename="normalized tables.ods")
 
 os.makedirs('csv', exist_ok=True)
 

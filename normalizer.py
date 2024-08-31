@@ -6,7 +6,7 @@ def get_col_id_idx(head_row):
 		if "_id" in head_row[i]:
 			return i
 
-data_old = get_data("workers and resources soviet republic denormalized tables.ods")
+data_old = get_data("denormalized tables.ods")
 
 denormalized_tables = ['transportation_build_resource_requirements','transportation_cargo_capacity','building_constructed_linear_costing']
 normalized_tables = []
@@ -36,4 +36,4 @@ for m in normalized_tables:
 data_old.pop("flats")
 data_old.pop("resource_supply")
 
-save_data("workers and resources soviet republic normalized tables.ods",data_old)		
+save_data("normalized tables.ods",data_old)		
