@@ -37,7 +37,7 @@ for sheet in file.sheets:
 			df[cell.value] = df[cell.value].astype("Int32")
 		curr_idx += 1	
 
-	if num == 1 or num == 3:
+	if num == 3:
 		df.to_csv('csv/' + sheet.name + '.csv',index=False)
 		df.to_sql(sheet.name, engine, if_exists='replace', index=False)
 	if num == 2:
