@@ -2,6 +2,9 @@
 
 This project aims to utilize the production resource utilization, passenger capacity, construction resource requirements and residential capacity data with Workshop or Non-workshop items for analysis with sql queries or graph database queries. 
 
+## Prerequisites
+
+You must have PostgreSQL and Python installed on your Operating System. You also must know the postgres password of PostgreSQL server.
 
 ## Usage/Examples
 
@@ -18,11 +21,9 @@ This project aims to utilize the production resource utilization, passenger capa
 
 ```
 
-
 ## Authors
 
 - [@quezon](https://github.com/quezon)
-
 
 ## Suggestions and Recommendations
 
