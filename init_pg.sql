@@ -7,4 +7,16 @@ CREATE USER wrsr WITH PASSWORD 'wrsr3423';
 
 ALTER DATABASE wrsr OWNER TO wrsr;
 GRANT ALL PRIVILEGES ON DATABASE wrsr TO wrsr;
+
 GRANT ALL ON SCHEMA public TO wrsr;
+ALTER SCHEMA public OWNER TO wrsr;
+
+CREATE SCHEMA IF NOT EXISTS construction;
+CREATE SCHEMA IF NOT EXISTS transportation;
+
+ALTER SCHEMA construction OWNER TO wrsr;
+ALTER SCHEMA transportation OWNER TO wrsr;
+
+GRANT ALL ON SCHEMA construction TO wrsr;
+GRANT ALL ON SCHEMA transportation TO wrsr;
+
