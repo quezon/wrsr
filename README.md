@@ -19,6 +19,8 @@ You must have PostgreSQL and Python installed on your Operating System. You also
   chmod +x run.sh
   ./run.sh
 
+# Note!! Running these commands will erase your existing wrsr database. Please backup queries and data before running this command.
+
 ```
 
 ## Authors
