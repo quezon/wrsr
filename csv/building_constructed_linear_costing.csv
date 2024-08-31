@@ -1,0 +1,3372 @@
+construct_id,resource,qty
+1,Workdays,156.0
+1,Gravel,8.4
+1,Steel,1.1
+1,Asphalt,6.8
+1,Concrete,10.0
+1,Electro components,0.22
+2,Workdays,29.0
+2,Gravel,1.9
+2,Steel,0.17
+2,Asphalt,1.3
+2,Electro components,0.076
+3,Workdays,23.0
+3,Gravel,1.9
+3,Steel,0.17
+3,Electro components,0.076
+3,Prefab panels,1.7
+4,Workdays,11.0
+4,Gravel,0.89
+4,Asphalt,0.67
+5,Workdays,21.0
+5,Gravel,1.9
+5,Steel,0.085
+5,Asphalt,1.3
+5,Electro components,0.034
+6,Workdays,12.0
+6,Gravel,1.7
+6,Prefab panels,1.7
+7,Workdays,23.0
+7,Gravel,1.9
+7,Steel,0.14
+7,Asphalt,1.3
+7,Electro components,0.051
+8,Workdays,18.0
+8,Gravel,1.7
+8,Asphalt,1.3
+9,Workdays,6.0
+9,Gravel,1.7
+32,Workdays,375.0
+32,Gravel,23.0
+32,Steel,0.22
+32,Asphalt,18.0
+32,Concrete,30.0
+32,Bricks,1.8
+32,Boards,0.59
+33,Workdays,281.0
+33,Gravel,17.0
+33,Steel,0.22
+33,Asphalt,13.0
+33,Concrete,22.0
+33,Bricks,1.8
+33,Boards,0.59
+34,Workdays,1818.0
+34,Gravel,54.0
+34,Steel,15.0
+34,Asphalt,43.0
+34,Concrete,71.0
+34,Bricks,67.0
+34,Boards,22.0
+35,Workdays,35.0
+35,Gravel,0.55
+35,Steel,0.26
+35,Asphalt,0.44
+35,Concrete,0.72
+35,Bricks,2.1
+35,Boards,0.71
+36,Workdays,101.0
+36,Gravel,2.6
+36,Steel,5.4
+36,Asphalt,2.1
+36,Concrete,3.3
+37,Workdays,146.0
+37,Gravel,0.83
+37,Steel,5.5
+37,Asphalt,0.66
+37,Concrete,1.1
+37,Electro components,0.85
+38,Workdays,491.0
+38,Gravel,13.0
+38,Steel,10.0
+38,Asphalt,11.0
+38,Concrete,17.0
+38,Electro components,2.1
+39,Workdays,460.0
+39,Gravel,7.8
+39,Steel,8.2
+39,Asphalt,6.2
+39,Concrete,10.0
+39,Bricks,23.0
+39,Boards,7.7
+40,Workdays,1030.0
+40,Gravel,45.0
+40,Steel,8.2
+40,Asphalt,36.0
+40,Concrete,59.0
+40,Bricks,23.0
+40,Boards,7.7
+41,Workdays,520.0
+41,Gravel,7.8
+41,Steel,10.0
+41,Asphalt,6.2
+41,Concrete,10.0
+41,Electro components,0.43
+41,Bricks,23.0
+41,Boards,7.7
+42,Workdays,921.0
+42,Gravel,27.0
+42,Steel,9.8
+42,Asphalt,21.0
+42,Concrete,35.0
+42,Electro components,1.3
+42,Bricks,28.0
+42,Boards,9.4
+43,Workdays,1384.0
+43,Gravel,24.0
+43,Steel,25.0
+43,Asphalt,19.0
+43,Concrete,32.0
+43,Bricks,67.0
+43,Boards,22.0
+44,Workdays,2125.0
+44,Gravel,74.0
+44,Steel,25.0
+44,Asphalt,59.0
+44,Concrete,96.0
+44,Bricks,67.0
+44,Boards,22.0
+45,Workdays,787.0
+45,Gravel,18.0
+45,Steel,13.0
+45,Asphalt,14.0
+45,Concrete,23.0
+45,Bricks,32.0
+45,Boards,10.0
+46,Workdays,429.0
+46,Gravel,15.0
+46,Steel,6.3
+46,Asphalt,12.0
+46,Concrete,45.0
+46,Bricks,6.6
+46,Boards,2.2
+47,Workdays,854.0
+47,Gravel,35.0
+47,Steel,10.0
+47,Asphalt,28.0
+47,Concrete,87.0
+47,Bricks,11.0
+47,Boards,3.8
+48,Workdays,1816.0
+48,Gravel,80.0
+48,Steel,20.0
+48,Asphalt,64.0
+48,Concrete,183.0
+48,Bricks,21.0
+48,Boards,7.2
+49,Workdays,119.0
+49,Gravel,5.1
+49,Steel,1.5
+49,Asphalt,4.1
+49,Concrete,6.6
+49,Electro components,0.31
+50,Workdays,172.0
+50,Gravel,10.0
+50,Steel,0.65
+50,Asphalt,8.1
+50,Concrete,13.0
+50,Electro components,0.14
+51,Workdays,20.0
+51,Gravel,0.79
+51,Steel,0.6
+51,Asphalt,0.64
+51,Concrete,1.0
+52,Workdays,46.0
+52,Gravel,0.79
+52,Steel,1.8
+52,Asphalt,0.64
+52,Concrete,1.0
+52,Electro components,0.13
+53,Workdays,521.0
+53,Gravel,33.0
+53,Steel,1.0
+53,Asphalt,27.0
+53,Concrete,44.0
+54,Workdays,688.0
+54,Gravel,44.0
+54,Steel,1.0
+54,Asphalt,35.0
+54,Concrete,58.0
+55,Workdays,928.0
+55,Gravel,22.0
+55,Steel,6.4
+55,Asphalt,17.0
+55,Concrete,28.0
+56,Workdays,283.0
+56,Gravel,5.9
+56,Steel,14.0
+56,Asphalt,4.7
+56,Concrete,20.0
+57,Workdays,113.0
+57,Gravel,2.5
+57,Steel,5.3
+57,Asphalt,2.0
+57,Concrete,9.7
+58,Workdays,367.0
+58,Gravel,23.0
+58,Steel,0.9
+58,Asphalt,18.0
+58,Concrete,30.0
+59,Workdays,71.0
+59,Gravel,3.4
+59,Steel,0.69
+59,Asphalt,2.7
+59,Concrete,4.4
+59,Electro components,0.14
+60,Workdays,132.0
+60,Gravel,6.4
+60,Steel,1.2
+60,Asphalt,5.2
+60,Concrete,8.4
+60,Electro components,0.25
+61,Workdays,180.0
+61,Gravel,8.9
+61,Steel,1.8
+61,Asphalt,7.1
+61,Concrete,11.0
+61,Electro components,0.33
+62,Workdays,31.0
+62,Gravel,1.9
+62,Steel,0.027
+62,Asphalt,1.5
+62,Concrete,2.5
+62,Electro components,0.006
+63,Workdays,56.0
+63,Gravel,3.4
+63,Steel,0.13
+63,Asphalt,2.7
+63,Concrete,4.4
+63,Electro components,0.026
+64,Workdays,100.0
+64,Gravel,5.7
+64,Steel,0.45
+64,Asphalt,4.6
+64,Concrete,7.4
+64,Electro components,0.093
+65,Workdays,319.0
+65,Gravel,11.0
+65,Steel,6.1
+65,Asphalt,8.9
+65,Concrete,14.0
+65,Electro components,0.063
+66,Workdays,240.0
+66,Gravel,6.3
+66,Steel,9.5
+66,Asphalt,5.1
+66,Concrete,26.0
+67,Workdays,299.0
+67,Gravel,9.5
+67,Steel,10.0
+67,Asphalt,7.6
+67,Concrete,30.0
+68,Workdays,150.0
+68,Gravel,3.2
+68,Steel,6.9
+68,Asphalt,2.5
+68,Concrete,15.0
+69,Workdays,355.0
+69,Gravel,7.2
+69,Steel,8.7
+69,Asphalt,5.8
+69,Concrete,9.4
+69,Mechanical components,1.8
+70,Workdays,355.0
+70,Gravel,7.2
+70,Steel,8.7
+70,Asphalt,5.8
+70,Concrete,9.4
+70,Mechanical components,1.8
+71,Workdays,94.0
+71,Gravel,1.1
+71,Steel,6.2
+71,Asphalt,0.92
+71,Concrete,1.5
+71,Mechanical components,0.074
+72,Workdays,82.0
+72,Gravel,1.3
+72,Steel,4.9
+72,Asphalt,1.1
+72,Concrete,1.7
+72,Mechanical components,0.062
+73,Workdays,364.0
+73,Gravel,4.6
+73,Steel,20.0
+73,Concrete,6.0
+73,Mechanical components,0.75
+74,Workdays,154.0
+74,Gravel,4.7
+74,Steel,7.2
+74,Asphalt,3.8
+74,Concrete,6.2
+75,Workdays,98.0
+75,Gravel,3.1
+75,Steel,4.5
+75,Asphalt,2.4
+75,Concrete,4.0
+76,Workdays,154.0
+76,Gravel,4.7
+76,Steel,7.2
+76,Asphalt,3.8
+76,Concrete,6.2
+77,Workdays,127.0
+77,Gravel,4.9
+77,Steel,4.4
+77,Asphalt,3.9
+77,Concrete,6.3
+78,Workdays,127.0
+78,Gravel,4.9
+78,Steel,4.4
+78,Asphalt,3.9
+78,Concrete,6.3
+79,Workdays,98.0
+79,Gravel,3.1
+79,Steel,4.5
+79,Asphalt,2.4
+79,Concrete,4.0
+80,Workdays,49.0
+80,Gravel,1.5
+80,Steel,0.9
+80,Asphalt,1.2
+80,Concrete,1.9
+81,Workdays,49.0
+81,Gravel,1.5
+81,Steel,0.9
+81,Asphalt,1.2
+81,Concrete,1.9
+82,Workdays,5.0
+82,Gravel,1.3
+82,Steel,0.34
+82,Electro components,0.025
+82,Prefab panels,0.54
+83,Workdays,3.0
+83,Gravel,1.3
+83,Steel,0.21
+83,Electro components,0.084
+83,Prefab panels,0.43
+84,Workdays,3.0
+84,Gravel,1.3
+84,Steel,0.21
+84,Prefab panels,0.43
+85,Workdays,3.0
+85,Gravel,1.3
+85,Steel,0.21
+85,Boards,0.42
+99,Workdays,584.0
+99,Gravel,13.0
+99,Steel,6.8
+99,Asphalt,10.0
+99,Concrete,17.0
+99,Bricks,23.0
+99,Boards,14.0
+100,Workdays,584.0
+100,Gravel,13.0
+100,Steel,6.8
+100,Asphalt,10.0
+100,Concrete,17.0
+100,Bricks,23.0
+100,Boards,14.0
+101,Workdays,584.0
+101,Gravel,20.0
+101,Steel,13.0
+101,Concrete,81.0
+101,Mechanical components,0.068
+102,Workdays,1580.0
+102,Gravel,39.0
+102,Steel,18.0
+102,Asphalt,31.0
+102,Concrete,50.0
+102,Bricks,57.0
+102,Boards,37.0
+103,Workdays,2647.0
+103,Gravel,62.0
+103,Steel,30.0
+103,Asphalt,49.0
+103,Concrete,80.0
+103,Bricks,103.0
+103,Boards,64.0
+104,Workdays,321.0
+104,Gravel,13.0
+104,Steel,10.0
+104,Asphalt,10.0
+104,Concrete,17.0
+105,Workdays,601.0
+105,Gravel,27.0
+105,Steel,16.0
+105,Asphalt,21.0
+105,Concrete,35.0
+106,Workdays,1689.0
+106,Gravel,78.0
+106,Steel,25.0
+106,Asphalt,62.0
+106,Concrete,214.0
+107,Workdays,224.0
+107,Gravel,8.4
+107,Steel,5.6
+107,Concrete,27.0
+108,Workdays,505.0
+108,Gravel,19.0
+108,Steel,12.0
+108,Concrete,62.0
+109,Workdays,1318.0
+109,Gravel,29.0
+109,Steel,53.0
+109,Concrete,179.0
+110,Workdays,1044.0
+110,Gravel,39.0
+110,Steel,23.0
+110,Concrete,139.0
+110,Mechanical components,0.17
+111,Workdays,561.0
+111,Gravel,14.0
+111,Steel,30.0
+111,Asphalt,11.0
+111,Concrete,19.0
+112,Workdays,1026.0
+112,Gravel,29.0
+112,Steel,51.0
+112,Asphalt,23.0
+112,Concrete,38.0
+113,Workdays,2193.0
+113,Gravel,127.0
+113,Steel,10.0
+113,Concrete,208.0
+113,Bricks,7.2
+113,Boards,2.4
+114,Workdays,2875.0
+114,Gravel,163.0
+114,Steel,13.0
+114,Concrete,261.0
+114,Bricks,16.0
+114,Boards,5.5
+115,Workdays,561.0
+115,Gravel,26.0
+115,Steel,9.1
+115,Concrete,63.0
+116,Workdays,175.0
+116,Gravel,8.1
+116,Steel,2.9
+116,Concrete,20.0
+117,Workdays,641.0
+117,Gravel,24.0
+117,Steel,15.0
+117,Concrete,83.0
+118,Workdays,1013.0
+118,Gravel,48.0
+118,Steel,16.0
+118,Concrete,113.0
+119,Workdays,1536.0
+119,Gravel,91.0
+119,Steel,8.5
+119,Concrete,155.0
+120,Workdays,273.0
+120,Gravel,6.3
+120,Steel,12.0
+120,Asphalt,5.0
+120,Concrete,24.0
+121,Workdays,791.0
+121,Gravel,16.0
+121,Steel,19.0
+121,Asphalt,12.0
+121,Concrete,20.0
+121,Mechanical components,4.0
+122,Workdays,3418.0
+122,Gravel,77.0
+122,Steel,79.0
+122,Asphalt,61.0
+122,Concrete,100.0
+122,Mechanical components,16.0
+123,Workdays,3297.0
+123,Gravel,44.0
+123,Steel,112.0
+123,Asphalt,35.0
+123,Concrete,351.0
+123,Mechanical components,9.5
+124,Workdays,396.0
+124,Gravel,9.5
+124,Steel,20.0
+124,Asphalt,7.6
+124,Concrete,12.0
+124,Mechanical components,0.3
+125,Workdays,1649.0
+125,Gravel,60.0
+125,Steel,60.0
+125,Asphalt,48.0
+125,Concrete,78.0
+125,Mechanical components,0.78
+126,Workdays,2802.0
+126,Gravel,109.0
+126,Steel,93.0
+126,Asphalt,87.0
+126,Concrete,142.0
+126,Mechanical components,1.3
+127,Workdays,2343.0
+127,Gravel,39.0
+127,Steel,75.0
+127,Asphalt,31.0
+127,Concrete,258.0
+127,Mechanical components,5.9
+128,Workdays,1435.0
+128,Gravel,47.0
+128,Steel,60.0
+128,Asphalt,37.0
+128,Concrete,61.0
+128,Mechanical components,0.51
+129,Workdays,1143.0
+129,Gravel,13.0
+129,Steel,40.0
+129,Asphalt,10.0
+129,Concrete,124.0
+129,Mechanical components,3.3
+130,Workdays,2824.0
+130,Gravel,36.0
+130,Steel,97.0
+130,Asphalt,29.0
+130,Concrete,310.0
+130,Mechanical components,7.9
+131,Workdays,900.0
+131,Gravel,7.3
+131,Steel,48.0
+131,Concrete,9.4
+131,Mechanical components,2.9
+132,Workdays,291.0
+132,Gravel,10.0
+132,Steel,8.8
+132,Concrete,30.0
+133,Workdays,106.0
+133,Gravel,3.8
+133,Steel,3.0
+133,Concrete,11.0
+134,Workdays,142.0
+134,Gravel,2.7
+134,Steel,4.0
+134,Asphalt,2.2
+134,Concrete,11.0
+134,Electro components,0.31
+134,Mechanical components,0.15
+135,Workdays,162.0
+135,Gravel,2.7
+135,Steel,4.9
+135,Asphalt,2.2
+135,Concrete,13.0
+135,Electro components,0.33
+135,Mechanical components,0.2
+136,Workdays,93.0
+136,Gravel,2.9
+136,Steel,1.7
+136,Asphalt,2.3
+136,Concrete,3.7
+136,Electro components,0.36
+137,Workdays,125.0
+137,Gravel,2.7
+137,Steel,3.3
+137,Asphalt,2.2
+137,Concrete,9.4
+137,Electro components,0.29
+137,Mechanical components,0.11
+138,Workdays,2.0
+138,Gravel,0.6
+139,Workdays,7.0
+139,Gravel,0.59
+139,Asphalt,0.5
+140,Workdays,10.0
+140,Gravel,0.7
+140,Steel,0.026
+140,Asphalt,0.53
+140,Electro components,0.009
+141,Workdays,56.0
+141,Gravel,1.5
+141,Steel,2.9
+141,Concrete,1.9
+142,Workdays,23.0
+142,Gravel,0.67
+142,Steel,0.12
+142,Concrete,0.87
+142,Bricks,0.96
+142,Boards,0.32
+143,Workdays,18.0
+143,Gravel,0.6
+143,Steel,0.4
+143,Concrete,2.5
+144,Workdays,88.0
+144,Gravel,1.3
+144,Steel,1.0
+144,Concrete,1.8
+144,Prefab panels,10.0
+145,Workdays,27.0
+145,Gravel,0.33
+145,Steel,0.87
+145,Concrete,0.66
+146,Workdays,26.0
+146,Gravel,0.37
+146,Concrete,0.94
+146,Prefab panels,6.4
+147,Workdays,446.0
+147,Gravel,4.3
+147,Steel,4.1
+147,Concrete,5.6
+147,Bricks,32.0
+147,Boards,10.0
+148,Workdays,523.0
+148,Gravel,1.9
+148,Steel,5.3
+148,Concrete,2.4
+148,Bricks,42.0
+148,Boards,14.0
+149,Workdays,422.0
+149,Gravel,2.6
+149,Steel,19.0
+149,Concrete,87.0
+151,Workdays,794.0
+151,Steel,39.0
+151,Concrete,174.0
+152,Workdays,2933.0
+152,Gravel,100.0
+152,Steel,74.0
+152,Asphalt,80.0
+152,Concrete,413.0
+153,Workdays,414.0
+153,Gravel,9.0
+153,Steel,13.0
+153,Asphalt,7.2
+153,Concrete,72.0
+154,Workdays,194.0
+154,Gravel,3.1
+154,Steel,7.4
+154,Asphalt,2.4
+154,Concrete,36.0
+155,Workdays,698.0
+155,Steel,34.0
+155,Concrete,153.0
+156,Workdays,194.0
+156,Gravel,3.1
+156,Steel,7.4
+156,Asphalt,2.4
+156,Concrete,36.0
+157,Workdays,1105.0
+157,Gravel,28.0
+157,Steel,33.0
+157,Asphalt,22.0
+157,Concrete,183.0
+157,Mechanical components,0.08
+158,Workdays,6135.0
+158,Gravel,190.0
+158,Steel,151.0
+158,Asphalt,152.0
+158,Concrete,791.0
+158,Mechanical components,5.9
+159,Workdays,2137.0
+159,Gravel,57.0
+159,Steel,57.0
+159,Asphalt,45.0
+159,Concrete,267.0
+159,Mechanical components,2.9
+160,Workdays,3547.0
+160,Gravel,95.0
+160,Steel,96.0
+160,Asphalt,76.0
+160,Concrete,456.0
+160,Mechanical components,4.4
+161,Workdays,4278.0
+161,Gravel,95.0
+161,Steel,122.0
+161,Asphalt,76.0
+161,Concrete,456.0
+161,Mechanical components,9.8
+162,Workdays,3896.0
+162,Gravel,95.0
+162,Steel,109.0
+162,Asphalt,76.0
+162,Concrete,456.0
+162,Mechanical components,7.0
+163,Workdays,9983.0
+163,Gravel,143.0
+163,Steel,339.0
+163,Asphalt,114.0
+163,Concrete,1131.0
+163,Mechanical components,26.0
+164,Workdays,66.0
+164,Gravel,7.0
+164,Asphalt,5.3
+165,Workdays,256.0
+165,Gravel,28.0
+165,Asphalt,21.0
+166,Workdays,2084.0
+166,Gravel,138.0
+166,Asphalt,111.0
+166,Concrete,180.0
+167,Workdays,1414.0
+167,Gravel,94.0
+167,Asphalt,75.0
+167,Concrete,122.0
+168,Workdays,243.0
+168,Gravel,16.0
+168,Asphalt,12.0
+168,Concrete,21.0
+169,Workdays,427.0
+169,Gravel,28.0
+169,Asphalt,22.0
+169,Concrete,36.0
+170,Workdays,673.0
+170,Gravel,44.0
+170,Asphalt,35.0
+170,Concrete,58.0
+171,Workdays,243.0
+171,Gravel,16.0
+171,Asphalt,12.0
+171,Concrete,21.0
+172,Workdays,791.0
+172,Gravel,52.0
+172,Asphalt,42.0
+172,Concrete,68.0
+173,Workdays,617.0
+173,Gravel,7.0
+173,Steel,21.0
+173,Asphalt,5.6
+173,Concrete,9.1
+173,Bricks,26.0
+173,Boards,8.9
+174,Workdays,28.0
+174,Gravel,1.1
+174,Steel,0.88
+174,Asphalt,0.9
+174,Concrete,1.5
+175,Workdays,2368.0
+175,Gravel,61.0
+175,Steel,75.0
+175,Asphalt,48.0
+175,Concrete,79.0
+175,Bricks,58.0
+175,Boards,19.0
+176,Workdays,474.0
+176,Gravel,11.0
+176,Steel,12.0
+176,Asphalt,9.4
+176,Concrete,15.0
+176,Bricks,15.0
+176,Boards,5.2
+177,Workdays,1588.0
+177,Gravel,47.0
+177,Steel,77.0
+177,Asphalt,38.0
+177,Concrete,62.0
+178,Workdays,1288.0
+178,Gravel,38.0
+178,Steel,37.0
+178,Asphalt,30.0
+178,Concrete,49.0
+178,Bricks,28.0
+178,Boards,9.5
+179,Workdays,243.0
+179,Gravel,16.0
+179,Asphalt,12.0
+179,Concrete,21.0
+180,Workdays,791.0
+180,Gravel,52.0
+180,Asphalt,42.0
+180,Concrete,68.0
+181,Workdays,15.0
+181,Gravel,0.25
+181,Steel,0.68
+181,Concrete,0.32
+181,Mechanical components,0.029
+182,Workdays,28.0
+182,Gravel,0.49
+182,Steel,1.3
+182,Concrete,0.64
+182,Mechanical components,0.057
+183,Workdays,9.0
+183,Gravel,0.23
+183,Steel,0.29
+183,Concrete,0.3
+183,Mechanical components,0.011
+184,Workdays,10.0
+184,Gravel,0.15
+184,Steel,0.41
+184,Concrete,0.2
+184,Mechanical components,0.017
+185,Workdays,41.0
+185,Steel,2.7
+185,Mechanical components,0.13
+186,Workdays,53.0
+186,Steel,3.4
+186,Mechanical components,0.16
+187,Workdays,27.0
+187,Steel,1.7
+187,Mechanical components,0.082
+188,Workdays,32.0
+188,Steel,2.1
+188,Mechanical components,0.099
+189,Workdays,448.0
+189,Gravel,5.1
+189,Steel,6.2
+189,Concrete,6.6
+189,Electro components,0.17
+189,Bricks,24.0
+189,Boards,8.0
+189,Mechanical components,0.5
+190,Workdays,1302.0
+190,Gravel,12.0
+190,Steel,46.0
+190,Concrete,15.0
+190,Electro components,0.72
+190,Bricks,33.0
+190,Boards,11.0
+190,Mechanical components,2.4
+191,Workdays,276.0
+191,Gravel,3.7
+191,Steel,16.0
+191,Concrete,4.8
+191,Electro components,0.11
+191,Mechanical components,0.27
+192,Workdays,421.0
+192,Gravel,5.9
+192,Steel,24.0
+192,Concrete,7.7
+192,Electro components,0.22
+192,Mechanical components,0.44
+193,Workdays,377.0
+193,Gravel,4.9
+193,Steel,21.0
+193,Concrete,6.4
+193,Electro components,0.2
+193,Mechanical components,0.49
+194,Workdays,807.0
+194,Gravel,15.0
+194,Steel,44.0
+194,Concrete,19.0
+194,Electro components,0.34
+194,Mechanical components,0.67
+195,Workdays,33.0
+195,Gravel,3.4
+195,Asphalt,2.6
+196,Workdays,54.0
+196,Gravel,3.6
+196,Asphalt,2.9
+196,Concrete,4.6
+197,Workdays,39.0
+197,Gravel,1.6
+197,Steel,1.3
+197,Asphalt,1.2
+197,Concrete,2.0
+198,Workdays,723.0
+198,Gravel,14.0
+198,Steel,13.0
+198,Asphalt,11.0
+198,Concrete,18.0
+198,Bricks,32.0
+198,Boards,10.0
+199,Workdays,1726.0
+199,Gravel,31.0
+199,Steel,31.0
+199,Asphalt,25.0
+199,Concrete,40.0
+199,Bricks,82.0
+199,Boards,27.0
+200,Workdays,3434.0
+200,Gravel,71.0
+200,Steel,78.0
+200,Asphalt,57.0
+200,Concrete,93.0
+200,Bricks,120.0
+200,Boards,40.0
+200,Mechanical components,2.9
+201,Workdays,2785.0
+201,Gravel,16.0
+201,Steel,47.0
+201,Asphalt,13.0
+201,Concrete,21.0
+201,Bricks,189.0
+201,Boards,63.0
+202,Workdays,3723.0
+202,Gravel,70.0
+202,Steel,51.0
+202,Asphalt,56.0
+202,Concrete,91.0
+202,Bricks,196.0
+202,Boards,65.0
+203,Workdays,462.0
+203,Gravel,10.0
+203,Steel,10.0
+203,Asphalt,8.7
+203,Concrete,14.0
+203,Mechanical components,2.2
+204,Workdays,520.0
+204,Gravel,10.0
+204,Steel,12.0
+204,Asphalt,8.7
+204,Concrete,14.0
+204,Mechanical components,2.6
+205,Workdays,2380.0
+205,Gravel,39.0
+205,Steel,97.0
+205,Asphalt,31.0
+205,Concrete,374.0
+206,Workdays,4032.0
+206,Gravel,76.0
+206,Steel,155.0
+206,Asphalt,61.0
+206,Concrete,624.0
+207,Workdays,5231.0
+207,Gravel,104.0
+207,Steel,198.0
+207,Asphalt,83.0
+207,Concrete,798.0
+208,Workdays,6584.0
+208,Gravel,127.0
+208,Steel,251.0
+208,Asphalt,101.0
+208,Concrete,1023.0
+209,Workdays,2104.0
+209,Gravel,82.0
+209,Steel,9.2
+209,Concrete,107.0
+209,Bricks,73.0
+209,Boards,24.0
+210,Workdays,2197.0
+210,Gravel,26.0
+210,Steel,97.0
+210,Asphalt,21.0
+210,Concrete,358.0
+211,Workdays,3736.0
+211,Gravel,56.0
+211,Steel,155.0
+211,Asphalt,45.0
+211,Concrete,599.0
+212,Workdays,4770.0
+212,Gravel,74.0
+212,Steel,198.0
+212,Asphalt,59.0
+212,Concrete,758.0
+213,Workdays,6009.0
+213,Gravel,88.0
+213,Steel,251.0
+213,Asphalt,71.0
+213,Concrete,973.0
+214,Workdays,758.0
+214,Gravel,3.8
+214,Steel,9.4
+214,Asphalt,3.0
+214,Concrete,23.0
+214,Bricks,44.0
+214,Boards,28.0
+215,Workdays,297.0
+215,Gravel,8.5
+215,Steel,1.8
+215,Asphalt,6.8
+215,Concrete,11.0
+215,Bricks,14.0
+215,Boards,4.8
+216,Workdays,596.0
+216,Gravel,22.0
+216,Steel,2.8
+216,Asphalt,17.0
+216,Concrete,28.0
+216,Bricks,22.0
+216,Boards,7.5
+217,Workdays,955.0
+217,Gravel,32.0
+217,Steel,5.0
+217,Asphalt,26.0
+217,Concrete,42.0
+217,Bricks,39.0
+217,Boards,13.0
+218,Workdays,1467.0
+218,Gravel,51.0
+218,Steel,7.4
+218,Asphalt,41.0
+218,Concrete,67.0
+218,Bricks,58.0
+218,Boards,19.0
+219,Workdays,562.0
+219,Gravel,2.3
+219,Steel,18.0
+219,Asphalt,1.9
+219,Concrete,3.1
+219,Mechanical components,3.9
+220,Workdays,25.0
+220,Gravel,3.0
+220,Steel,7.7
+220,Asphalt,2.4
+220,Concrete,3.9
+220,Mechanical components,1.6
+221,Workdays,200.0
+221,Gravel,3.3
+221,Steel,3.5
+221,Asphalt,2.7
+221,Concrete,4.3
+221,Bricks,10.0
+221,Boards,3.4
+222,Workdays,845.0
+222,Gravel,23.0
+222,Steel,18.0
+222,Asphalt,18.0
+222,Concrete,30.0
+222,Bricks,24.0
+222,Boards,8.0
+224,Workdays,196.0
+224,Gravel,2.0
+224,Steel,5.8
+224,Asphalt,1.6
+224,Concrete,2.7
+224,Mechanical components,1.2
+225,Workdays,268.0
+225,Gravel,2.2
+225,Steel,8.2
+225,Asphalt,1.7
+225,Concrete,2.8
+225,Mechanical components,1.7
+226,Workdays,198.0
+226,Gravel,2.1
+226,Steel,5.8
+226,Asphalt,1.7
+226,Concrete,2.7
+226,Mechanical components,1.2
+227,Workdays,270.0
+227,Gravel,2.2
+227,Steel,8.3
+227,Asphalt,1.8
+227,Concrete,2.9
+227,Mechanical components,1.7
+228,Workdays,355.0
+228,Gravel,5.2
+228,Steel,9.7
+228,Asphalt,4.2
+228,Concrete,6.8
+228,Mechanical components,2.0
+229,Workdays,484.0
+229,Gravel,5.6
+229,Steel,14.0
+229,Asphalt,4.5
+229,Concrete,7.3
+229,Mechanical components,2.9
+230,Workdays,357.0
+230,Gravel,5.3
+230,Steel,9.7
+230,Asphalt,4.2
+230,Concrete,6.8
+230,Mechanical components,2.0
+231,Workdays,486.0
+231,Gravel,5.6
+231,Steel,14.0
+231,Asphalt,4.5
+231,Concrete,7.3
+231,Mechanical components,2.9
+232,Workdays,431.0
+232,Gravel,6.6
+232,Steel,11.0
+232,Asphalt,5.3
+232,Concrete,8.6
+232,Mechanical components,2.4
+233,Workdays,509.0
+233,Gravel,8.2
+233,Steel,13.0
+233,Asphalt,6.6
+233,Concrete,10.0
+233,Mechanical components,2.8
+234,Workdays,509.0
+234,Gravel,8.2
+234,Steel,13.0
+234,Asphalt,6.6
+234,Concrete,10.0
+234,Mechanical components,2.8
+235,Workdays,786.0
+235,Gravel,12.0
+235,Steel,27.0
+235,Asphalt,9.9
+235,Concrete,104.0
+235,Mechanical components,1.5
+236,Workdays,1113.0
+236,Gravel,29.0
+236,Steel,29.0
+236,Asphalt,23.0
+236,Concrete,133.0
+236,Mechanical components,1.7
+237,Workdays,1996.0
+237,Gravel,47.0
+237,Steel,57.0
+237,Asphalt,38.0
+237,Concrete,239.0
+237,Mechanical components,3.5
+238,Workdays,347.0
+238,Gravel,6.8
+238,Steel,19.0
+238,Asphalt,5.4
+238,Concrete,8.8
+238,Mechanical components,0.34
+239,Workdays,675.0
+239,Gravel,13.0
+239,Steel,34.0
+239,Asphalt,10.0
+239,Concrete,18.0
+239,Mechanical components,1.0
+240,Workdays,442.0
+240,Gravel,6.9
+240,Steel,15.0
+240,Asphalt,5.5
+240,Concrete,61.0
+240,Mechanical components,0.73
+242,Workdays,375.0
+242,Gravel,5.9
+242,Steel,10.0
+242,Asphalt,4.7
+242,Concrete,7.7
+242,Mechanical components,2.1
+243,Workdays,375.0
+243,Gravel,5.9
+243,Steel,10.0
+243,Asphalt,4.7
+243,Concrete,7.7
+243,Mechanical components,2.1
+244,Workdays,555.0
+244,Gravel,13.0
+244,Steel,12.0
+244,Asphalt,10.0
+244,Concrete,17.0
+244,Mechanical components,2.6
+245,Workdays,555.0
+245,Gravel,13.0
+245,Steel,12.0
+245,Asphalt,10.0
+245,Concrete,17.0
+245,Mechanical components,2.6
+246,Workdays,2183.0
+246,Gravel,16.0
+246,Steel,68.0
+246,Asphalt,13.0
+246,Concrete,21.0
+246,Mechanical components,14.0
+247,Workdays,683.0
+247,Gravel,23.0
+247,Steel,11.0
+247,Asphalt,19.0
+247,Concrete,31.0
+247,Mechanical components,2.4
+248,Workdays,53.0
+248,Gravel,1.2
+248,Steel,1.2
+248,Asphalt,0.95
+248,Concrete,1.5
+248,Mechanical components,0.25
+249,Workdays,186.0
+249,Gravel,5.1
+249,Steel,3.8
+249,Asphalt,4.1
+249,Concrete,6.6
+249,Mechanical components,0.79
+251,Workdays,445.0
+251,Gravel,1.4
+251,Steel,14.0
+251,Asphalt,1.2
+251,Concrete,1.9
+251,Mechanical components,3.1
+252,Workdays,437.0
+252,Gravel,1.4
+252,Steel,14.0
+252,Asphalt,1.1
+252,Concrete,1.9
+252,Mechanical components,3.0
+253,Workdays,288.0
+253,Gravel,1.3
+253,Steel,9.4
+253,Asphalt,1.1
+253,Concrete,1.7
+253,Mechanical components,2.0
+254,Workdays,293.0
+254,Gravel,1.4
+254,Steel,9.6
+254,Asphalt,1.1
+254,Concrete,1.8
+254,Mechanical components,2.0
+255,Workdays,417.0
+255,Gravel,1.3
+255,Steel,13.0
+255,Asphalt,1.0
+255,Concrete,1.7
+255,Mechanical components,2.9
+256,Workdays,416.0
+256,Gravel,1.3
+256,Steel,13.0
+256,Asphalt,1.0
+256,Concrete,1.6
+256,Mechanical components,2.9
+257,Workdays,274.0
+257,Gravel,1.2
+257,Steel,9.0
+257,Asphalt,0.94
+257,Concrete,1.5
+257,Mechanical components,1.9
+258,Workdays,279.0
+258,Gravel,1.2
+258,Steel,9.2
+258,Asphalt,0.98
+258,Concrete,1.6
+258,Mechanical components,1.9
+259,Workdays,930.0
+259,Gravel,5.6
+259,Steel,29.0
+259,Asphalt,4.5
+259,Concrete,7.3
+259,Mechanical components,6.2
+260,Workdays,1200.0
+260,Gravel,9.6
+260,Steel,37.0
+260,Asphalt,7.7
+260,Concrete,12.0
+260,Mechanical components,7.8
+261,Workdays,1200.0
+261,Gravel,9.6
+261,Steel,37.0
+261,Asphalt,7.7
+261,Concrete,12.0
+261,Mechanical components,7.8
+262,Workdays,2371.0
+262,Gravel,46.0
+262,Steel,79.0
+262,Asphalt,37.0
+262,Concrete,376.0
+262,Mechanical components,1.7
+263,Workdays,1303.0
+263,Gravel,23.0
+263,Steel,47.0
+263,Concrete,238.0
+264,Workdays,2617.0
+264,Gravel,50.0
+264,Steel,89.0
+264,Asphalt,40.0
+264,Concrete,422.0
+264,Mechanical components,1.8
+265,Workdays,1101.0
+265,Gravel,18.0
+265,Steel,40.0
+265,Asphalt,14.0
+265,Concrete,186.0
+265,Mechanical components,0.63
+266,Workdays,1453.0
+266,Gravel,20.0
+266,Steel,62.0
+266,Asphalt,16.0
+266,Concrete,233.0
+266,Mechanical components,0.31
+267,Workdays,7635.0
+267,Gravel,142.0
+267,Steel,287.0
+267,Asphalt,113.0
+267,Concrete,871.0
+267,Electro components,3.7
+267,Mechanical components,7.3
+268,Workdays,6332.0
+268,Gravel,125.0
+268,Steel,203.0
+268,Concrete,865.0
+268,Electro components,2.9
+268,Mechanical components,6.3
+269,Workdays,8417.0
+269,Gravel,34.0
+269,Steel,285.0
+269,Concrete,153.0
+269,Electro components,44.0
+269,Mechanical components,9.8
+270,Workdays,241.0
+270,Gravel,0.99
+270,Steel,5.9
+270,Asphalt,0.8
+270,Concrete,1.3
+270,Electro components,0.65
+270,Mechanical components,1.0
+271,Workdays,691.0
+271,Gravel,2.5
+271,Steel,17.0
+271,Asphalt,2.0
+271,Concrete,3.2
+271,Electro components,1.9
+271,Mechanical components,2.9
+272,Workdays,12564.0
+272,Gravel,181.0
+272,Steel,439.0
+272,Asphalt,145.0
+272,Concrete,235.0
+272,Electro components,18.0
+272,Bricks,129.0
+272,Boards,43.0
+272,Mechanical components,25.0
+273,Workdays,20421.0
+273,Gravel,282.0
+273,Steel,769.0
+273,Asphalt,226.0
+273,Concrete,367.0
+273,Electro components,23.0
+273,Bricks,162.0
+273,Boards,54.0
+273,Mechanical components,47.0
+274,Workdays,5322.0
+274,Gravel,253.0
+274,Steel,65.0
+274,Asphalt,203.0
+274,Concrete,506.0
+274,Mechanical components,5.2
+275,Workdays,16.0
+275,Steel,2.3
+275,Mechanical components,0.29
+280,Workdays,7.0
+280,Gravel,0.12
+280,Electro components,0.008
+281,Workdays,7.0
+281,Gravel,0.12
+281,Electro components,0.014
+282,Workdays,7.0
+282,Gravel,0.12
+282,Electro components,0.022
+283,Workdays,45.0
+283,Gravel,1.3
+283,Steel,0.85
+283,Asphalt,1.0
+283,Concrete,1.7
+283,Electro components,0.18
+284,Workdays,83.0
+284,Gravel,2.4
+284,Steel,1.6
+284,Asphalt,1.9
+284,Concrete,3.1
+284,Electro components,0.34
+285,Workdays,117.0
+285,Gravel,2.4
+285,Steel,2.8
+285,Asphalt,1.9
+285,Concrete,3.1
+285,Electro components,0.59
+286,Workdays,51.0
+286,Gravel,0.59
+286,Steel,0.66
+286,Asphalt,0.47
+286,Concrete,0.77
+286,Electro components,0.068
+286,Bricks,2.7
+286,Boards,0.89
+287,Workdays,51.0
+287,Gravel,0.59
+287,Steel,0.66
+287,Asphalt,0.47
+287,Concrete,0.77
+287,Electro components,0.068
+287,Bricks,2.7
+287,Boards,0.89
+296,Workdays,5.0
+296,Gravel,0.09
+296,Electro components,0.012
+297,Workdays,5.0
+297,Gravel,0.09
+297,Electro components,0.02
+298,Workdays,5.0
+298,Gravel,0.09
+298,Electro components,0.032
+299,Workdays,102.0
+299,Gravel,3.3
+299,Steel,1.8
+299,Asphalt,2.6
+299,Concrete,4.3
+299,Electro components,0.38
+300,Workdays,146.0
+300,Gravel,4.9
+300,Steel,2.5
+300,Asphalt,3.9
+300,Concrete,6.3
+300,Electro components,0.53
+301,Workdays,200.0
+301,Gravel,4.9
+301,Steel,4.4
+301,Asphalt,3.9
+301,Concrete,6.3
+301,Electro components,0.92
+302,Workdays,154.0
+302,Gravel,5.1
+302,Steel,2.7
+302,Asphalt,4.1
+302,Concrete,6.7
+302,Electro components,0.55
+306,Workdays,46.0
+306,Gravel,0.69
+306,Steel,0.59
+306,Asphalt,0.55
+306,Concrete,0.9
+306,Bricks,2.0
+306,Boards,0.67
+306,Mechanical components,0.071
+307,Workdays,43.0
+307,Gravel,0.5
+307,Steel,0.65
+307,Asphalt,0.4
+307,Concrete,0.66
+307,Bricks,1.8
+307,Boards,0.59
+307,Mechanical components,0.09
+308,Workdays,74.0
+308,Gravel,1.3
+308,Steel,1.1
+308,Asphalt,1.1
+308,Concrete,1.7
+308,Bricks,2.5
+308,Boards,0.83
+308,Mechanical components,0.17
+309,Workdays,443.0
+309,Gravel,5.9
+309,Steel,10.0
+309,Asphalt,4.7
+309,Concrete,7.7
+309,Bricks,6.6
+309,Boards,2.2
+309,Mechanical components,2.0
+310,Workdays,72.0
+310,Gravel,0.72
+310,Steel,2.1
+310,Asphalt,0.58
+310,Concrete,0.94
+310,Mechanical components,0.44
+311,Workdays,513.0
+311,Gravel,5.3
+311,Steel,15.0
+311,Asphalt,4.2
+311,Concrete,6.8
+311,Mechanical components,3.2
+312,Workdays,396.0
+312,Gravel,2.7
+312,Steel,8.3
+312,Asphalt,2.2
+312,Concrete,3.6
+312,Bricks,14.0
+312,Boards,4.8
+312,Mechanical components,1.3
+313,Workdays,747.0
+313,Gravel,5.8
+313,Steel,16.0
+313,Asphalt,4.6
+313,Concrete,7.5
+313,Bricks,25.0
+313,Boards,8.4
+313,Mechanical components,2.7
+314,Workdays,24.0
+314,Gravel,0.39
+314,Steel,0.81
+314,Asphalt,0.31
+314,Concrete,4.1
+315,Workdays,612.0
+315,Gravel,8.3
+315,Steel,10.0
+315,Asphalt,6.7
+315,Concrete,10.0
+315,Bricks,23.0
+315,Boards,7.8
+315,Mechanical components,1.6
+316,Workdays,1851.0
+316,Gravel,20.0
+316,Steel,41.0
+316,Asphalt,16.0
+316,Concrete,26.0
+316,Bricks,45.0
+316,Boards,15.0
+316,Mechanical components,7.4
+317,Workdays,303.0
+317,Gravel,6.3
+317,Steel,4.7
+317,Concrete,8.2
+317,Bricks,8.8
+317,Boards,2.9
+317,Mechanical components,0.76
+318,Workdays,12.0
+318,Gravel,0.21
+318,Steel,0.37
+318,Concrete,1.9
+322,Workdays,27.0
+322,Gravel,0.82
+322,Steel,0.3
+322,Asphalt,0.66
+322,Concrete,1.1
+322,Bricks,0.48
+322,Boards,0.16
+322,Mechanical components,0.05
+323,Workdays,33.0
+323,Gravel,0.12
+323,Steel,1.3
+323,Concrete,4.4
+323,Mechanical components,0.068
+324,Workdays,48.0
+324,Gravel,0.12
+324,Steel,2.0
+324,Concrete,6.6
+324,Mechanical components,0.1
+325,Workdays,70.0
+325,Gravel,0.13
+325,Steel,3.0
+325,Concrete,10.0
+325,Mechanical components,0.16
+326,Workdays,17.0
+326,Gravel,0.19
+326,Steel,0.62
+326,Concrete,3.0
+327,Workdays,287.0
+327,Gravel,3.7
+327,Steel,4.2
+327,Asphalt,3.0
+327,Concrete,4.8
+327,Bricks,13.0
+327,Boards,4.5
+327,Mechanical components,0.54
+328,Workdays,1431.0
+328,Gravel,32.0
+328,Steel,32.0
+328,Asphalt,26.0
+328,Concrete,80.0
+328,Bricks,12.0
+328,Boards,4.2
+328,Mechanical components,4.5
+329,Workdays,3154.0
+329,Gravel,63.0
+329,Steel,75.0
+329,Asphalt,51.0
+329,Concrete,202.0
+329,Bricks,33.0
+329,Boards,11.0
+329,Mechanical components,9.2
+330,Workdays,376.0
+330,Gravel,6.6
+330,Steel,6.7
+330,Concrete,8.6
+330,Bricks,10.0
+330,Boards,3.4
+330,Mechanical components,1.1
+331,Workdays,907.0
+331,Gravel,14.0
+331,Steel,20.0
+331,Asphalt,11.0
+331,Concrete,18.0
+331,Bricks,32.0
+331,Boards,10.0
+331,Mechanical components,1.6
+332,Workdays,1949.0
+332,Gravel,45.0
+332,Steel,73.0
+332,Asphalt,36.0
+332,Concrete,58.0
+332,Bricks,25.0
+332,Boards,8.5
+332,Mechanical components,2.2
+337,Workdays,91.0
+337,Gravel,1.3
+337,Steel,1.5
+337,Asphalt,1.0
+337,Concrete,1.7
+337,Bricks,3.4
+337,Boards,1.1
+337,Mechanical components,0.22
+338,Workdays,134.0
+338,Gravel,2.3
+338,Steel,2.2
+338,Asphalt,1.8
+338,Concrete,3.0
+338,Bricks,4.6
+338,Boards,1.5
+338,Mechanical components,0.33
+339,Workdays,340.0
+339,Gravel,5.3
+339,Steel,4.7
+339,Asphalt,4.2
+339,Concrete,6.9
+339,Bricks,15.0
+339,Boards,5.1
+339,Mechanical components,0.59
+340,Workdays,340.0
+340,Gravel,5.3
+340,Steel,4.7
+340,Asphalt,4.2
+340,Concrete,6.9
+340,Bricks,15.0
+340,Boards,5.1
+340,Mechanical components,0.59
+341,Workdays,726.0
+341,Gravel,8.2
+341,Steel,11.0
+341,Asphalt,6.6
+341,Concrete,10.0
+341,Bricks,34.0
+341,Boards,11.0
+341,Mechanical components,1.5
+342,Workdays,726.0
+342,Gravel,8.2
+342,Steel,11.0
+342,Asphalt,6.6
+342,Concrete,10.0
+342,Bricks,34.0
+342,Boards,11.0
+342,Mechanical components,1.5
+343,Workdays,17.0
+343,Gravel,0.68
+343,Steel,0.079
+343,Concrete,0.88
+343,Prefab panels,0.79
+344,Workdays,17.0
+344,Gravel,0.68
+344,Steel,0.079
+344,Asphalt,0.54
+344,Concrete,0.88
+344,Prefab panels,0.79
+345,Workdays,50.0
+345,Gravel,2.6
+345,Steel,0.16
+345,Concrete,3.3
+345,Prefab panels,1.6
+346,Workdays,50.0
+346,Gravel,2.6
+346,Steel,0.16
+346,Asphalt,2.0
+346,Concrete,3.3
+346,Prefab panels,1.6
+347,Workdays,49.0
+347,Gravel,2.5
+347,Steel,0.16
+347,Asphalt,2.0
+347,Concrete,3.2
+347,Prefab panels,1.6
+348,Workdays,171.0
+348,Gravel,9.8
+348,Steel,0.35
+348,Asphalt,7.8
+348,Concrete,12.0
+348,Prefab panels,3.5
+349,Workdays,1185.0
+349,Gravel,28.0
+349,Steel,58.0
+349,Asphalt,23.0
+349,Concrete,37.0
+349,Mechanical components,1.1
+350,Workdays,521.0
+350,Gravel,11.0
+350,Steel,24.0
+350,Asphalt,9.2
+350,Concrete,14.0
+350,Mechanical components,0.8
+351,Workdays,550.0
+351,Gravel,12.0
+351,Steel,25.0
+351,Asphalt,10.0
+351,Concrete,16.0
+351,Mechanical components,0.88
+352,Workdays,810.0
+352,Gravel,25.0
+352,Steel,24.0
+352,Asphalt,20.0
+352,Concrete,33.0
+352,Mechanical components,1.8
+353,Workdays,576.0
+353,Gravel,10.0
+353,Steel,23.0
+353,Asphalt,8.5
+353,Concrete,13.0
+353,Mechanical components,1.8
+354,Workdays,1122.0
+354,Gravel,22.0
+354,Steel,50.0
+354,Asphalt,18.0
+354,Concrete,29.0
+354,Mechanical components,2.6
+355,Workdays,667.0
+355,Gravel,14.0
+355,Steel,26.0
+355,Asphalt,11.0
+355,Concrete,19.0
+355,Mechanical components,1.8
+356,Workdays,2271.0
+356,Gravel,73.0
+356,Steel,32.0
+356,Asphalt,58.0
+356,Concrete,165.0
+356,Bricks,45.0
+356,Boards,15.0
+356,Mechanical components,2.3
+357,Workdays,2235.0
+357,Gravel,24.0
+357,Steel,34.0
+357,Asphalt,19.0
+357,Concrete,31.0
+357,Bricks,110.0
+357,Boards,36.0
+357,Mechanical components,4.2
+358,Workdays,4992.0
+358,Gravel,75.0
+358,Steel,54.0
+358,Asphalt,60.0
+358,Concrete,97.0
+358,Bricks,284.0
+358,Boards,94.0
+358,Mechanical components,3.9
+359,Workdays,2935.0
+359,Gravel,39.0
+359,Steel,152.0
+359,Asphalt,31.0
+359,Concrete,51.0
+359,Electro components,1.7
+359,Mechanical components,5.9
+360,Workdays,1653.0
+360,Gravel,36.0
+360,Steel,77.0
+360,Asphalt,29.0
+360,Concrete,47.0
+360,Mechanical components,2.8
+361,Workdays,933.0
+361,Gravel,25.0
+361,Steel,17.0
+361,Asphalt,20.0
+361,Concrete,54.0
+361,Bricks,11.0
+361,Boards,3.8
+361,Mechanical components,2.3
+362,Workdays,1779.0
+362,Gravel,46.0
+362,Steel,33.0
+362,Asphalt,37.0
+362,Concrete,108.0
+362,Bricks,26.0
+362,Boards,8.8
+362,Mechanical components,4.1
+363,Workdays,3672.0
+363,Gravel,109.0
+363,Steel,74.0
+363,Asphalt,87.0
+363,Concrete,272.0
+363,Bricks,17.0
+363,Boards,5.9
+363,Mechanical components,9.0
+364,Workdays,5138.0
+364,Gravel,152.0
+364,Steel,106.0
+364,Asphalt,122.0
+364,Concrete,403.0
+364,Bricks,27.0
+364,Boards,9.3
+364,Mechanical components,11.0
+365,Workdays,71.0
+365,Gravel,4.7
+365,Concrete,6.1
+366,Workdays,227.0
+366,Gravel,14.0
+366,Steel,0.18
+366,Asphalt,11.0
+366,Concrete,18.0
+366,Prefab panels,1.8
+367,Workdays,439.0
+367,Gravel,8.7
+367,Steel,10.0
+367,Asphalt,6.9
+367,Concrete,11.0
+367,Mechanical components,2.3
+368,Workdays,676.0
+368,Gravel,17.0
+368,Steel,14.0
+368,Asphalt,13.0
+368,Concrete,22.0
+368,Mechanical components,3.0
+369,Workdays,1169.0
+369,Gravel,21.0
+369,Steel,29.0
+369,Asphalt,17.0
+369,Concrete,28.0
+369,Mechanical components,6.2
+370,Workdays,113.0
+370,Gravel,6.3
+370,Steel,0.27
+370,Asphalt,5.0
+370,Concrete,8.2
+370,Prefab panels,2.7
+371,Workdays,266.0
+371,Gravel,15.0
+371,Steel,0.45
+371,Asphalt,12.0
+371,Concrete,20.0
+371,Prefab panels,4.5
+372,Workdays,229.0
+372,Gravel,5.6
+372,Steel,1.9
+372,Asphalt,4.5
+372,Concrete,7.2
+372,Bricks,11.0
+372,Boards,4.6
+373,Workdays,366.0
+373,Gravel,8.8
+373,Steel,6.5
+373,Asphalt,7.0
+373,Concrete,11.0
+373,Prefab panels,29.0
+374,Workdays,406.0
+374,Gravel,10.0
+374,Steel,6.9
+374,Asphalt,8.4
+374,Concrete,13.0
+374,Prefab panels,31.0
+375,Workdays,376.0
+375,Gravel,7.8
+375,Steel,7.2
+375,Asphalt,6.2
+375,Concrete,10.0
+375,Prefab panels,32.0
+376,Workdays,322.0
+376,Gravel,7.1
+376,Steel,7.0
+376,Asphalt,5.7
+376,Concrete,9.2
+376,Prefab panels,25.0
+377,Workdays,139.0
+377,Gravel,4.2
+377,Steel,0.79
+377,Asphalt,3.4
+377,Concrete,5.5
+377,Bricks,6.3
+377,Boards,2.1
+378,Workdays,131.0
+378,Gravel,4.1
+378,Steel,0.72
+378,Asphalt,3.3
+378,Concrete,5.4
+378,Bricks,5.8
+378,Boards,1.9
+379,Workdays,340.0
+379,Gravel,2.1
+379,Steel,2.5
+379,Asphalt,1.6
+379,Concrete,2.7
+379,Bricks,0.31
+379,Boards,16.0
+380,Workdays,380.0
+380,Gravel,2.1
+380,Steel,2.8
+380,Asphalt,1.7
+380,Concrete,2.7
+380,Bricks,0.31
+380,Boards,18.0
+381,Workdays,266.0
+381,Gravel,1.5
+381,Steel,2.1
+381,Asphalt,1.2
+381,Concrete,2.0
+381,Bricks,0.23
+381,Boards,11.0
+382,Workdays,270.0
+382,Gravel,1.5
+382,Steel,2.1
+382,Asphalt,1.2
+382,Concrete,2.0
+382,Bricks,0.23
+382,Boards,12.0
+383,Workdays,249.0
+383,Gravel,4.0
+383,Steel,0.4
+383,Concrete,42.0
+383,Bricks,0.04
+383,Boards,5.2
+384,Workdays,427.0
+384,Gravel,5.0
+384,Steel,1.0
+384,Concrete,54.0
+384,Prefab panels,25.0
+384,Bricks,0.1
+384,Boards,11.0
+385,Workdays,325.0
+385,Gravel,6.3
+385,Steel,3.7
+385,Asphalt,5.0
+385,Concrete,8.2
+385,Bricks,15.0
+385,Boards,8.1
+386,Workdays,194.0
+386,Gravel,2.8
+386,Steel,2.1
+386,Asphalt,2.2
+386,Concrete,3.6
+386,Bricks,10.0
+386,Boards,4.9
+387,Workdays,305.0
+387,Gravel,5.9
+387,Steel,3.5
+387,Asphalt,4.7
+387,Concrete,7.7
+387,Bricks,14.0
+387,Boards,7.6
+388,Workdays,329.0
+388,Gravel,4.5
+388,Steel,3.7
+388,Asphalt,3.6
+388,Concrete,5.8
+388,Bricks,19.0
+388,Boards,8.5
+389,Workdays,273.0
+389,Gravel,7.2
+389,Steel,2.5
+389,Asphalt,5.8
+389,Concrete,9.4
+389,Prefab panels,25.0
+390,Workdays,417.0
+390,Gravel,3.3
+390,Steel,3.0
+390,Asphalt,2.6
+390,Concrete,4.3
+390,Prefab panels,30.0
+390,Bricks,0.42
+390,Boards,18.0
+391,Workdays,637.0
+391,Gravel,10.0
+391,Steel,7.5
+391,Asphalt,8.4
+391,Concrete,13.0
+391,Prefab panels,10.0
+391,Bricks,28.0
+391,Boards,14.0
+392,Workdays,471.0
+392,Gravel,10.0
+392,Steel,8.0
+392,Asphalt,8.8
+392,Concrete,14.0
+392,Prefab panels,39.0
+393,Workdays,619.0
+393,Gravel,16.0
+393,Steel,10.0
+393,Asphalt,13.0
+393,Concrete,21.0
+393,Prefab panels,47.0
+394,Workdays,531.0
+394,Gravel,13.0
+394,Steel,10.0
+394,Asphalt,10.0
+394,Concrete,17.0
+394,Prefab panels,39.0
+395,Workdays,644.0
+395,Gravel,16.0
+395,Steel,12.0
+395,Asphalt,13.0
+395,Concrete,21.0
+395,Prefab panels,47.0
+396,Workdays,540.0
+396,Gravel,2.5
+396,Steel,4.6
+396,Asphalt,2.0
+396,Concrete,3.3
+396,Prefab panels,39.0
+396,Bricks,0.37
+396,Boards,24.0
+396,Mechanical components,0.14
+397,Workdays,364.0
+397,Gravel,5.8
+397,Steel,0.58
+397,Concrete,62.0
+397,Prefab panels,17.0
+397,Bricks,0.068
+397,Boards,7.8
+398,Workdays,190.0
+398,Gravel,7.1
+398,Steel,1.4
+398,Concrete,77.0
+398,Prefab panels,35.0
+398,Bricks,0.1
+398,Boards,15.0
+399,Workdays,559.0
+399,Gravel,4.2
+399,Steel,1.6
+399,Concrete,49.0
+399,Electro components,0.042
+399,Prefab panels,37.0
+399,Bricks,0.13
+399,Boards,16.0
+399,Mechanical components,0.063
+400,Workdays,486.0
+400,Gravel,3.8
+400,Steel,1.4
+400,Concrete,42.0
+400,Electro components,0.038
+400,Prefab panels,33.0
+400,Bricks,0.13
+400,Boards,14.0
+400,Mechanical components,0.063
+401,Workdays,331.0
+401,Gravel,5.0
+401,Steel,3.9
+401,Asphalt,4.0
+401,Concrete,6.5
+401,Prefab panels,5.4
+401,Bricks,15.0
+401,Boards,7.5
+402,Workdays,466.0
+402,Gravel,7.5
+402,Steel,5.5
+402,Asphalt,6.0
+402,Concrete,9.7
+402,Prefab panels,7.4
+402,Bricks,20.0
+402,Boards,10.0
+403,Workdays,680.0
+403,Gravel,5.3
+403,Steel,4.8
+403,Asphalt,4.2
+403,Concrete,6.9
+403,Prefab panels,48.0
+403,Bricks,0.8
+403,Boards,31.0
+404,Workdays,914.0
+404,Gravel,5.2
+404,Steel,7.6
+404,Asphalt,4.2
+404,Concrete,6.8
+404,Prefab panels,61.0
+404,Bricks,0.77
+404,Boards,43.0
+404,Mechanical components,0.29
+405,Workdays,562.0
+405,Gravel,2.7
+405,Steel,4.7
+405,Asphalt,2.1
+405,Concrete,3.5
+405,Prefab panels,39.0
+405,Bricks,0.63
+405,Boards,26.0
+405,Mechanical components,0.15
+406,Workdays,593.0
+406,Gravel,4.4
+406,Steel,4.2
+406,Asphalt,3.6
+406,Concrete,5.8
+406,Prefab panels,42.0
+406,Bricks,0.67
+406,Boards,27.0
+407,Workdays,434.0
+407,Gravel,3.0
+407,Steel,3.1
+407,Asphalt,2.4
+407,Concrete,3.9
+407,Prefab panels,31.0
+407,Bricks,0.45
+407,Boards,20.0
+408,Workdays,537.0
+408,Gravel,2.5
+408,Steel,4.6
+408,Asphalt,2.0
+408,Concrete,3.3
+408,Prefab panels,39.0
+408,Bricks,0.37
+408,Boards,24.0
+408,Mechanical components,0.14
+409,Workdays,775.0
+409,Gravel,2.8
+409,Steel,6.8
+409,Asphalt,2.2
+409,Concrete,3.6
+409,Prefab panels,59.0
+409,Bricks,0.5
+409,Boards,35.0
+409,Mechanical components,0.2
+410,Workdays,435.0
+410,Gravel,6.2
+410,Steel,4.8
+410,Asphalt,4.9
+410,Concrete,8.0
+410,Bricks,25.0
+410,Boards,11.0
+411,Workdays,1203.0
+411,Gravel,22.0
+411,Steel,13.0
+411,Asphalt,17.0
+411,Concrete,28.0
+411,Bricks,60.0
+411,Boards,29.0
+412,Workdays,512.0
+412,Gravel,15.0
+412,Steel,4.4
+412,Asphalt,12.0
+412,Concrete,19.0
+412,Prefab panels,43.0
+413,Workdays,801.0
+413,Gravel,16.0
+413,Steel,8.4
+413,Asphalt,13.0
+413,Concrete,21.0
+413,Prefab panels,84.0
+414,Workdays,660.0
+414,Gravel,10.0
+414,Steel,7.7
+414,Asphalt,8.5
+414,Concrete,13.0
+414,Prefab panels,76.0
+415,Workdays,509.0
+415,Gravel,2.2
+415,Steel,4.3
+415,Asphalt,1.8
+415,Concrete,2.9
+415,Prefab panels,36.0
+415,Bricks,0.32
+415,Boards,24.0
+415,Mechanical components,0.14
+416,Workdays,474.0
+416,Gravel,3.0
+416,Steel,3.5
+416,Asphalt,2.4
+416,Concrete,3.9
+416,Prefab panels,34.0
+416,Bricks,0.45
+416,Boards,22.0
+417,Workdays,1112.0
+417,Gravel,13.0
+417,Steel,12.0
+417,Asphalt,10.0
+417,Concrete,17.0
+417,Prefab panels,20.0
+417,Bricks,56.0
+417,Boards,25.0
+418,Workdays,903.0
+418,Gravel,23.0
+418,Steel,14.0
+418,Asphalt,18.0
+418,Concrete,30.0
+418,Prefab panels,72.0
+419,Workdays,879.0
+419,Gravel,13.0
+419,Steel,17.0
+419,Asphalt,10.0
+419,Concrete,17.0
+419,Prefab panels,88.0
+420,Workdays,725.0
+420,Gravel,8.4
+420,Steel,17.0
+420,Asphalt,6.7
+420,Concrete,10.0
+420,Prefab panels,74.0
+421,Workdays,964.0
+421,Gravel,16.0
+421,Steel,22.0
+421,Asphalt,13.0
+421,Concrete,21.0
+421,Prefab panels,85.0
+422,Workdays,897.0
+422,Gravel,12.0
+422,Steel,20.0
+422,Asphalt,9.7
+422,Concrete,15.0
+422,Prefab panels,89.0
+423,Workdays,1036.0
+423,Gravel,8.6
+423,Steel,8.4
+423,Asphalt,6.9
+423,Concrete,11.0
+423,Prefab panels,69.0
+423,Bricks,1.1
+423,Boards,45.0
+423,Mechanical components,0.32
+424,Workdays,2191.0
+424,Gravel,24.0
+424,Steel,15.0
+424,Asphalt,19.0
+424,Concrete,31.0
+424,Prefab panels,128.0
+424,Bricks,4.2
+424,Boards,100.0
+424,Mechanical components,0.62
+425,Workdays,1394.0
+425,Gravel,10.0
+425,Steel,3.8
+425,Concrete,122.0
+425,Electro components,0.15
+425,Prefab panels,95.0
+425,Bricks,0.3
+425,Boards,42.0
+425,Mechanical components,0.22
+426,Workdays,1653.0
+426,Gravel,12.0
+426,Steel,4.6
+426,Concrete,145.0
+426,Electro components,0.22
+426,Prefab panels,112.0
+426,Bricks,0.35
+426,Boards,50.0
+426,Mechanical components,0.33
+427,Workdays,1062.0
+427,Gravel,5.4
+427,Steel,3.4
+427,Concrete,66.0
+427,Electro components,0.1
+427,Prefab panels,78.0
+427,Bricks,0.3
+427,Boards,34.0
+427,Mechanical components,0.15
+428,Workdays,2032.0
+428,Gravel,15.0
+428,Steel,5.4
+428,Concrete,178.0
+428,Electro components,0.23
+428,Prefab panels,138.0
+428,Bricks,0.47
+428,Boards,61.0
+428,Mechanical components,0.35
+429,Workdays,923.0
+429,Gravel,15.0
+429,Steel,10.0
+429,Asphalt,12.0
+429,Concrete,20.0
+429,Prefab panels,14.0
+429,Bricks,39.0
+429,Boards,20.0
+430,Workdays,721.0
+430,Gravel,8.3
+430,Steel,8.4
+430,Asphalt,6.7
+430,Concrete,10.0
+430,Prefab panels,13.0
+430,Bricks,37.0
+430,Boards,16.0
+431,Workdays,916.0
+431,Gravel,11.0
+431,Steel,10.0
+431,Asphalt,8.8
+431,Concrete,14.0
+431,Prefab panels,16.0
+431,Bricks,47.0
+431,Boards,20.0
+432,Workdays,1385.0
+432,Gravel,20.0
+432,Steel,14.0
+432,Asphalt,16.0
+432,Concrete,27.0
+432,Bricks,80.0
+432,Boards,34.0
+433,Workdays,1140.0
+433,Gravel,25.0
+433,Steel,11.0
+433,Asphalt,20.0
+433,Concrete,33.0
+433,Prefab panels,115.0
+434,Workdays,1253.0
+434,Gravel,28.0
+434,Steel,12.0
+434,Asphalt,22.0
+434,Concrete,36.0
+434,Prefab panels,127.0
+435,Workdays,1167.0
+435,Gravel,20.0
+435,Steel,13.0
+435,Asphalt,16.0
+435,Concrete,26.0
+435,Prefab panels,132.0
+436,Workdays,1720.0
+436,Gravel,28.0
+436,Steel,19.0
+436,Asphalt,22.0
+436,Concrete,36.0
+436,Prefab panels,199.0
+437,Workdays,1035.0
+437,Gravel,8.8
+437,Steel,8.2
+437,Asphalt,7.0
+437,Concrete,11.0
+437,Prefab panels,67.0
+437,Bricks,0.64
+437,Boards,46.0
+437,Mechanical components,0.31
+438,Workdays,2139.0
+438,Gravel,23.0
+438,Steel,14.0
+438,Asphalt,18.0
+438,Concrete,30.0
+438,Prefab panels,119.0
+438,Bricks,3.9
+438,Boards,102.0
+438,Mechanical components,0.59
+439,Workdays,1585.0
+439,Gravel,11.0
+439,Steel,11.0
+439,Asphalt,9.5
+439,Concrete,15.0
+439,Prefab panels,93.0
+439,Bricks,1.8
+439,Boards,81.0
+439,Mechanical components,0.44
+440,Workdays,1104.0
+440,Gravel,8.6
+440,Steel,8.4
+440,Asphalt,6.9
+440,Concrete,11.0
+440,Prefab panels,69.0
+440,Bricks,1.3
+440,Boards,53.0
+440,Mechanical components,0.31
+441,Workdays,323.0
+441,Gravel,9.4
+441,Steel,3.0
+441,Asphalt,7.5
+441,Concrete,18.0
+441,Bricks,13.0
+441,Boards,4.4
+442,Workdays,19.0
+442,Gravel,0.36
+442,Steel,1.0
+442,Asphalt,0.29
+442,Concrete,0.47
+443,Workdays,3119.0
+443,Gravel,61.0
+443,Steel,87.0
+443,Asphalt,49.0
+443,Concrete,437.0
+443,Bricks,48.0
+443,Boards,16.0
+444,Workdays,581.0
+444,Gravel,15.0
+444,Steel,12.0
+444,Asphalt,12.0
+444,Concrete,67.0
+444,Bricks,11.0
+444,Boards,3.7
+445,Workdays,831.0
+445,Gravel,23.0
+445,Steel,5.2
+445,Asphalt,18.0
+445,Concrete,30.0
+445,Bricks,41.0
+445,Boards,13.0
+446,Workdays,931.0
+446,Gravel,24.0
+446,Steel,6.1
+446,Asphalt,19.0
+446,Concrete,31.0
+446,Bricks,48.0
+446,Boards,16.0
+447,Workdays,322.0
+447,Gravel,9.3
+447,Steel,3.0
+447,Asphalt,7.5
+447,Concrete,18.0
+447,Bricks,13.0
+447,Boards,4.4
+448,Workdays,2254.0
+448,Gravel,37.0
+448,Steel,27.0
+448,Asphalt,29.0
+448,Concrete,48.0
+448,Prefab panels,255.0
+449,Workdays,995.0
+449,Gravel,36.0
+449,Steel,4.8
+449,Asphalt,29.0
+449,Concrete,47.0
+449,Bricks,38.0
+449,Boards,12.0
+450,Workdays,151.0
+450,Gravel,5.1
+450,Steel,4.3
+450,Asphalt,4.1
+450,Concrete,6.6
+450,Bricks,2.4
+450,Boards,0.8
+451,Workdays,28.0
+451,Gravel,0.68
+451,Steel,1.5
+451,Asphalt,0.55
+451,Concrete,0.89
+452,Workdays,1154.0
+452,Gravel,34.0
+452,Steel,31.0
+452,Asphalt,27.0
+452,Concrete,184.0
+453,Workdays,439.0
+453,Gravel,24.0
+453,Steel,3.1
+453,Concrete,46.0
+454,Workdays,383.0
+454,Gravel,9.8
+454,Steel,2.5
+454,Asphalt,7.9
+454,Concrete,12.0
+454,Bricks,20.0
+454,Boards,6.7
+455,Workdays,4947.0
+455,Gravel,119.0
+455,Steel,133.0
+455,Concrete,433.0
+455,Prefab panels,202.0
+456,Workdays,1602.0
+456,Gravel,30.0
+456,Steel,66.0
+456,Asphalt,24.0
+456,Concrete,239.0
+457,Workdays,2087.0
+457,Gravel,10.0
+457,Steel,126.0
+457,Asphalt,8.4
+457,Concrete,266.0
+458,Workdays,730.0
+458,Gravel,4.3
+458,Steel,33.0
+458,Asphalt,3.4
+458,Concrete,145.0
+459,Workdays,1850.0
+459,Gravel,61.0
+459,Steel,45.0
+459,Asphalt,49.0
+459,Concrete,282.0
+460,Workdays,841.0
+460,Gravel,11.0
+460,Steel,10.0
+460,Asphalt,9.3
+460,Concrete,23.0
+460,Prefab panels,82.0
+460,Bricks,2.1
+460,Boards,10.0
+461,Workdays,14164.0
+461,Gravel,328.0
+461,Steel,431.0
+461,Asphalt,262.0
+461,Concrete,1024.0
+461,Electro components,0.54
+461,Prefab panels,307.0
+461,Bricks,102.0
+462,Workdays,11916.0
+462,Gravel,232.0
+462,Steel,396.0
+462,Asphalt,185.0
+462,Concrete,850.0
+462,Bricks,279.0
+462,Boards,93.0
+463,Workdays,133.0
+463,Gravel,8.8
+463,Concrete,11.0
+464,Workdays,36.0
+464,Gravel,2.4
+464,Concrete,3.1
+465,Workdays,2830.0
+465,Gravel,149.0
+465,Steel,29.0
+465,Concrete,323.0
+466,Workdays,520.0
+466,Gravel,25.0
+466,Steel,5.0
+466,Asphalt,20.0
+466,Concrete,53.0
+466,Bricks,3.6
+466,Boards,1.2
+467,Workdays,53.0
+467,Gravel,3.5
+467,Asphalt,2.8
+467,Concrete,4.6
+468,Workdays,130.0
+468,Gravel,8.7
+468,Asphalt,6.9
+468,Concrete,11.0
+469,Workdays,71.0
+469,Gravel,4.7
+469,Concrete,6.1
+470,Workdays,56.0
+470,Gravel,3.7
+470,Concrete,4.8
+471,Workdays,284.0
+471,Gravel,5.7
+471,Steel,7.3
+471,Asphalt,4.6
+471,Concrete,39.0
+471,Boards,5.8
+472,Workdays,718.0
+472,Gravel,14.0
+472,Steel,8.5
+472,Asphalt,11.0
+472,Concrete,31.0
+472,Bricks,37.0
+472,Boards,12.0
+473,Workdays,1921.0
+473,Gravel,45.0
+473,Steel,25.0
+473,Asphalt,36.0
+473,Concrete,130.0
+473,Bricks,77.0
+473,Boards,25.0
+474,Workdays,3589.0
+474,Gravel,91.0
+474,Steel,43.0
+474,Asphalt,73.0
+474,Concrete,119.0
+474,Bricks,120.0
+474,Boards,87.0
+475,Workdays,1004.0
+475,Gravel,17.0
+475,Steel,43.0
+475,Asphalt,14.0
+475,Concrete,54.0
+475,Bricks,17.0
+475,Boards,5.8
+476,Workdays,8831.0
+476,Gravel,159.0
+476,Steel,469.0
+476,Asphalt,127.0
+476,Concrete,787.0
+477,Workdays,367.0
+477,Gravel,7.9
+477,Steel,4.3
+477,Asphalt,6.3
+477,Concrete,10.0
+477,Bricks,15.0
+477,Boards,9.0
+478,Workdays,471.0
+478,Gravel,6.5
+478,Steel,6.0
+478,Asphalt,5.2
+478,Concrete,8.4
+478,Bricks,24.0
+478,Boards,13.0
+479,Workdays,967.0
+479,Gravel,17.0
+479,Steel,15.0
+479,Asphalt,13.0
+479,Concrete,22.0
+479,Bricks,52.0
+479,Boards,17.0
+480,Workdays,2372.0
+480,Gravel,51.0
+480,Steel,27.0
+480,Asphalt,41.0
+480,Concrete,67.0
+480,Bricks,99.0
+480,Boards,58.0
+481,Workdays,394.0
+481,Gravel,9.9
+481,Steel,2.8
+481,Asphalt,8.0
+481,Concrete,12.0
+481,Bricks,20.0
+481,Boards,7.2
+482,Workdays,511.0
+482,Gravel,19.0
+482,Steel,6.6
+482,Asphalt,15.0
+482,Concrete,25.0
+482,Prefab panels,26.0
+483,Workdays,917.0
+483,Gravel,37.0
+483,Steel,10.0
+483,Asphalt,30.0
+483,Concrete,49.0
+483,Prefab panels,42.0
+484,Workdays,490.0
+484,Gravel,13.0
+484,Steel,8.5
+484,Asphalt,11.0
+484,Concrete,17.0
+484,Prefab panels,34.0
+485,Workdays,975.0
+485,Gravel,26.0
+485,Steel,19.0
+485,Asphalt,21.0
+485,Concrete,34.0
+485,Prefab panels,65.0
+486,Workdays,1982.0
+486,Gravel,68.0
+486,Steel,26.0
+486,Asphalt,54.0
+486,Concrete,89.0
+486,Prefab panels,121.0
+487,Workdays,321.0
+487,Gravel,10.0
+487,Steel,1.7
+487,Asphalt,8.6
+487,Concrete,13.0
+487,Bricks,13.0
+487,Boards,4.5
+488,Workdays,1849.0
+488,Gravel,36.0
+488,Steel,13.0
+488,Asphalt,29.0
+488,Concrete,47.0
+488,Bricks,111.0
+488,Boards,37.0
+489,Workdays,703.0
+489,Gravel,19.0
+489,Steel,5.4
+489,Asphalt,15.0
+489,Concrete,24.0
+489,Bricks,32.0
+489,Boards,13.0
+490,Workdays,7390.0
+490,Gravel,163.0
+490,Steel,217.0
+490,Asphalt,130.0
+490,Concrete,541.0
+490,Bricks,179.0
+490,Boards,59.0
+491,Workdays,5188.0
+491,Gravel,109.0
+491,Steel,159.0
+491,Asphalt,87.0
+491,Concrete,469.0
+491,Bricks,107.0
+491,Boards,35.0
+492,Workdays,1973.0
+492,Gravel,34.0
+492,Steel,15.0
+492,Asphalt,27.0
+492,Concrete,44.0
+492,Bricks,124.0
+492,Boards,41.0
+493,Workdays,7067.0
+493,Gravel,165.0
+493,Steel,201.0
+493,Asphalt,132.0
+493,Concrete,520.0
+493,Bricks,166.0
+493,Boards,55.0
+494,Workdays,1547.0
+494,Gravel,18.0
+494,Steel,17.0
+494,Asphalt,14.0
+494,Concrete,23.0
+494,Prefab panels,34.0
+494,Bricks,78.0
+494,Boards,33.0
+495,Workdays,1129.0
+495,Gravel,18.0
+495,Steel,9.1
+495,Asphalt,14.0
+495,Concrete,24.0
+495,Bricks,72.0
+495,Boards,24.0
+496,Workdays,1242.0
+496,Gravel,18.0
+496,Steel,10.0
+496,Asphalt,14.0
+496,Concrete,24.0
+496,Bricks,82.0
+496,Boards,72.0
+497,Workdays,1050.0
+497,Gravel,18.0
+497,Steel,38.0
+497,Asphalt,15.0
+497,Concrete,192.0
+498,Workdays,487.0
+498,Gravel,11.0
+498,Steel,3.4
+498,Asphalt,9.2
+498,Concrete,14.0
+498,Bricks,26.0
+498,Boards,9.0
+499,Workdays,1186.0
+499,Gravel,79.0
+499,Steel,29.0
+499,Asphalt,63.0
+499,Concrete,102.0
+499,Prefab panels,290.0
+500,Workdays,704.0
+500,Gravel,21.0
+500,Steel,19.0
+500,Asphalt,17.0
+500,Concrete,111.0
+501,Workdays,6340.0
+501,Gravel,96.0
+501,Steel,52.0
+501,Asphalt,77.0
+501,Concrete,125.0
+501,Bricks,419.0
+501,Boards,139.0
+502,Workdays,1062.0
+502,Gravel,28.0
+502,Steel,12.0
+502,Asphalt,23.0
+502,Concrete,37.0
+502,Bricks,33.0
+502,Boards,25.0
+503,Workdays,2625.0
+503,Gravel,44.0
+503,Steel,21.0
+503,Asphalt,35.0
+503,Concrete,57.0
+503,Bricks,168.0
+503,Boards,56.0
+504,Workdays,807.0
+504,Gravel,12.0
+504,Steel,9.1
+504,Asphalt,9.6
+504,Concrete,15.0
+504,Bricks,45.0
+504,Boards,20.0
+505,Workdays,1122.0
+505,Gravel,23.0
+505,Steel,27.0
+505,Asphalt,18.0
+505,Concrete,136.0
+505,Bricks,24.0
+505,Boards,8.3
+506,Workdays,29.0
+506,Gravel,0.35
+506,Steel,0.78
+506,Asphalt,0.28
+506,Concrete,0.45
+506,Electro components,0.16
+507,Workdays,632.0
+507,Gravel,19.0
+507,Steel,5.1
+507,Asphalt,15.0
+507,Concrete,25.0
+507,Prefab panels,50.0
+508,Workdays,500.0
+508,Gravel,6.2
+508,Steel,5.6
+508,Asphalt,5.0
+508,Concrete,8.1
+508,Bricks,30.0
+508,Boards,13.0
+509,Workdays,898.0
+509,Gravel,39.0
+509,Steel,3.3
+509,Asphalt,31.0
+509,Concrete,50.0
+509,Prefab panels,32.0
+509,Bricks,2.2
+509,Boards,11.0
+510,Workdays,1114.0
+510,Gravel,13.0
+510,Steel,11.0
+510,Asphalt,10.0
+510,Concrete,17.0
+510,Prefab panels,21.0
+510,Bricks,61.0
+510,Boards,23.0
+511,Workdays,1573.0
+511,Gravel,30.0
+511,Steel,17.0
+511,Asphalt,24.0
+511,Concrete,39.0
+511,Prefab panels,172.0
+512,Workdays,1518.0
+512,Gravel,23.0
+512,Steel,15.0
+512,Asphalt,19.0
+512,Concrete,30.0
+512,Prefab panels,27.0
+512,Bricks,76.0
+512,Boards,30.0
+513,Workdays,57.0
+513,Gravel,0.78
+513,Steel,1.6
+513,Asphalt,0.63
+513,Concrete,1.0
+513,Mechanical components,0.32
+514,Workdays,170.0
+514,Gravel,8.1
+514,Steel,1.7
+514,Asphalt,6.5
+514,Concrete,10.0
+514,Mechanical components,0.35
+515,Workdays,713.0
+515,Gravel,5.5
+515,Steel,42.0
+515,Asphalt,3.2
+515,Concrete,7.2
+515,Electro components,0.3
+515,Mechanical components,1.5
+516,Workdays,65.0
+516,Gravel,2.2
+516,Steel,1.1
+516,Asphalt,1.8
+516,Concrete,2.9
+516,Mechanical components,0.22
+517,Workdays,172.0
+517,Gravel,6.7
+517,Steel,3.2
+517,Asphalt,5.3
+517,Concrete,8.7
+517,Prefab panels,3.5
+517,Boards,1.8
+518,Workdays,1297.0
+518,Gravel,25.0
+518,Steel,42.0
+518,Asphalt,9.6
+518,Concrete,124.0
+518,Bricks,24.0
+518,Boards,8.1
+519,Workdays,714.0
+519,Gravel,15.0
+519,Steel,8.3
+519,Asphalt,12.0
+519,Concrete,20.0
+519,Bricks,29.0
+519,Boards,17.0
+520,Workdays,1042.0
+520,Gravel,21.0
+520,Steel,31.0
+520,Asphalt,7.9
+520,Concrete,75.0
+520,Bricks,26.0
+520,Boards,8.8
+521,Workdays,1723.0
+521,Gravel,12.0
+521,Steel,75.0
+521,Asphalt,4.7
+521,Concrete,181.0
+521,Bricks,34.0
+521,Boards,11.0
+522,Workdays,685.0
+522,Gravel,26.0
+522,Steel,18.0
+522,Concrete,75.0
+523,Workdays,101.0
+523,Gravel,3.2
+523,Steel,4.6
+523,Asphalt,2.6
+523,Concrete,4.1
+524,Workdays,29.0
+524,Gravel,0.83
+524,Steel,1.4
+524,Asphalt,0.67
+524,Concrete,1.1
+525,Workdays,27.0
+525,Gravel,0.83
+525,Steel,1.2
+525,Asphalt,0.66
+525,Concrete,1.1
+526,Workdays,91.0
+526,Gravel,4.2
+526,Steel,2.3
+526,Asphalt,3.4
+526,Concrete,5.5
+527,Workdays,112.0
+527,Gravel,3.2
+527,Steel,5.6
+527,Asphalt,2.6
+527,Concrete,4.2
+528,Workdays,88.0
+528,Gravel,3.2
+528,Steel,3.5
+528,Asphalt,2.5
+528,Concrete,4.1
+529,Workdays,102.0
+529,Gravel,4.4
+529,Steel,1.7
+530,Workdays,233.0
+530,Gravel,12.0
+530,Steel,2.1
+530,Asphalt,10.0
+530,Concrete,25.0
+531,Workdays,560.0
+531,Gravel,24.0
+531,Steel,9.5
+531,Asphalt,19.0
+531,Concrete,73.0
+532,Workdays,147.0
+532,Gravel,0.82
+532,Steel,10.0
+532,Asphalt,0.66
+532,Concrete,7.4
+533,Workdays,110.0
+533,Gravel,1.6
+533,Steel,4.9
+533,Asphalt,1.3
+533,Concrete,16.0
+534,Workdays,66.0
+534,Gravel,3.8
+534,Steel,0.61
+534,Concrete,5.0
+535,Workdays,113.0
+535,Gravel,6.8
+535,Steel,0.84
+535,Concrete,8.8
+536,Workdays,193.0
+536,Gravel,11.0
+536,Steel,1.2
+536,Concrete,15.0
+537,Workdays,248.0
+537,Gravel,3.7
+537,Steel,11.0
+537,Asphalt,2.9
+537,Concrete,38.0
+538,Workdays,82.0
+538,Gravel,1.2
+538,Steel,3.6
+538,Asphalt,0.98
+538,Concrete,12.0
+539,Workdays,308.0
+539,Gravel,5.0
+539,Steel,11.0
+539,Asphalt,4.0
+539,Concrete,57.0
+540,Workdays,421.0
+540,Gravel,4.8
+540,Steel,19.0
+540,Asphalt,3.8
+540,Concrete,68.0
+541,Workdays,232.0
+541,Gravel,1.9
+541,Steel,10.0
+541,Asphalt,1.5
+541,Concrete,46.0
+542,Workdays,2.0
+542,Boards,0.38
+543,Workdays,2.0
+543,Steel,0.38
+544,Workdays,2.0
+544,Steel,0.56
+545,Workdays,2.0
+545,Steel,0.9
+546,Workdays,3.0
+546,Prefab panels,0.75
+547,Workdays,4.0
+547,Prefab panels,0.9
+548,Workdays,4.0
+548,Bricks,1.6
+549,Workdays,2.0
+549,Steel,0.15
+550,Workdays,4.0
+550,Concrete,1.4
+551,Workdays,3.0
+551,Prefab panels,0.75
+552,Workdays,9.0
+552,Gravel,0.23
+552,Steel,0.32
+552,Asphalt,0.19
+552,Concrete,0.3
+553,Workdays,6.0
+553,Gravel,0.17
+553,Steel,0.2
+553,Asphalt,0.14
+553,Concrete,0.22
+554,Workdays,6.0
+554,Gravel,0.18
+554,Steel,0.19
+554,Asphalt,0.14
+554,Concrete,0.23
+555,Workdays,28.0
+555,Gravel,1.1
+555,Steel,0.88
+555,Asphalt,0.9
+555,Concrete,1.5
+556,Workdays,71.0
+556,Gravel,1.5
+556,Steel,2.1
+556,Concrete,9.1
+556,Bricks,0.69
+556,Boards,0.23
+557,Workdays,75.0
+557,Gravel,0.29
+557,Steel,4.4
+557,Asphalt,0.23
+557,Concrete,9.0
+558,Workdays,12.0
+558,Gravel,0.29
+558,Steel,0.51
+558,Asphalt,0.23
+558,Concrete,0.38
+559,Workdays,646.0
+559,Gravel,10.0
+559,Steel,28.0
+559,Asphalt,8.1
+559,Concrete,13.0
+559,Bricks,10.0
+559,Boards,3.4
+559,Mechanical components,0.81
+560,Workdays,1143.0
+560,Gravel,29.0
+560,Steel,39.0
+560,Asphalt,23.0
+560,Concrete,37.0
+560,Bricks,13.0
+560,Boards,4.5
+560,Mechanical components,1.5
+561,Workdays,2579.0
+561,Gravel,90.0
+561,Steel,61.0
+561,Asphalt,72.0
+561,Concrete,117.0
+561,Bricks,32.0
+561,Boards,10.0
+561,Mechanical components,2.4
+562,Workdays,950.0
+562,Gravel,12.0
+562,Steel,42.0
+562,Asphalt,10.0
+562,Concrete,16.0
+562,Mechanical components,3.4
+563,Workdays,535.0
+563,Gravel,11.0
+563,Steel,28.0
+563,Asphalt,9.5
+563,Concrete,15.0
+563,Mechanical components,0.35
+564,Workdays,2428.0
+564,Gravel,35.0
+564,Steel,40.0
+564,Asphalt,28.0
+564,Concrete,46.0
+564,Bricks,139.0
+564,Boards,46.0
+565,Workdays,1544.0
+565,Gravel,19.0
+565,Steel,26.0
+565,Asphalt,15.0
+565,Concrete,25.0
+565,Bricks,91.0
+565,Boards,30.0
+566,Workdays,1997.0
+566,Gravel,30.0
+566,Steel,41.0
+566,Asphalt,24.0
+566,Concrete,39.0
+566,Bricks,101.0
+566,Boards,33.0
+567,Workdays,491.0
+567,Gravel,8.7
+567,Steel,13.0
+567,Asphalt,7.0
+567,Concrete,11.0
+567,Bricks,19.0
+567,Boards,6.3
+568,Workdays,1448.0
+568,Gravel,26.0
+568,Steel,28.0
+568,Asphalt,21.0
+568,Concrete,34.0
+568,Prefab panels,71.0
+568,Bricks,28.0
+568,Boards,9.5
+569,Workdays,219.0
+569,Gravel,6.5
+569,Steel,1.5
+569,Asphalt,5.2
+569,Concrete,8.5
+569,Boards,10.0
+570,Workdays,924.0
+570,Gravel,20.0
+570,Steel,6.6
+570,Asphalt,18.0
+570,Concrete,26.0
+570,Bricks,53.0
+570,Boards,17.0
+571,Workdays,1718.0
+571,Gravel,34.0
+571,Steel,16.0
+571,Asphalt,27.0
+571,Concrete,62.0
+571,Bricks,94.0
+571,Boards,31.0
+571,Mechanical components,0.062
+572,Workdays,1730.0
+572,Gravel,44.0
+572,Steel,40.0
+572,Asphalt,35.0
+572,Concrete,224.0
+572,Bricks,25.0
+572,Boards,8.6
+573,Workdays,81.0
+573,Gravel,1.0
+573,Steel,0.88
+573,Asphalt,0.82
+573,Concrete,1.3
+573,Bricks,4.8
+573,Boards,2.1
+574,Workdays,399.0
+574,Gravel,7.6
+574,Steel,11.0
+574,Asphalt,6.1
+574,Concrete,9.9
+574,Bricks,14.0
+574,Boards,4.9
+575,Workdays,1197.0
+575,Gravel,12.0
+575,Steel,44.0
+575,Asphalt,10.0
+575,Concrete,109.0
+575,Mechanical components,3.9
+576,Workdays,375.0
+576,Gravel,2.1
+576,Steel,12.0
+576,Asphalt,1.7
+576,Concrete,2.8
+576,Mechanical components,2.5
+577,Workdays,9054.0
+577,Gravel,262.0
+577,Steel,233.0
+577,Asphalt,209.0
+577,Concrete,1137.0
+577,Mechanical components,11.0
+578,Workdays,5479.0
+578,Gravel,69.0
+578,Steel,248.0
+578,Asphalt,55.0
+578,Concrete,738.0
+578,Mechanical components,4.2
+579,Workdays,1439.0
+579,Gravel,18.0
+579,Steel,29.0
+579,Asphalt,14.0
+579,Concrete,24.0
+579,Bricks,60.0
+579,Boards,20.0
+579,Mechanical components,2.4
+580,Workdays,3236.0
+580,Gravel,25.0
+580,Steel,55.0
+580,Asphalt,20.0
+580,Concrete,33.0
+580,Bricks,158.0
+580,Boards,52.0
+580,Mechanical components,7.3
+581,Workdays,1441.0
+581,Gravel,19.0
+581,Steel,40.0
+581,Asphalt,15.0
+581,Concrete,25.0
+581,Mechanical components,8.4
+582,Workdays,2726.0
+582,Gravel,37.0
+582,Steel,30.0
+582,Asphalt,30.0
+582,Concrete,49.0
+582,Bricks,157.0
+582,Boards,70.0
+583,Workdays,226.0
+583,Gravel,3.0
+583,Steel,6.3
+583,Asphalt,2.4
+583,Concrete,3.9
+583,Mechanical components,1.3
+584,Workdays,11078.0
+584,Gravel,168.0
+584,Steel,301.0
+584,Asphalt,134.0
+584,Concrete,219.0
+584,Mechanical components,62.0
+585,Workdays,3882.0
+585,Gravel,9.4
+585,Steel,74.0
+585,Asphalt,7.6
+585,Concrete,249.0
+585,Boards,75.0
+585,Mechanical components,3.5
+586,Workdays,4126.0
+586,Gravel,65.0
+586,Steel,200.0
+586,Asphalt,52.0
+586,Concrete,360.0
+586,Mechanical components,4.2
+587,Workdays,2263.0
+587,Gravel,48.0
+587,Steel,45.0
+587,Asphalt,38.0
+587,Concrete,62.0
+587,Bricks,52.0
+587,Boards,17.0
+587,Mechanical components,5.8
+588,Workdays,23684.0
+588,Gravel,445.0
+588,Steel,607.0
+588,Asphalt,356.0
+588,Concrete,2473.0
+588,Bricks,413.0
+588,Boards,137.0
+588,Mechanical components,26.0
+589,Workdays,1398.0
+589,Gravel,22.0
+589,Steel,26.0
+589,Asphalt,18.0
+589,Concrete,29.0
+589,Bricks,37.0
+589,Boards,12.0
+589,Mechanical components,4.5
+590,Workdays,3932.0
+590,Gravel,9.4
+590,Steel,74.0
+590,Asphalt,7.6
+590,Concrete,249.0
+590,Boards,75.0
+590,Mechanical components,3.5
+591,Workdays,4126.0
+591,Gravel,65.0
+591,Steel,200.0
+591,Asphalt,52.0
+591,Concrete,360.0
+591,Mechanical components,4.2
+592,Workdays,9553.0
+592,Gravel,142.0
+592,Steel,241.0
+592,Asphalt,113.0
+592,Concrete,484.0
+592,Bricks,141.0
+592,Boards,47.0
+592,Mechanical components,32.0
+593,Workdays,337.0
+593,Gravel,5.3
+593,Steel,21.0
+593,Concrete,6.9
+593,Mechanical components,0.21
+594,Workdays,1357.0
+594,Gravel,21.0
+594,Steel,74.0
+594,Concrete,27.0
+594,Mechanical components,2.5
+595,Workdays,16396.0
+595,Gravel,390.0
+595,Steel,425.0
+595,Concrete,507.0
+595,Bricks,471.0
+595,Boards,157.0
+595,Mechanical components,11.0
+596,Workdays,18805.0
+596,Gravel,464.0
+596,Steel,792.0
+596,Concrete,603.0
+596,Electro components,7.1
+596,Mechanical components,28.0
+597,Workdays,5208.0
+597,Gravel,18.0
+597,Steel,144.0
+597,Asphalt,14.0
+597,Concrete,243.0
+597,Boards,98.0
+597,Mechanical components,4.1
+598,Workdays,517.0
+598,Gravel,19.0
+598,Steel,14.0
+598,Asphalt,15.0
+598,Concrete,25.0
+598,Mechanical components,0.68
+599,Workdays,2634.0
+599,Gravel,41.0
+599,Steel,144.0
+599,Asphalt,33.0
+599,Concrete,54.0
+599,Mechanical components,4.7
+600,Workdays,8035.0
+600,Gravel,213.0
+600,Steel,318.0
+600,Asphalt,170.0
+600,Concrete,276.0
+600,Mechanical components,15.0
+601,Workdays,3426.0
+601,Gravel,28.0
+601,Steel,82.0
+601,Asphalt,22.0
+601,Concrete,300.0
+601,Bricks,143.0
+601,Boards,47.0
+601,Mechanical components,0.9
+602,Workdays,1763.0
+602,Gravel,43.0
+602,Steel,44.0
+602,Asphalt,34.0
+602,Concrete,121.0
+602,Bricks,35.0
+602,Boards,11.0
+602,Mechanical components,0.77
+603,Workdays,5124.0
+603,Gravel,88.0
+603,Steel,133.0
+603,Asphalt,70.0
+603,Concrete,375.0
+603,Bricks,142.0
+603,Boards,47.0
+603,Mechanical components,2.7
+604,Workdays,10488.0
+604,Gravel,257.0
+604,Steel,203.0
+604,Asphalt,206.0
+604,Concrete,334.0
+604,Prefab panels,111.0
+604,Bricks,267.0
+604,Boards,89.0
+604,Mechanical components,8.6
+605,Workdays,14668.0
+605,Gravel,331.0
+605,Steel,273.0
+605,Asphalt,265.0
+605,Concrete,431.0
+605,Prefab panels,184.0
+605,Bricks,441.0
+605,Boards,147.0
+605,Mechanical components,8.8
+606,Workdays,8517.0
+606,Gravel,241.0
+606,Steel,206.0
+606,Asphalt,192.0
+606,Concrete,985.0
+606,Bricks,98.0
+606,Boards,32.0
+606,Mechanical components,1.8
+607,Workdays,24899.0
+607,Gravel,423.0
+607,Steel,528.0
+607,Asphalt,338.0
+607,Concrete,550.0
+607,Prefab panels,357.0
+607,Bricks,857.0
+607,Boards,285.0
+607,Mechanical components,13.0
+608,Workdays,346.0
+608,Gravel,10.0
+608,Steel,2.6
+608,Asphalt,8.4
+608,Concrete,13.0
+608,Bricks,10.0
+608,Boards,9.1
+609,Workdays,654.0
+609,Gravel,19.0
+609,Steel,5.1
+609,Asphalt,15.0
+609,Concrete,25.0
+609,Bricks,19.0
+609,Boards,17.0
+610,Workdays,912.0
+610,Gravel,27.0
+610,Steel,7.2
+610,Asphalt,22.0
+610,Concrete,36.0
+610,Bricks,25.0
+610,Boards,24.0
+611,Workdays,181.0
+611,Gravel,4.8
+611,Steel,1.4
+611,Asphalt,3.9
+611,Concrete,6.3
+611,Bricks,5.9
+611,Boards,5.2
+612,Workdays,703.0
+612,Gravel,9.6
+612,Steel,38.0
+612,Asphalt,7.6
+612,Concrete,12.0
+612,Bricks,9.4
+612,Boards,6.5
+613,Workdays,1910.0
+613,Gravel,42.0
+613,Steel,18.0
+613,Asphalt,34.0
+613,Concrete,55.0
+613,Bricks,90.0
+613,Boards,42.0
+614,Workdays,4364.0
+614,Gravel,118.0
+614,Steel,37.0
+614,Asphalt,94.0
+614,Concrete,153.0
+614,Bricks,189.0
+614,Boards,85.0
+615,Workdays,916.0
+615,Gravel,14.0
+615,Steel,39.0
+615,Asphalt,11.0
+615,Concrete,32.0
+615,Bricks,21.0
+615,Boards,7.2
+616,Workdays,531.0
+616,Gravel,14.0
+616,Steel,5.7
+616,Asphalt,11.0
+616,Concrete,32.0
+616,Bricks,21.0
+616,Boards,7.2
+617,Workdays,1165.0
+617,Gravel,33.0
+617,Steel,12.0
+617,Asphalt,26.0
+617,Concrete,71.0
+617,Bricks,45.0
+617,Boards,15.0
+618,Workdays,2715.0
+618,Gravel,62.0
+618,Steel,60.0
+618,Asphalt,50.0
+618,Concrete,248.0
+618,Bricks,44.0
+618,Boards,14.0
+618,Mechanical components,3.7

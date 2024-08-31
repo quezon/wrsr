@@ -1,0 +1,65 @@
+producer_id,producer,construct_id,is_vanilla
+1,Alumina Plant,595,True
+2,Aluminium Plant,596,True
+3,Aluminium Plant (2316054140),,False
+4,Aluminium Separation,351,True
+5,Livestock Farm,566,True
+6,Asphalt Plant,581,True
+7,Bauxite Mine,593,True
+8,Bauxite Processing Plant,594,True
+9,Brick Factory,582,True
+10,Cement Plant,577,True
+11,Chemical Plant,587,True
+12,Clothing Factory,572,True
+13,Coal Mine,585,True
+14,Coal Processing,586,True
+15,Compact Steel Mill,,False
+16,Composting Plant,563,True
+17,Concrete Plant,579,True
+18,Demolition Office,617,True
+19,Distillery,565,True
+20,Dry Dock (Big),606,True
+21,Electrical Components Factory (2368856696),,False
+22,Electronics Assembly Hall,602,True
+23,Explosives Factory,618,True
+24,Fabric Factory,571,True
+25,Vertical Farm,,False
+26,Faster Train Production,,False
+27,Food Factory,564,True
+28,General Separation,349,True
+29,Gravel Processing,575,True
+30,Gravel Quarry,573,True
+31,Gravel Recycling Plant,352,True
+32,Scrapping Facility (Large),362,True
+33,Incinerator - Heating Plant,360,True
+34,Incinerator - Power Plant,359,True
+35,Iron Mine,590,True
+36,Iron Processing Plant (2381743400),,False
+37,Large Electronics Assembly (1922581574),,False
+38,Mechanical Components Factory,603,True
+39,Nuclear Fuel Fabrication,600,True
+40,Single-Reactor Nuclear Power Plant,272,True
+41,Pumpjack,583,True
+42,Oil Refinery,584,True
+43,Plastics Factory (2067039517),,False
+44,Gas Power Plant,268,True
+45,Coal Power Plant,267,True
+46,Prefab Panels Factory,580,True
+47,Airplane Production Line,607,True
+48,,,True
+49,Railway Production Line,605,True
+50,Vehicle Production Line,604,True
+51,Rolling Mill (Mechanical Components Factory) (2467860304),,False
+52,Sawmill,570,True
+53,Scrap Separation,350,True
+54,Scrapping Facility (Small),361,True
+55,Slaughterhouse,568,True
+56,Steel Mill,592,True
+57,Synthetic Fertilizer Factory,562,True
+58,Tres Xemeneies V2 (2745547691),,False
+59,Uranium Conversion Plant,599,True
+60,Uranium Mine,597,True
+61,Uranium Processing Plant,598,True
+62,Woodcutting Post,569,True
+63,Aurip (2748946044),,False
+64,Coking Plant (Old),,False

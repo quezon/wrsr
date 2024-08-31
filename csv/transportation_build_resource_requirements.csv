@@ -1,0 +1,2560 @@
+blueprint_id,resource,qty
+1,Workdays,6752.0
+1,Plastics,0.42
+1,Electro components,2.0
+1,Steel,1.4
+1,Fabric,0.004
+1,Electronics,0.66
+1,Aluminium,21.0
+1,Mechanical components,13.0
+2,Workdays,707.0
+2,Plastics,0.051
+2,Electro components,0.18
+2,Steel,0.17
+2,Fabric,0.004
+2,Electronics,0.066
+2,Aluminium,2.6
+2,Mechanical components,1.1
+3,Workdays,7897.0
+3,Plastics,0.52
+3,Electro components,2.2
+3,Steel,1.7
+3,Fabric,0.004
+3,Electronics,0.77
+3,Aluminium,25.0
+3,Mechanical components,14.0
+4,Workdays,24695.0
+4,Plastics,1.5
+4,Electro components,7.3
+4,Steel,5.1
+4,Fabric,0.004
+4,Electronics,2.5
+4,Aluminium,75.0
+4,Mechanical components,49.0
+5,Workdays,827.0
+5,Plastics,0.057
+5,Electro components,0.22
+5,Steel,0.19
+5,Fabric,0.004
+5,Electronics,0.079
+5,Aluminium,2.8
+5,Mechanical components,1.4
+6,Workdays,521.0
+6,Plastics,0.039
+6,Electro components,0.13
+6,Steel,0.13
+6,Fabric,0.004
+6,Electronics,0.048
+6,Aluminium,1.9
+6,Mechanical components,0.75
+7,Workdays,824.0
+7,Plastics,0.052
+7,Electro components,0.24
+7,Steel,0.17
+7,Fabric,0.004
+7,Electronics,0.081
+7,Aluminium,2.6
+7,Mechanical components,1.6
+8,Workdays,7717.0
+8,Plastics,0.5
+8,Electro components,2.2
+8,Steel,1.7
+8,Fabric,0.004
+8,Electronics,0.75
+8,Aluminium,24.0
+8,Mechanical components,14.0
+9,Workdays,326.0
+9,Plastics,0.024
+9,Electro components,0.081
+9,Steel,0.08
+9,Fabric,0.004
+9,Electronics,0.03
+9,Aluminium,1.2
+9,Mechanical components,0.49
+10,Workdays,9977.0
+10,Plastics,0.62
+10,Electro components,2.9
+10,Steel,2.0
+10,Fabric,0.004
+10,Electronics,0.99
+10,Aluminium,30.0
+10,Mechanical components,20.0
+11,Workdays,22350.0
+11,Plastics,1.4
+11,Electro components,6.7
+11,Steel,4.5
+11,Fabric,0.004
+11,Electronics,2.2
+11,Aluminium,67.0
+11,Mechanical components,46.0
+12,Workdays,13057.0
+12,Plastics,0.76
+12,Electro components,4.0
+12,Steel,2.5
+12,Fabric,0.004
+12,Electronics,1.3
+12,Aluminium,38.0
+12,Mechanical components,28.0
+13,Workdays,5972.0
+13,Plastics,0.41
+13,Electro components,1.6
+13,Steel,1.4
+13,Fabric,0.004
+13,Electronics,0.57
+13,Aluminium,20.0
+13,Mechanical components,10.0
+14,Workdays,1132.0
+14,Plastics,0.081
+14,Electro components,0.29
+14,Steel,0.271
+14,Fabric,0.004
+14,Electronics,0.11
+14,Aluminium,4.1
+14,Mechanical components,1.8
+15,Workdays,1428.0
+15,Plastics,0.11
+15,Electro components,0.34
+15,Steel,0.36
+15,Fabric,0.004
+15,Electronics,0.13
+15,Aluminium,5.4
+15,Mechanical components,2.0
+16,Workdays,35937.0
+16,Plastics,1.5
+16,Electro components,13.0
+16,Steel,4.9
+16,Fabric,0.004
+16,Electronics,4.0
+16,Aluminium,73.0
+16,Mechanical components,104.0
+17,Workdays,5972.0
+17,Plastics,0.41
+17,Electro components,1.6
+17,Steel,1.4
+17,Fabric,0.004
+17,Electronics,0.57
+17,Aluminium,20.0
+17,Mechanical components,10.0
+18,Workdays,495.0
+18,Plastics,0.035
+18,Electro components,0.13
+18,Steel,0.12
+18,Fabric,0.004
+18,Electronics,0.047
+18,Aluminium,1.7
+18,Mechanical components,0.81
+19,Workdays,5982.0
+19,Plastics,0.41
+19,Electro components,1.6
+19,Steel,1.4
+19,Fabric,0.004
+19,Electronics,0.57
+19,Aluminium,20.0
+19,Mechanical components,10.0
+20,Workdays,90.0
+20,Plastics,0.05
+20,Electro components,0.029
+20,Steel,1.2
+20,Fabric,0.004
+20,Mechanical components,0.23
+21,Workdays,115.0
+21,Plastics,0.06
+21,Electro components,0.041
+21,Steel,1.5
+21,Fabric,0.004
+21,Mechanical components,0.32
+22,Workdays,110.0
+22,Plastics,0.064
+22,Electro components,0.033
+22,Steel,1.5
+22,Fabric,0.004
+22,Mechanical components,0.25
+23,Workdays,89.0
+23,Plastics,0.048
+23,Electro components,0.03
+23,Steel,1.2
+23,Fabric,0.004
+23,Mechanical components,0.24
+24,Workdays,109.0
+24,Plastics,0.058
+24,Electro components,0.037
+24,Steel,1.5
+24,Fabric,0.004
+24,Mechanical components,0.29
+25,Workdays,139.0
+25,Plastics,0.068
+25,Electro components,0.053
+25,Steel,1.8
+25,Fabric,0.004
+25,Mechanical components,0.42
+26,Workdays,82.0
+26,Plastics,0.044
+26,Electro components,0.028
+26,Steel,1.1
+26,Fabric,0.004
+26,Mechanical components,0.22
+27,Workdays,112.0
+27,Plastics,0.064
+27,Electro components,0.035
+27,Steel,1.5
+27,Fabric,0.004
+27,Mechanical components,0.27
+28,Workdays,300.0
+28,Plastics,0.2
+28,Electro components,0.072
+28,Steel,4.4
+28,Fabric,0.005
+28,Mechanical components,0.51
+29,Workdays,395.0
+29,Plastics,0.26
+29,Electro components,0.094
+29,Steel,5.8
+29,Fabric,0.005
+29,Mechanical components,0.65
+30,Workdays,599.0
+30,Plastics,0.38
+30,Electro components,0.15
+30,Steel,8.7
+30,Fabric,0.19
+30,Mechanical components,1.1
+31,Workdays,504.0
+31,Plastics,0.34
+31,Electro components,0.15
+31,Steel,7.1
+31,Fabric,0.34
+31,Mechanical components,1.1
+32,Workdays,525.0
+32,Plastics,0.32
+32,Electro components,0.15
+32,Steel,7.5
+32,Fabric,0.29
+32,Mechanical components,1.1
+33,Workdays,751.0
+33,Plastics,0.48
+33,Electro components,0.19
+33,Steel,10.0
+33,Fabric,0.47
+33,Mechanical components,1.4
+34,Workdays,504.0
+34,Plastics,0.3
+34,Electro components,0.15
+34,Steel,7.1
+34,Fabric,0.16
+34,Mechanical components,1.1
+35,Workdays,514.0
+35,Plastics,0.31
+35,Electro components,0.14
+35,Steel,7.3
+35,Fabric,0.29
+35,Mechanical components,1.1
+36,Workdays,409.0
+36,Plastics,0.26
+36,Electro components,0.11
+36,Steel,5.9
+36,Fabric,0.18
+36,Mechanical components,0.75
+37,Workdays,456.0
+37,Plastics,0.28
+37,Electro components,0.13
+37,Steel,6.5
+37,Fabric,0.2
+37,Mechanical components,0.91
+38,Workdays,302.0
+38,Plastics,0.18
+38,Electro components,0.087
+38,Steel,4.3
+38,Fabric,0.11
+38,Mechanical components,0.65
+39,Workdays,543.0
+39,Plastics,0.34
+39,Electro components,0.14
+39,Steel,7.8
+39,Fabric,0.14
+39,Mechanical components,1.0
+40,Workdays,543.0
+40,Plastics,0.34
+40,Electro components,0.14
+40,Steel,7.8
+40,Fabric,0.28
+40,Mechanical components,1.0
+41,Workdays,386.0
+41,Plastics,0.25
+41,Electro components,0.097
+41,Steel,5.6
+41,Fabric,0.18
+41,Mechanical components,0.69
+42,Workdays,106.0
+42,Plastics,0.056
+42,Electro components,0.036
+42,Steel,1.4
+42,Fabric,0.021
+42,Mechanical components,0.29
+43,Workdays,139.0
+43,Plastics,0.068
+43,Electro components,0.053
+43,Steel,1.8
+43,Fabric,0.025
+43,Mechanical components,0.42
+44,Workdays,86.0
+44,Plastics,0.046
+44,Electro components,0.029
+44,Steel,1.2
+44,Fabric,0.025
+44,Mechanical components,0.23
+45,Workdays,410.0
+45,Plastics,0.26
+45,Electro components,0.11
+45,Steel,5.9
+45,Fabric,0.21
+45,Mechanical components,0.75
+46,Workdays,90.0
+46,Plastics,0.05
+46,Electro components,0.029
+46,Steel,1.2
+46,Fabric,0.025
+46,Mechanical components,0.23
+47,Workdays,122.0
+47,Plastics,0.068
+47,Electro components,0.039
+47,Steel,1.7
+47,Fabric,0.038
+47,Mechanical components,0.3
+48,Workdays,110.0
+48,Plastics,0.064
+48,Electro components,0.033
+48,Steel,1.5
+48,Fabric,0.028
+48,Mechanical components,0.25
+49,Workdays,102.0
+49,Plastics,0.056
+49,Electro components,0.034
+49,Steel,1.4
+49,Fabric,0.025
+49,Mechanical components,0.26
+50,Workdays,38.0
+50,Plastics,0.028
+50,Steel,0.6
+50,Fabric,0.005
+50,Mechanical components,0.042
+51,Workdays,28.0
+51,Plastics,0.021
+51,Steel,0.44
+51,Fabric,0.005
+51,Mechanical components,0.031
+52,Workdays,28.0
+52,Plastics,0.021
+52,Steel,0.44
+52,Fabric,0.005
+52,Mechanical components,0.031
+53,Workdays,13.0
+53,Plastics,0.01
+53,Steel,0.21
+53,Fabric,0.005
+53,Mechanical components,0.015
+54,Workdays,17.0
+54,Plastics,0.013
+54,Steel,0.27
+54,Fabric,0.005
+54,Mechanical components,0.019
+55,Workdays,19.0
+55,Plastics,0.014
+55,Steel,0.3
+55,Fabric,0.005
+55,Mechanical components,0.021
+56,Workdays,728.0
+56,Plastics,0.48
+56,Electro components,0.19
+56,Steel,10.0
+56,Fabric,0.005
+56,Mechanical components,1.4
+57,Workdays,625.0
+57,Plastics,0.38
+57,Electro components,0.17
+57,Steel,8.9
+57,Fabric,0.005
+57,Mechanical components,1.3
+58,Workdays,608.0
+58,Plastics,0.37
+58,Electro components,0.17
+58,Steel,8.7
+58,Fabric,0.005
+58,Mechanical components,1.2
+59,Workdays,236.0
+59,Plastics,0.13
+59,Electro components,0.075
+59,Steel,3.2
+59,Fabric,0.005
+59,Mechanical components,0.58
+60,Workdays,628.0
+60,Plastics,0.38
+60,Electro components,0.17
+60,Steel,8.9
+60,Fabric,0.005
+60,Mechanical components,1.3
+61,Workdays,525.0
+61,Plastics,0.32
+61,Electro components,0.15
+61,Steel,7.5
+61,Fabric,0.005
+61,Mechanical components,1.1
+62,Workdays,800.0
+62,Plastics,0.52
+62,Electro components,0.2
+62,Steel,11.0
+62,Fabric,0.005
+62,Mechanical components,1.4
+63,Workdays,192.0
+63,Plastics,0.11
+63,Electro components,0.057
+63,Steel,2.7
+63,Fabric,0.005
+63,Mechanical components,0.43
+64,Workdays,279.0
+64,Plastics,0.16
+64,Electro components,0.086
+64,Steel,3.9
+64,Fabric,0.005
+64,Mechanical components,0.65
+65,Workdays,121.0
+65,Plastics,0.067
+65,Electro components,0.039
+65,Steel,1.7
+65,Fabric,0.005
+65,Mechanical components,0.3
+66,Workdays,742.0
+66,Plastics,0.46
+66,Electro components,0.2
+66,Steel,10.0
+66,Fabric,0.005
+66,Mechanical components,1.4
+67,Workdays,787.0
+67,Plastics,0.5
+67,Electro components,0.2
+67,Steel,11.0
+67,Fabric,0.005
+67,Mechanical components,1.4
+68,Workdays,90.0
+68,Plastics,0.05
+68,Electro components,0.029
+68,Steel,1.2
+68,Fabric,0.005
+68,Mechanical components,0.23
+69,Workdays,472.0
+69,Plastics,0.3
+69,Electro components,0.12
+69,Steel,6.8
+69,Fabric,0.005
+69,Mechanical components,0.86
+70,Workdays,497.0
+70,Plastics,0.29
+70,Electro components,0.15
+70,Steel,6.9
+70,Fabric,0.005
+70,Mechanical components,1.1
+71,Workdays,622.0
+71,Plastics,0.38
+71,Electro components,0.17
+71,Steel,8.8
+71,Fabric,0.005
+71,Mechanical components,1.3
+72,Workdays,536.0
+72,Plastics,0.31
+72,Electro components,0.16
+72,Steel,7.5
+72,Fabric,0.005
+72,Mechanical components,1.2
+73,Workdays,668.0
+73,Plastics,0.41
+73,Electro components,0.18
+73,Steel,9.5
+73,Fabric,0.005
+73,Mechanical components,1.4
+74,Workdays,454.0
+74,Plastics,0.27
+74,Electro components,0.13
+74,Steel,6.4
+74,Fabric,0.005
+74,Mechanical components,1.0
+75,Workdays,489.0
+75,Plastics,0.31
+75,Electro components,0.13
+75,Steel,7.1
+75,Fabric,0.005
+75,Mechanical components,0.92
+76,Workdays,544.0
+76,Plastics,0.34
+76,Electro components,0.14
+76,Steel,7.8
+76,Fabric,0.005
+76,Mechanical components,1.0
+77,Workdays,668.0
+77,Plastics,0.42
+77,Electro components,0.18
+77,Steel,9.6
+77,Fabric,0.005
+77,Mechanical components,1.3
+78,Workdays,739.0
+78,Plastics,0.46
+78,Electro components,0.2
+78,Steel,10.0
+78,Fabric,0.005
+78,Mechanical components,1.4
+79,Workdays,517.0
+79,Plastics,0.32
+79,Electro components,0.14
+79,Steel,7.4
+79,Fabric,0.005
+79,Mechanical components,0.98
+80,Workdays,406.0
+80,Plastics,0.24
+80,Electro components,0.12
+80,Steel,5.7
+80,Fabric,0.005
+80,Mechanical components,0.89
+81,Workdays,542.0
+81,Plastics,0.33
+81,Electro components,0.15
+81,Steel,7.7
+81,Fabric,0.005
+81,Mechanical components,1.1
+82,Workdays,514.0
+82,Plastics,0.31
+82,Electro components,0.14
+82,Steel,7.3
+82,Fabric,0.005
+82,Mechanical components,1.1
+83,Workdays,349.0
+83,Plastics,0.22
+83,Electro components,0.091
+83,Steel,5.0
+83,Fabric,0.005
+83,Mechanical components,0.66
+84,Workdays,83.0
+84,Plastics,0.044
+84,Electro components,0.029
+84,Steel,1.1
+84,Fabric,0.005
+84,Mechanical components,0.22
+85,Workdays,112.0
+85,Plastics,0.064
+85,Electro components,0.035
+85,Steel,1.5
+85,Fabric,0.005
+85,Mechanical components,0.27
+86,Workdays,500.0
+86,Plastics,0.31
+86,Electro components,0.13
+86,Steel,7.2
+86,Fabric,0.005
+86,Mechanical components,0.96
+87,Workdays,406.0
+87,Plastics,0.24
+87,Electro components,0.12
+87,Steel,5.7
+87,Fabric,0.005
+87,Mechanical components,0.89
+88,Workdays,985.0
+88,Plastics,0.63
+88,Electro components,0.25
+88,Steel,14.0
+88,Fabric,0.005
+88,Mechanical components,1.8
+89,Workdays,192.0
+89,Plastics,0.11
+89,Electro components,0.057
+89,Steel,2.7
+89,Fabric,0.005
+89,Mechanical components,0.43
+90,Workdays,231.0
+90,Plastics,0.13
+90,Electro components,0.075
+90,Steel,3.1
+90,Fabric,0.005
+90,Mechanical components,0.571
+91,Workdays,513.0
+91,Plastics,0.3
+91,Electro components,0.15
+91,Steel,7.2
+91,Fabric,0.005
+91,Mechanical components,1.1
+92,Workdays,633.0
+92,Plastics,0.39
+92,Electro components,0.17
+92,Steel,9.0
+92,Fabric,0.005
+92,Mechanical components,1.3
+93,Workdays,552.0
+93,Plastics,0.32
+93,Electro components,0.16
+93,Steel,7.7
+93,Fabric,0.005
+93,Mechanical components,1.2
+94,Workdays,1453.0
+94,Plastics,0.98
+94,Electro components,0.33
+94,Steel,21.0
+94,Fabric,0.005
+94,Mechanical components,2.2
+95,Workdays,279.0
+95,Plastics,0.16
+95,Electro components,0.086
+95,Steel,3.9
+95,Fabric,0.005
+95,Mechanical components,0.65
+96,Workdays,742.0
+96,Plastics,0.46
+96,Electro components,0.2
+96,Steel,10.0
+96,Fabric,0.005
+96,Mechanical components,1.4
+97,Workdays,837.0
+97,Plastics,0.54
+97,Electro components,0.21
+97,Steel,12.0
+97,Fabric,0.005
+97,Mechanical components,1.5
+98,Workdays,646.0
+98,Plastics,0.39
+98,Electro components,0.18
+98,Steel,9.2
+98,Fabric,0.005
+98,Mechanical components,1.3
+99,Workdays,684.0
+99,Plastics,0.42
+99,Electro components,0.19
+99,Steel,9.8
+99,Fabric,0.005
+99,Mechanical components,1.4
+100,Workdays,636.0
+100,Plastics,0.39
+100,Electro components,0.18
+100,Steel,9.0
+100,Fabric,0.005
+100,Mechanical components,1.3
+101,Workdays,439.0
+101,Plastics,0.26
+101,Electro components,0.13
+101,Steel,6.2
+101,Fabric,0.005
+101,Mechanical components,0.93
+102,Workdays,674.0
+102,Plastics,0.42
+102,Electro components,0.18
+102,Steel,9.7
+102,Fabric,0.005
+102,Mechanical components,1.3
+103,Workdays,349.0
+103,Plastics,0.22
+103,Electro components,0.091
+103,Steel,5.0
+103,Fabric,0.005
+103,Mechanical components,0.66
+104,Workdays,454.0
+104,Plastics,0.27
+104,Electro components,0.13
+104,Steel,6.4
+104,Fabric,0.005
+104,Mechanical components,1.0
+105,Workdays,395.0
+105,Plastics,0.24
+105,Electro components,0.11
+105,Steel,5.6
+105,Fabric,0.005
+105,Mechanical components,0.81
+106,Workdays,575.0
+106,Plastics,0.36
+106,Electro components,0.16
+106,Steel,8.2
+106,Fabric,0.005
+106,Mechanical components,1.1
+107,Workdays,542.0
+107,Plastics,0.33
+107,Electro components,0.15
+107,Steel,7.7
+107,Fabric,0.005
+107,Mechanical components,1.1
+108,Workdays,308.0
+108,Plastics,0.17
+108,Electro components,0.098
+108,Steel,4.2
+108,Fabric,0.005
+108,Mechanical components,0.75
+109,Workdays,811.0
+109,Plastics,0.53
+109,Electro components,0.2
+109,Steel,11.0
+109,Fabric,0.005
+109,Mechanical components,1.4
+110,Workdays,695.0
+110,Plastics,0.47
+110,Electro components,0.16
+110,Steel,10.0
+110,Fabric,0.004
+110,Mechanical components,1.1
+111,Workdays,544.0
+111,Plastics,0.35
+111,Electro components,0.14
+111,Steel,7.9
+111,Fabric,0.005
+111,Mechanical components,0.98
+112,Workdays,469.0
+112,Plastics,0.32
+112,Electro components,0.1
+112,Steel,7.0
+112,Fabric,0.005
+112,Mechanical components,0.68
+113,Workdays,483.0
+113,Plastics,0.34
+113,Electro components,0.098
+113,Steel,7.4
+113,Fabric,0.005
+113,Mechanical components,0.62
+114,Workdays,608.0
+114,Plastics,0.38
+114,Electro components,0.16
+114,Steel,8.7
+114,Fabric,0.005
+114,Mechanical components,1.2
+115,Workdays,275.0
+115,Plastics,0.16
+115,Electro components,0.082
+115,Steel,3.8
+115,Fabric,0.005
+115,Mechanical components,0.62
+116,Workdays,497.0
+116,Plastics,0.29
+116,Electro components,0.15
+116,Steel,6.9
+116,Fabric,0.005
+116,Mechanical components,1.1
+117,Workdays,461.0
+117,Plastics,0.28
+117,Electro components,0.13
+117,Steel,6.5
+117,Fabric,0.005
+117,Mechanical components,0.95
+118,Workdays,112.0
+118,Plastics,0.064
+118,Electro components,0.035
+118,Steel,1.5
+118,Fabric,0.005
+118,Mechanical components,0.27
+119,Workdays,121.0
+119,Plastics,0.067
+119,Electro components,0.039
+119,Steel,1.7
+119,Fabric,0.005
+119,Mechanical components,0.3
+120,Workdays,334.0
+120,Plastics,0.2
+120,Electro components,0.096
+120,Steel,4.6
+120,Fabric,0.005
+120,Mechanical components,0.71
+121,Workdays,389.0
+121,Plastics,0.24
+121,Electro components,0.11
+121,Steel,5.6
+121,Fabric,0.005
+121,Mechanical components,0.77
+122,Workdays,95.0
+122,Plastics,0.052
+122,Electro components,0.032
+122,Steel,1.3
+122,Fabric,0.005
+122,Mechanical components,0.24
+123,Workdays,103.0
+123,Plastics,0.056
+123,Electro components,0.034
+123,Steel,1.4
+123,Fabric,0.005
+123,Mechanical components,0.26
+124,Workdays,382.0
+124,Plastics,0.24
+124,Electro components,0.097
+124,Steel,5.5
+124,Fabric,0.005
+124,Mechanical components,0.69
+125,Workdays,459.0
+125,Plastics,0.29
+125,Electro components,0.12
+125,Steel,6.7
+125,Fabric,0.005
+125,Mechanical components,0.84
+126,Workdays,430.0
+126,Plastics,0.27
+126,Electro components,0.11
+126,Steel,6.2
+126,Fabric,0.005
+126,Mechanical components,0.8
+127,Workdays,231.0
+127,Plastics,0.13
+127,Electro components,0.075
+127,Steel,3.1
+127,Fabric,0.005
+127,Mechanical components,0.57
+128,Workdays,554.0
+128,Plastics,0.36
+128,Electro components,0.14
+128,Steel,8.1
+128,Fabric,0.005
+128,Mechanical components,0.95
+129,Workdays,622.0
+129,Plastics,0.38
+129,Electro components,0.17
+129,Steel,8.8
+129,Fabric,0.005
+129,Mechanical components,1.3
+130,Workdays,649.0
+130,Plastics,0.39
+130,Electro components,0.18
+130,Steel,9.2
+130,Fabric,0.005
+130,Mechanical components,1.3
+131,Workdays,619.0
+131,Plastics,0.38
+131,Electro components,0.17
+131,Steel,8.8
+131,Fabric,0.005
+131,Mechanical components,1.3
+132,Workdays,252.0
+132,Plastics,0.14
+132,Electro components,0.081
+132,Steel,3.4
+132,Fabric,0.005
+132,Mechanical components,0.62
+133,Workdays,731.0
+133,Plastics,0.46
+133,Electro components,0.19
+133,Steel,10.0
+133,Fabric,0.005
+133,Mechanical components,1.4
+134,Workdays,837.0
+134,Plastics,0.54
+134,Electro components,21.0
+134,Steel,12.0
+134,Fabric,0.005
+134,Mechanical components,1.5
+135,Workdays,454.0
+135,Plastics,0.27
+135,Electro components,0.13
+135,Steel,6.4
+135,Fabric,0.005
+135,Mechanical components,1.0
+136,Workdays,875.0
+136,Plastics,0.55
+136,Electro components,0.23
+136,Steel,12.0
+136,Fabric,0.005
+136,Mechanical components,1.7
+137,Workdays,395.0
+137,Plastics,0.24
+137,Electro components,0.11
+137,Steel,5.6
+137,Fabric,0.005
+137,Mechanical components,0.81
+138,Workdays,663.0
+138,Plastics,0.42
+138,Electro components,0.17
+138,Steel,9.6
+138,Fabric,0.005
+138,Mechanical components,1.2
+139,Workdays,602.0
+139,Plastics,0.38
+139,Electro components,0.16
+139,Steel,8.6
+139,Fabric,0.005
+139,Mechanical components,1.2
+140,Workdays,308.0
+140,Plastics,0.17
+140,Electro components,0.098
+140,Steel,4.2
+140,Fabric,0.005
+140,Mechanical components,0.75
+141,Workdays,236.0
+141,Plastics,0.13
+141,Electro components,0.075
+141,Steel,3.2
+141,Fabric,0.005
+141,Mechanical components,0.58
+142,Workdays,406.0
+142,Plastics,0.24
+142,Electro components,0.12
+142,Steel,5.7
+142,Fabric,0.005
+142,Mechanical components,0.89
+143,Workdays,635.0
+143,Plastics,0.39
+143,Electro components,0.17
+143,Steel,9.1
+143,Fabric,0.005
+143,Mechanical components,1.3
+144,Workdays,349.0
+144,Plastics,0.22
+144,Electro components,0.091
+144,Steel,5.0
+144,Fabric,0.005
+144,Mechanical components,0.66
+145,Workdays,734.0
+145,Plastics,0.47
+145,Electro components,0.18
+145,Steel,10.0
+145,Fabric,0.005
+145,Mechanical components,1.3
+146,Workdays,839.0
+146,Plastics,0.55
+146,Electro components,0.2
+146,Steel,12.0
+146,Fabric,0.005
+146,Mechanical components,1.4
+147,Workdays,674.0
+147,Plastics,0.42
+147,Electro components,0.18
+147,Steel,9.6
+147,Fabric,0.005
+147,Mechanical components,1.3
+148,Workdays,192.0
+148,Plastics,0.11
+148,Electro components,0.057
+148,Steel,2.7
+148,Fabric,0.005
+148,Mechanical components,0.43
+149,Workdays,231.0
+149,Plastics,0.13
+149,Electro components,0.075
+149,Steel,3.1
+149,Fabric,0.005
+149,Mechanical components,0.57
+150,Workdays,472.0
+150,Plastics,0.3
+150,Electro components,0.12
+150,Steel,6.8
+150,Fabric,0.005
+150,Mechanical components,0.86
+151,Workdays,718.0
+151,Plastics,0.45
+151,Electro components,0.19
+151,Steel,10.0
+151,Fabric,0.005
+151,Mechanical components,1.4
+152,Workdays,90.0
+152,Plastics,0.05
+152,Electro components,0.029
+152,Steel,1.2
+152,Fabric,0.005
+152,Mechanical components,0.23
+153,Workdays,279.0
+153,Plastics,0.16
+153,Electro components,0.086
+153,Steel,3.9
+153,Fabric,0.005
+153,Mechanical components,0.65
+154,Workdays,121.0
+154,Plastics,0.067
+154,Electro components,0.039
+154,Steel,1.7
+154,Fabric,0.005
+154,Mechanical components,0.3
+155,Workdays,497.0
+155,Plastics,0.29
+155,Electro components,0.15
+155,Steel,6.9
+155,Fabric,0.005
+155,Mechanical components,1.1
+156,Workdays,628.0
+156,Plastics,0.38
+156,Electro components,0.17
+156,Steel,8.9
+156,Fabric,0.005
+156,Mechanical components,1.3
+157,Workdays,536.0
+157,Plastics,0.31
+157,Electro components,0.16
+157,Steel,7.5
+157,Fabric,0.005
+157,Mechanical components,1.2
+158,Workdays,454.0
+158,Plastics,0.27
+158,Electro components,0.13
+158,Steel,6.4
+158,Fabric,0.005
+158,Mechanical components,1.0
+159,Workdays,636.0
+159,Plastics,0.39
+159,Electro components,0.18
+159,Steel,9.0
+159,Fabric,0.005
+159,Mechanical components,1.3
+160,Workdays,742.0
+160,Plastics,0.46
+160,Electro components,0.2
+160,Steel,10.0
+160,Fabric,0.005
+160,Mechanical components,1.4
+161,Workdays,738.0
+161,Plastics,0.46
+161,Electro components,0.19
+161,Steel,10.0
+161,Fabric,0.005
+161,Mechanical components,1.4
+162,Workdays,607.0
+162,Plastics,0.36
+162,Electro components,0.17
+162,Steel,8.6
+162,Fabric,0.005
+162,Mechanical components,1.3
+163,Workdays,511.0
+163,Plastics,0.32
+163,Electro components,0.14
+163,Steel,7.4
+163,Fabric,0.005
+163,Mechanical components,0.98
+164,Workdays,875.0
+164,Plastics,0.55
+164,Electro components,0.23
+164,Steel,12.0
+164,Fabric,0.005
+164,Mechanical components,1.7
+165,Workdays,445.0
+165,Plastics,0.28
+165,Electro components,0.12
+165,Steel,6.4
+165,Fabric,0.005
+165,Mechanical components,0.87
+166,Workdays,544.0
+166,Plastics,0.34
+166,Electro components,0.14
+166,Steel,7.8
+166,Fabric,0.005
+166,Mechanical components,1.0
+167,Workdays,608.0
+167,Plastics,0.37
+167,Electro components,0.17
+167,Steel,8.7
+167,Fabric,0.005
+167,Mechanical components,1.2
+168,Workdays,509.0
+168,Plastics,0.31
+168,Electro components,0.14
+168,Steel,7.2
+168,Fabric,0.005
+168,Mechanical components,1.1
+169,Workdays,302.0
+169,Plastics,0.17
+169,Electro components,0.097
+169,Steel,4.1
+169,Fabric,0.005
+169,Mechanical components,0.75
+170,Workdays,406.0
+170,Plastics,0.24
+170,Electro components,0.12
+170,Steel,5.7
+170,Fabric,0.005
+170,Mechanical components,0.89
+171,Workdays,531.0
+171,Plastics,0.32
+171,Electro components,0.15
+171,Steel,7.5
+171,Fabric,0.005
+171,Mechanical components,1.1
+172,Workdays,1286.0
+172,Plastics,0.84
+172,Electro components,0.31
+172,Steel,18.0
+172,Fabric,0.005
+172,Mechanical components,2.2
+173,Workdays,349.0
+173,Plastics,0.22
+173,Electro components,0.091
+173,Steel,5.0
+173,Fabric,0.005
+173,Mechanical components,0.66
+174,Workdays,734.0
+174,Plastics,0.47
+174,Electro components,0.18
+174,Steel,10.0
+174,Fabric,0.005
+174,Mechanical components,1.3
+175,Workdays,112.0
+175,Plastics,0.064
+175,Electro components,0.035
+175,Steel,1.5
+175,Fabric,0.005
+175,Mechanical components,0.27
+176,Workdays,90.0
+176,Plastics,0.048
+176,Electro components,0.031
+176,Steel,1.2
+176,Fabric,0.005
+176,Mechanical components,0.24
+177,Workdays,48.0
+177,Plastics,0.036
+177,Steel,0.76
+177,Fabric,0.035
+177,Mechanical components,0.053
+178,Workdays,27.0
+178,Plastics,0.02
+178,Steel,0.43
+178,Fabric,0.014
+178,Mechanical components,0.03
+179,Workdays,22.0
+179,Plastics,0.016
+179,Steel,0.34
+179,Fabric,0.014
+179,Mechanical components,0.024
+180,Workdays,42.0
+180,Plastics,0.031
+180,Steel,0.66
+180,Fabric,0.042
+180,Mechanical components,0.047
+181,Workdays,27.0
+181,Plastics,0.02
+181,Steel,0.43
+181,Fabric,0.014
+181,Mechanical components,0.03
+182,Workdays,307.0
+182,Plastics,0.2
+182,Electro components,0.075
+182,Steel,4.5
+182,Fabric,0.005
+182,Mechanical components,0.52
+183,Workdays,76.0
+183,Plastics,0.037
+183,Electro components,0.029
+183,Steel,0.99
+183,Fabric,0.014
+183,Mechanical components,0.23
+184,Workdays,42.0
+184,Plastics,0.023
+184,Electro components,0.014
+184,Steel,0.58
+184,Fabric,0.014
+184,Mechanical components,0.11
+185,Workdays,64.0
+185,Plastics,0.032
+185,Electro components,0.024
+185,Steel,0.84
+185,Fabric,0.014
+185,Mechanical components,0.19
+186,Workdays,73.0
+186,Plastics,0.032
+186,Electro components,0.031
+186,Steel,0.91
+186,Fabric,0.014
+186,Mechanical components,0.25
+187,Workdays,82.0
+187,Plastics,0.044
+187,Electro components,0.028
+187,Steel,1.1
+187,Fabric,0.014
+187,Mechanical components,0.22
+188,Workdays,88.0
+188,Plastics,0.042
+188,Electro components,0.034
+188,Steel,1.1
+188,Fabric,0.014
+188,Mechanical components,0.27
+189,Workdays,119.0
+189,Plastics,0.062
+189,Electro components,0.041
+189,Steel,1.6
+189,Fabric,0.014
+189,Mechanical components,0.33
+190,Workdays,61.0
+190,Plastics,0.03
+190,Electro components,0.023
+190,Steel,0.79
+190,Fabric,0.014
+190,Mechanical components,0.18
+191,Workdays,71.0
+191,Plastics,0.035
+191,Electro components,0.027
+191,Steel,0.92
+191,Fabric,0.014
+191,Mechanical components,0.21
+192,Workdays,74.0
+192,Plastics,0.035
+192,Electro components,0.029
+192,Steel,0.95
+192,Fabric,0.014
+192,Mechanical components,0.23
+193,Workdays,124.0
+193,Plastics,0.056
+193,Electro components,0.051
+193,Steel,1.6
+193,Fabric,0.014
+193,Mechanical components,0.41
+194,Workdays,45.0
+194,Plastics,0.024
+194,Electro components,0.015
+194,Steel,0.61
+194,Fabric,0.014
+194,Mechanical components,0.12
+195,Workdays,136.0
+195,Plastics,0.064
+195,Electro components,0.054
+195,Steel,1.7
+195,Fabric,0.014
+195,Mechanical components,0.43
+196,Workdays,93.0
+196,Plastics,0.041
+196,Electro components,0.038
+196,Steel,1.2
+196,Fabric,0.014
+196,Mechanical components,0.31
+197,Workdays,174.0
+197,Plastics,0.068
+197,Electro components,0.08
+197,Steel,2.1
+197,Fabric,0.014
+197,Mechanical components,0.66
+198,Workdays,46.0
+198,Plastics,0.025
+198,Electro components,0.016
+198,Steel,0.62
+198,Fabric,0.014
+198,Mechanical components,0.12
+199,Workdays,81.0
+199,Plastics,0.038
+199,Electro components,0.032
+199,Steel,1.0
+199,Fabric,0.014
+199,Mechanical components,0.26
+200,Workdays,73.0
+200,Plastics,0.036
+200,Electro components,0.027
+200,Steel,0.95
+200,Fabric,0.014
+200,Mechanical components,0.22
+201,Workdays,88.0
+201,Plastics,0.042
+201,Electro components,0.034
+201,Steel,1.1
+201,Fabric,0.014
+201,Mechanical components,0.27
+202,Workdays,64.0
+202,Plastics,0.032
+202,Electro components,0.024
+202,Steel,0.84
+202,Fabric,0.007
+202,Mechanical components,0.19
+203,Workdays,82.0
+203,Plastics,0.044
+203,Electro components,0.028
+203,Steel,1.1
+203,Fabric,0.007
+203,Mechanical components,0.22
+204,Workdays,136.0
+204,Plastics,0.064
+204,Electro components,0.054
+204,Steel,1.7
+204,Fabric,0.014
+204,Mechanical components,0.43
+205,Workdays,119.0
+205,Plastics,0.062
+205,Electro components,0.041
+205,Steel,1.6
+205,Fabric,0.011
+205,Mechanical components,0.33
+206,Workdays,74.0
+206,Plastics,0.035
+206,Electro components,0.029
+206,Steel,0.95
+206,Fabric,0.014
+206,Mechanical components,0.23
+207,Workdays,45.0
+207,Plastics,0.024
+207,Electro components,0.015
+207,Steel,0.61
+207,Fabric,0.014
+207,Mechanical components,0.12
+208,Workdays,197.0
+208,Plastics,0.12
+208,Electro components,0.058
+208,Steel,2.8
+208,Fabric,0.046
+208,Mechanical components,0.44
+209,Workdays,279.0
+209,Plastics,0.16
+209,Electro components,0.086
+209,Steel,3.9
+209,Fabric,0.063
+209,Mechanical components,0.65
+210,Workdays,115.0
+210,Plastics,0.06
+210,Electro components,0.041
+210,Steel,1.5
+210,Fabric,0.021
+210,Mechanical components,0.32
+211,Workdays,112.0
+211,Plastics,0.064
+211,Electro components,0.035
+211,Steel,1.5
+211,Fabric,0.021
+211,Mechanical components,0.27
+212,Workdays,104.0
+212,Plastics,0.06
+212,Electro components,0.032
+212,Steel,1.4
+212,Fabric,0.021
+212,Mechanical components,0.24
+213,Workdays,109.0
+213,Plastics,0.058
+213,Electro components,0.037
+213,Steel,1.5
+213,Fabric,0.018
+213,Mechanical components,0.29
+214,Workdays,88.0
+214,Plastics,0.047
+214,Electro components,0.03
+214,Steel,1.2
+214,Fabric,0.018
+214,Mechanical components,0.24
+215,Workdays,192.0
+215,Plastics,0.11
+215,Electro components,0.057
+215,Steel,2.7
+215,Fabric,0.005
+215,Mechanical components,0.43
+216,Workdays,859.0
+216,Plastics,0.55
+216,Electro components,0.22
+216,Steel,12.0
+216,Fabric,0.005
+216,Mechanical components,1.5
+217,Workdays,478.0
+217,Plastics,0.3
+217,Electro components,0.15
+217,Steel,6.9
+217,Fabric,0.005
+217,Mechanical components,0.9
+218,Workdays,308.0
+218,Plastics,0.17
+218,Electro components,0.098
+218,Steel,4.2
+218,Fabric,0.005
+218,Mechanical components,0.75
+219,Workdays,231.0
+219,Plastics,0.13
+219,Electro components,0.075
+219,Steel,3.1
+219,Fabric,0.005
+219,Mechanical components,0.57
+220,Workdays,930.0
+220,Plastics,0.59
+220,Electro components,0.24
+220,Steel,13.0
+220,Fabric,0.005
+220,Mechanical components,1.7
+221,Workdays,544.0
+221,Plastics,0.34
+221,Electro components,0.14
+221,Steel,7.8
+221,Fabric,0.005
+221,Mechanical components,1.0
+222,Workdays,497.0
+222,Plastics,0.29
+222,Electro components,0.15
+222,Steel,6.9
+222,Fabric,0.005
+222,Mechanical components,1.1
+223,Workdays,646.0
+223,Plastics,0.39
+223,Electro components,0.18
+223,Steel,9.2
+223,Fabric,0.005
+223,Mechanical components,1.3
+224,Workdays,718.0
+224,Plastics,0.45
+224,Electro components,0.19
+224,Steel,10.0
+224,Fabric,0.005
+224,Mechanical components,1.4
+225,Workdays,690.0
+225,Plastics,0.43
+225,Electro components,0.18
+225,Steel,9.9
+225,Fabric,0.005
+225,Mechanical components,1.3
+226,Workdays,279.0
+226,Plastics,0.16
+226,Electro components,0.086
+226,Steel,3.9
+226,Fabric,0.005
+226,Mechanical components,0.65
+227,Workdays,716.0
+227,Plastics,0.45
+227,Electro components,0.19
+227,Steel,10.0
+227,Fabric,0.005
+227,Mechanical components,1.4
+228,Workdays,454.0
+228,Plastics,0.27
+228,Electro components,0.13
+228,Steel,6.4
+228,Fabric,0.005
+228,Mechanical components,1.0
+229,Workdays,525.0
+229,Plastics,0.32
+229,Electro components,0.15
+229,Steel,7.5
+229,Fabric,0.005
+229,Mechanical components,1.1
+230,Workdays,514.0
+230,Plastics,0.31
+230,Electro components,0.14
+230,Steel,7.3
+230,Fabric,0.005
+230,Mechanical components,1.1
+231,Workdays,828.0
+231,Plastics,0.54
+231,Electro components,0.2
+231,Steel,12.0
+231,Fabric,0.005
+231,Mechanical components,1.4
+232,Workdays,349.0
+232,Plastics,0.22
+232,Electro components,0.091
+232,Steel,5.0
+232,Fabric,0.005
+232,Mechanical components,0.66
+233,Workdays,163.0
+233,Plastics,0.1
+233,Electro components,0.045
+233,Steel,2.3
+233,Fabric,0.005
+233,Mechanical components,0.33
+234,Workdays,519.0
+234,Plastics,0.3
+234,Electro components,0.16
+234,Steel,7.2
+234,Fabric,0.005
+234,Mechanical components,1.2
+235,Workdays,663.0
+235,Plastics,0.42
+235,Electro components,0.17
+235,Steel,9.6
+235,Fabric,0.005
+235,Mechanical components,1.2
+236,Workdays,349.0
+236,Plastics,0.22
+236,Electro components,0.091
+236,Steel,5.0
+236,Fabric,0.005
+236,Mechanical components,0.66
+237,Workdays,395.0
+237,Plastics,0.24
+237,Electro components,0.11
+237,Steel,5.6
+237,Fabric,0.005
+237,Mechanical components,0.81
+238,Workdays,635.0
+238,Plastics,0.39
+238,Electro components,0.17
+238,Steel,9.1
+238,Fabric,0.005
+238,Mechanical components,1.3
+239,Workdays,308.0
+239,Plastics,0.17
+239,Electro components,0.098
+239,Steel,4.2
+239,Fabric,0.005
+239,Mechanical components,0.75
+240,Workdays,231.0
+240,Plastics,0.13
+240,Electro components,0.075
+240,Steel,3.1
+240,Fabric,0.005
+240,Mechanical components,0.57
+241,Workdays,764.0
+241,Plastics,0.48
+241,Electro components,0.2
+241,Steel,11.0
+241,Fabric,0.005
+241,Mechanical components,1.4
+242,Workdays,536.0
+242,Plastics,0.31
+242,Electro components,0.16
+242,Steel,7.5
+242,Fabric,0.005
+242,Mechanical components,1.2
+243,Workdays,406.0
+243,Plastics,0.24
+243,Electro components,0.12
+243,Steel,5.7
+243,Fabric,0.005
+243,Mechanical components,0.89
+244,Workdays,279.0
+244,Plastics,0.16
+244,Electro components,0.086
+244,Steel,3.9
+244,Fabric,0.005
+244,Mechanical components,0.65
+245,Workdays,622.0
+245,Plastics,0.38
+245,Electro components,0.17
+245,Steel,8.8
+245,Fabric,0.005
+245,Mechanical components,1.3
+246,Workdays,527.0
+246,Plastics,0.31
+246,Electro components,0.16
+246,Steel,7.3
+246,Fabric,0.005
+246,Mechanical components,1.2
+247,Workdays,1039.0
+247,Plastics,0.68
+247,Electro components,0.25
+247,Steel,15.0
+247,Fabric,0.005
+247,Mechanical components,1.7
+248,Workdays,242.0
+248,Plastics,0.15
+248,Electro components,0.067
+248,Steel,3.4
+248,Fabric,0.005
+248,Mechanical components,0.49
+249,Workdays,245.0
+249,Plastics,0.16
+249,Electro components,0.063
+249,Steel,3.6
+249,Fabric,0.005
+249,Mechanical components,0.45
+250,Workdays,101.0
+250,Plastics,0.064
+250,Electro components,0.026
+250,Steel,1.5
+250,Fabric,0.005
+250,Mechanical components,0.19
+251,Workdays,165.0
+251,Plastics,0.1
+251,Electro components,0.043
+251,Steel,2.4
+251,Fabric,0.005
+251,Mechanical components,0.31
+252,Workdays,547.0
+252,Plastics,0.28
+252,Electro components,0.19
+252,Steel,7.2
+252,Fabric,0.005
+252,Mechanical components,1.5
+253,Workdays,892.0
+253,Plastics,0.46
+253,Electro components,0.31
+253,Steel,11.0
+253,Fabric,0.005
+253,Mechanical components,2.5
+254,Workdays,460.0
+254,Plastics,0.24
+254,Electro components,0.16
+254,Steel,6.1
+254,Fabric,0.005
+254,Mechanical components,1.3
+255,Workdays,690.0
+255,Plastics,0.36
+255,Electro components,0.24
+255,Steel,9.1
+255,Fabric,0.005
+255,Mechanical components,1.9
+256,Workdays,419.0
+256,Plastics,0.22
+256,Electro components,0.14
+256,Steel,5.6
+256,Fabric,0.005
+256,Mechanical components,1.1
+257,Workdays,372.0
+257,Plastics,0.2
+257,Electro components,0.13
+257,Steel,5.0
+257,Fabric,0.005
+257,Mechanical components,0.97
+258,Workdays,561.0
+258,Plastics,0.36
+258,Electro components,0.14
+258,Steel,8.1
+258,Fabric,0.23
+258,Mechanical components,1.0
+259,Workdays,638.0
+259,Plastics,0.41
+259,Electro components,0.16
+259,Steel,9.3
+259,Fabric,0.29
+259,Mechanical components,1.1
+260,Workdays,596.0
+260,Plastics,0.38
+260,Electro components,0.15
+260,Steel,8.7
+260,Fabric,0.24
+260,Mechanical components,1.0
+261,Workdays,595.0
+261,Plastics,0.36
+261,Electro components,0.17
+261,Steel,8.4
+261,Fabric,0.005
+261,Mechanical components,1.2
+262,Workdays,231.0
+262,Plastics,0.13
+262,Electro components,0.075
+262,Steel,3.1
+262,Fabric,0.005
+262,Mechanical components,0.57
+263,Workdays,602.0
+263,Plastics,0.36
+263,Electro components,0.17
+263,Steel,8.5
+263,Fabric,0.005
+263,Mechanical components,1.3
+264,Workdays,406.0
+264,Plastics,0.24
+264,Electro components,0.12
+264,Steel,5.7
+264,Fabric,0.005
+264,Mechanical components,0.89
+265,Workdays,406.0
+265,Plastics,0.24
+265,Electro components,0.12
+265,Steel,5.7
+265,Fabric,0.005
+265,Mechanical components,0.89
+266,Workdays,252.0
+266,Plastics,0.14
+266,Electro components,0.081
+266,Steel,3.4
+266,Fabric,0.005
+266,Mechanical components,0.62
+267,Workdays,680.0
+267,Plastics,0.42
+267,Electro components,0.18
+267,Steel,9.7
+267,Fabric,0.005
+267,Mechanical components,1.3
+268,Workdays,519.0
+268,Plastics,0.3
+268,Electro components,0.16
+268,Steel,7.2
+268,Fabric,0.005
+268,Mechanical components,1.2
+269,Workdays,663.0
+269,Plastics,0.42
+269,Electro components,0.17
+269,Steel,9.6
+269,Fabric,0.005
+269,Mechanical components,1.2
+270,Workdays,349.0
+270,Plastics,0.22
+270,Electro components,0.091
+270,Steel,5.0
+270,Fabric,0.005
+270,Mechanical components,0.66
+271,Workdays,395.0
+271,Plastics,0.24
+271,Electro components,0.11
+271,Steel,5.6
+271,Fabric,0.005
+271,Mechanical components,0.81
+272,Workdays,674.0
+272,Plastics,0.42
+272,Electro components,0.18
+272,Steel,9.7
+272,Fabric,0.005
+272,Mechanical components,1.3
+273,Workdays,308.0
+273,Plastics,0.17
+273,Electro components,0.098
+273,Steel,4.2
+273,Fabric,0.005
+273,Mechanical components,0.75
+274,Workdays,2342.0
+274,Plastics,1.6
+274,Electro components,0.51
+274,Steel,35.0
+274,Fabric,0.005
+274,Mechanical components,3.4
+275,Workdays,236.0
+275,Plastics,0.13
+275,Electro components,0.075
+275,Steel,3.2
+275,Fabric,0.005
+275,Mechanical components,0.58
+276,Workdays,236.0
+276,Plastics,0.13
+276,Electro components,0.075
+276,Steel,3.2
+276,Fabric,0.005
+276,Mechanical components,0.58
+277,Workdays,968.0
+277,Plastics,0.6
+277,Electro components,0.26
+277,Steel,13.0
+277,Fabric,0.005
+277,Mechanical components,1.9
+278,Workdays,474.0
+278,Plastics,0.29
+278,Electro components,0.13
+278,Steel,6.7
+278,Fabric,0.005
+278,Mechanical components,0.97
+279,Workdays,1442.0
+279,Plastics,0.96
+279,Electro components,0.33
+279,Steel,21.0
+279,Fabric,0.005
+279,Mechanical components,2.3
+280,Workdays,183.0
+280,Plastics,0.088
+280,Electro components,0.07
+280,Steel,2.4
+280,Fabric,0.005
+280,Mechanical components,0.56
+281,Workdays,688.0
+281,Plastics,0.36
+281,Electro components,0.24
+281,Steel,9.1
+281,Fabric,0.005
+281,Mechanical components,1.9
+282,Workdays,913.0
+282,Plastics,0.56
+282,Electro components,0.25
+282,Steel,13.0
+282,Fabric,0.005
+282,Mechanical components,1.8
+283,Workdays,913.0
+283,Plastics,0.56
+283,Electro components,0.25
+283,Steel,13.0
+283,Fabric,0.005
+283,Mechanical components,1.8
+284,Workdays,236.0
+284,Plastics,0.13
+284,Electro components,0.075
+284,Steel,3.2
+284,Fabric,0.005
+284,Mechanical components,0.58
+285,Workdays,236.0
+285,Plastics,0.13
+285,Electro components,0.075
+285,Steel,3.2
+285,Fabric,0.005
+285,Mechanical components,0.58
+286,Workdays,236.0
+286,Plastics,0.13
+286,Electro components,0.075
+286,Steel,3.2
+286,Fabric,0.005
+286,Mechanical components,0.58
+287,Workdays,968.0
+287,Plastics,0.6
+287,Electro components,0.26
+287,Steel,13.0
+287,Fabric,0.005
+287,Mechanical components,1.9
+288,Workdays,314.0
+288,Plastics,0.2
+288,Electro components,0.08
+288,Steel,4.6
+288,Fabric,0.005
+288,Mechanical components,0.57
+289,Workdays,872.0
+289,Plastics,0.57
+289,Electro components,0.21
+289,Steel,12.0
+289,Fabric,0.005
+289,Mechanical components,1.5
+290,Workdays,519.0
+290,Plastics,0.35
+290,Electro components,0.12
+290,Steel,7.8
+290,Fabric,0.005
+290,Mechanical components,0.77
+291,Workdays,2534.0
+291,Plastics,1.8
+291,Electro components,0.53
+291,Steel,38.0
+291,Fabric,0.005
+291,Mechanical components,3.4
+292,Workdays,170.0
+292,Plastics,0.1
+292,Electro components,0.05
+292,Steel,2.4
+292,Fabric,0.005
+292,Mechanical components,2.4
+293,Workdays,236.0
+293,Plastics,0.13
+293,Electro components,0.075
+293,Steel,3.2
+293,Fabric,0.005
+293,Mechanical components,0.58
+294,Workdays,968.0
+294,Plastics,0.6
+294,Electro components,0.26
+294,Steel,13.0
+294,Fabric,0.005
+294,Mechanical components,1.9
+295,Workdays,913.0
+295,Plastics,0.56
+295,Electro components,0.25
+295,Steel,13.0
+295,Fabric,0.005
+295,Mechanical components,1.8
+296,Workdays,854.0
+296,Plastics,0.6
+296,Electro components,0.17
+296,Steel,12.0
+296,Fabric,0.005
+296,Mechanical components,1.1
+297,Workdays,680.0
+297,Plastics,0.4
+297,Electro components,0.2
+297,Steel,9.5
+297,Fabric,0.005
+297,Mechanical components,1.5
+298,Workdays,914.0
+298,Plastics,0.6
+298,Electro components,0.22
+298,Steel,13.0
+298,Fabric,0.005
+298,Mechanical components,1.5
+299,Workdays,854.0
+299,Plastics,0.6
+299,Electro components,0.17
+299,Steel,12.0
+299,Fabric,0.005
+299,Mechanical components,1.1
+300,Workdays,1137.0
+300,Plastics,0.8
+300,Electro components,0.23
+300,Steel,17.0
+300,Fabric,0.005
+300,Mechanical components,1.5
+301,Workdays,236.0
+301,Plastics,0.13
+301,Electro components,0.075
+301,Steel,3.2
+301,Fabric,0.005
+301,Mechanical components,0.58
+302,Workdays,1080.0
+302,Plastics,0.96
+302,Electro components,0.24
+302,Steel,20.0
+302,Fabric,0.005
+302,Mechanical components,1.4
+303,Workdays,1012.0
+303,Plastics,0.9
+303,Electro components,0.22
+303,Steel,19.0
+303,Fabric,0.005
+303,Mechanical components,1.4
+304,Workdays,1080.0
+304,Plastics,0.96
+304,Electro components,0.24
+304,Steel,20.0
+304,Fabric,0.005
+304,Mechanical components,1.4
+305,Workdays,765.0
+305,Plastics,0.68
+305,Electro components,0.17
+305,Steel,14.0
+305,Fabric,0.005
+305,Mechanical components,1.0
+306,Workdays,1215.0
+306,Plastics,1.1
+306,Electro components,0.27
+306,Steel,22.0
+306,Fabric,0.005
+306,Mechanical components,1.6
+307,Workdays,990.0
+307,Plastics,0.88
+307,Electro components,0.22
+307,Steel,18.0
+307,Fabric,0.005
+307,Mechanical components,1.3
+308,Workdays,810.0
+308,Plastics,0.72
+308,Electro components,0.18
+308,Steel,15.0
+308,Fabric,0.005
+308,Mechanical components,1.1
+309,Workdays,1125.0
+309,Plastics,1.0
+309,Electro components,0.25
+309,Steel,21.0
+309,Fabric,0.005
+309,Mechanical components,1.5
+310,Workdays,1035.0
+310,Plastics,0.92
+310,Electro components,0.23
+310,Steel,19.0
+310,Fabric,0.005
+310,Mechanical components,1.4
+311,Workdays,765.0
+311,Plastics,0.68
+311,Electro components,0.17
+311,Steel,14.0
+311,Fabric,0.005
+311,Mechanical components,1.0
+312,Workdays,967.0
+312,Plastics,0.86
+312,Electro components,0.21
+312,Steel,18.0
+312,Fabric,0.005
+312,Mechanical components,1.3
+313,Workdays,913.0
+313,Plastics,0.81
+313,Electro components,0.2
+313,Steel,17.0
+313,Fabric,0.005
+313,Mechanical components,1.2
+314,Workdays,1003.0
+314,Plastics,0.89
+314,Electro components,0.22
+314,Steel,18.0
+314,Fabric,0.005
+314,Mechanical components,1.3
+315,Workdays,1125.0
+315,Plastics,1.0
+315,Electro components,0.025
+315,Steel,21.0
+315,Fabric,0.005
+315,Mechanical components,1.5
+316,Workdays,2115.0
+316,Plastics,1.9
+316,Electro components,0.47
+316,Steel,39.0
+316,Fabric,0.005
+316,Mechanical components,2.8
+317,Workdays,967.0
+317,Plastics,0.86
+317,Electro components,0.21
+317,Steel,18.0
+317,Fabric,0.005
+317,Mechanical components,1.3
+318,Workdays,623.0
+318,Plastics,0.73
+318,Electro components,0.18
+318,Steel,15.0
+318,Fabric,0.005
+318,Mechanical components,1.1
+319,Workdays,1035.0
+319,Plastics,0.92
+319,Electro components,0.23
+319,Steel,19.0
+319,Fabric,0.005
+319,Mechanical components,1.4
+320,Workdays,1080.0
+320,Plastics,0.96
+320,Electro components,0.24
+320,Steel,20.0
+320,Fabric,0.005
+320,Mechanical components,1.4
+321,Workdays,1035.0
+321,Plastics,0.92
+321,Electro components,0.23
+321,Steel,19.0
+321,Fabric,0.005
+321,Mechanical components,1.4
+322,Workdays,1035.0
+322,Plastics,0.92
+322,Electro components,0.23
+322,Steel,19.0
+322,Fabric,0.005
+322,Mechanical components,1.4
+323,Workdays,585.0
+323,Plastics,0.52
+323,Electro components,0.13
+323,Steel,11.0
+323,Fabric,0.005
+323,Mechanical components,0.78
+324,Workdays,585.0
+324,Plastics,0.52
+324,Electro components,0.13
+324,Steel,11.0
+324,Fabric,0.005
+324,Mechanical components,0.78
+325,Workdays,1035.0
+325,Plastics,0.92
+325,Electro components,0.23
+325,Steel,19.0
+325,Fabric,0.005
+325,Mechanical components,1.4
+326,Workdays,585.0
+326,Plastics,0.52
+326,Electro components,0.13
+326,Steel,11.0
+326,Fabric,0.005
+326,Mechanical components,0.78
+327,Workdays,5622.0
+327,Plastics,4.7
+327,Electro components,1.9
+327,Steel,107.0
+327,Fabric,0.005
+327,Mechanical components,15.0
+328,Workdays,3378.0
+328,Plastics,2.9
+328,Electro components,1.1
+328,Steel,64.0
+328,Fabric,0.005
+328,Mechanical components,7.9
+329,Workdays,3064.0
+329,Plastics,2.6
+329,Electro components,1.1
+329,Steel,58.0
+329,Fabric,0.005
+329,Mechanical components,8.6
+330,Workdays,5775.0
+330,Plastics,4.8
+330,Electro components,2.1
+330,Steel,111.0
+330,Fabric,0.005
+330,Mechanical components,16.0
+331,Workdays,8775.0
+331,Plastics,6.8
+331,Electro components,4.4
+331,Steel,171.0
+331,Fabric,0.005
+331,Mechanical components,39.0
+332,Workdays,3625.0
+332,Plastics,2.9
+332,Electro components,1.5
+332,Steel,70.0
+332,Fabric,0.005
+332,Mechanical components,13.0
+333,Workdays,5783.0
+333,Plastics,4.9
+333,Electro components,1.8
+333,Steel,110.0
+333,Fabric,0.005
+333,Mechanical components,13.0
+334,Workdays,4950.0
+334,Plastics,4.0
+334,Electro components,2.2
+334,Steel,96.0
+334,Fabric,0.005
+334,Mechanical components,18.0
+335,Workdays,5696.0
+335,Plastics,4.7
+335,Electro components,2.1
+335,Steel,109.0
+335,Fabric,0.005
+335,Mechanical components,17.0
+336,Workdays,5631.0
+336,Plastics,4.8
+336,Electro components,1.8
+336,Steel,107.0
+336,Fabric,0.005
+336,Mechanical components,13.0
+337,Workdays,5362.0
+337,Plastics,4.4
+337,Electro components,2.0
+337,Steel,103.0
+337,Fabric,0.005
+337,Mechanical components,16.0
+338,Workdays,6810.0
+338,Plastics,5.4
+338,Electro components,3.1
+338,Steel,132.0
+338,Fabric,0.005
+338,Mechanical components,27.0
+339,Workdays,1020.0
+339,Plastics,0.88
+339,Electro components,0.29
+339,Steel,19.0
+339,Fabric,0.005
+339,Mechanical components,2.1
+340,Workdays,1032.0
+340,Plastics,0.88
+340,Electro components,0.32
+340,Steel,19.0
+340,Fabric,0.005
+340,Mechanical components,2.4
+341,Workdays,12076.0
+341,Plastics,10.0
+341,Electro components,4.3
+341,Steel,231.0
+341,Fabric,0.005
+341,Mechanical components,34.0
+342,Workdays,3650.0
+342,Plastics,3.0
+342,Electro components,1.4
+342,Steel,70.0
+342,Fabric,0.005
+342,Mechanical components,11.0
+343,Workdays,1020.0
+343,Plastics,0.88
+343,Electro components,0.29
+343,Steel,19.0
+343,Fabric,0.005
+343,Mechanical components,2.1
+344,Workdays,1119.0
+344,Plastics,0.96
+344,Electro components,0.33
+344,Steel,21.0
+344,Fabric,0.005
+344,Mechanical components,2.5
+345,Workdays,4695.0
+345,Plastics,3.4
+345,Electro components,9.6
+345,Steel,89.0
+345,Fabric,0.005
+345,Mechanical components,17.0
+346,Workdays,6720.0
+346,Plastics,5.0
+346,Electro components,11.0
+346,Steel,128.0
+346,Fabric,0.005
+346,Mechanical components,22.0
+347,Workdays,7170.0
+347,Plastics,5.2
+347,Electro components,14.0
+347,Steel,136.0
+347,Fabric,0.005
+347,Mechanical components,25.0
+348,Workdays,4620.0
+348,Plastics,3.3
+348,Electro components,10.0
+348,Steel,88.0
+348,Fabric,0.005
+348,Mechanical components,17.0
+349,Workdays,6405.0
+349,Plastics,5.0
+349,Electro components,9.5
+349,Steel,121.0
+349,Fabric,0.005
+349,Mechanical components,18.0
+350,Workdays,6197.0
+350,Plastics,4.8
+350,Electro components,9.2
+350,Steel,117.0
+350,Fabric,0.005
+350,Mechanical components,18.0
+351,Workdays,6945.0
+351,Plastics,5.0
+351,Electro components,14.0
+351,Steel,132.0
+351,Fabric,0.005
+351,Mechanical components,25.0
+352,Workdays,9280.0
+352,Plastics,6.9
+352,Electro components,17.0
+352,Steel,177.0
+352,Fabric,0.005
+352,Mechanical components,31.0
+353,Workdays,5955.0
+353,Plastics,4.6
+353,Electro components,8.9
+353,Steel,113.0
+353,Fabric,0.005
+353,Mechanical components,17.0
+354,Workdays,9430.0
+354,Plastics,7.4
+354,Electro components,13.0
+354,Steel,179.0
+354,Fabric,0.005
+354,Mechanical components,27.0
+355,Workdays,6941.0
+355,Plastics,5.5
+355,Electro components,9.1
+355,Steel,131.0
+355,Fabric,0.005
+355,Mechanical components,19.0
+356,Workdays,4690.0
+356,Plastics,3.3
+356,Electro components,10.0
+356,Steel,89.0
+356,Fabric,0.005
+356,Mechanical components,18.0
+357,Workdays,8670.0
+357,Plastics,6.8
+357,Electro components,11.0
+357,Steel,164.0
+357,Fabric,0.01
+357,Mechanical components,24.0
+358,Workdays,8670.0
+358,Plastics,6.8
+358,Electro components,11.0
+358,Steel,164.0
+358,Fabric,0.01
+358,Mechanical components,24.0
+359,Workdays,10240.0
+359,Plastics,7.7
+359,Electro components,17.0
+359,Steel,195.0
+359,Fabric,0.01
+359,Mechanical components,33.0
+360,Workdays,5050.0
+360,Plastics,3.6
+360,Electro components,10.0
+360,Steel,96.0
+360,Fabric,0.005
+360,Mechanical components,19.0
+361,Workdays,8770.0
+361,Plastics,6.8
+361,Electro components,12.0
+361,Steel,166.0
+361,Fabric,0.01
+361,Mechanical components,25.0
+362,Workdays,4464.0
+362,Plastics,3.8
+362,Electro components,2.4
+362,Steel,84.0
+362,Fabric,1.8
+362,Mechanical components,7.8
+363,Workdays,4464.0
+363,Plastics,3.8
+363,Electro components,2.4
+363,Steel,84.0
+363,Fabric,1.8
+363,Mechanical components,7.8
+364,Workdays,4464.0
+364,Plastics,3.8
+364,Electro components,2.4
+364,Steel,84.0
+364,Fabric,1.8
+364,Mechanical components,7.8
+365,Workdays,4464.0
+365,Plastics,3.8
+365,Electro components,2.4
+365,Steel,84.0
+365,Fabric,1.8
+365,Mechanical components,7.8
+366,Workdays,9935.0
+366,Plastics,8.6
+366,Electro components,4.3
+366,Steel,187.0
+366,Fabric,2.3
+366,Mechanical components,15.0
+367,Workdays,3081.0
+367,Plastics,2.7
+367,Electro components,1.3
+367,Steel,58.0
+367,Fabric,0.66
+367,Mechanical components,5.0
+368,Workdays,1491.0
+368,Plastics,1.3
+368,Electro components,0.44
+368,Steel,28.0
+368,Fabric,0.33
+368,Mechanical components,3.3
+369,Workdays,748.0
+369,Plastics,0.64
+369,Electro components,0.23
+369,Steel,14.0
+369,Fabric,0.23
+369,Mechanical components,1.7
+370,Workdays,798.0
+370,Plastics,0.68
+370,Electro components,0.25
+370,Steel,15.0
+370,Fabric,0.24
+370,Mechanical components,1.9
+371,Workdays,2378.0
+371,Plastics,2.0
+371,Electro components,0.81
+371,Steel,45.0
+371,Fabric,0.4
+371,Mechanical components,6.3
+372,Workdays,938.0
+372,Plastics,0.8
+372,Electro components,0.29
+372,Steel,17.0
+372,Fabric,0.3
+372,Mechanical components,2.2
+373,Workdays,2025.0
+373,Plastics,1.8
+373,Electro components,0.45
+373,Steel,38.0
+373,Fabric,0.4
+373,Mechanical components,2.7
+374,Workdays,2025.0
+374,Plastics,1.8
+374,Electro components,0.45
+374,Steel,38.0
+374,Fabric,0.4
+374,Mechanical components,2.7
+375,Workdays,2430.0
+375,Plastics,2.2
+375,Electro components,0.54
+375,Steel,45.0
+375,Fabric,0.39
+375,Mechanical components,3.2
+376,Workdays,1620.0
+376,Plastics,1.4
+376,Electro components,0.36
+376,Steel,30.0
+376,Fabric,0.4
+376,Mechanical components,2.2
+377,Workdays,2430.0
+377,Plastics,2.2
+377,Electro components,0.54
+377,Steel,45.0
+377,Fabric,0.34
+377,Mechanical components,3.2
+378,Workdays,1575.0
+378,Plastics,1.4
+378,Electro components,0.35
+378,Steel,29.0
+378,Fabric,0.44
+378,Mechanical components,2.1
+379,Workdays,4378.0
+379,Plastics,3.7
+379,Electro components,1.4
+379,Steel,83.0
+379,Fabric,0.01
+379,Mechanical components,10.0
+380,Workdays,2157.0
+380,Plastics,1.9
+380,Electro components,0.57
+380,Steel,40.0
+380,Fabric,0.01
+380,Mechanical components,3.9
+381,Workdays,1010.0
+381,Plastics,0.88
+381,Electro components,0.27
+381,Steel,19.0
+381,Fabric,0.01
+381,Mechanical components,1.8
+382,Workdays,4650.0
+382,Plastics,4.1
+382,Electro components,1.2
+382,Steel,88.0
+382,Fabric,0.005
+382,Mechanical components,7.7
+383,Workdays,1324.0
+383,Plastics,1.2
+383,Electro components,0.34
+383,Steel,25.0
+383,Fabric,0.01
+383,Mechanical components,2.2
+384,Workdays,6576.0
+384,Plastics,5.6
+384,Electro components,2.1
+384,Steel,125.0
+384,Fabric,0.02
+384,Mechanical components,15.0
+385,Workdays,22990.0
+385,Plastics,20.0
+385,Electro components,5.2
+385,Steel,434.0
+385,Fabric,0.015
+385,Mechanical components,31.0
+386,Workdays,10730.0
+386,Plastics,9.5
+386,Electro components,2.4
+386,Steel,202.0
+386,Fabric,0.025
+386,Mechanical components,14.0
+387,Workdays,8054.0
+387,Plastics,6.9
+387,Electro components,2.4
+387,Steel,153.0
+387,Fabric,1.2
+387,Mechanical components,17.0
+388,Workdays,10763.0
+388,Plastics,9.2
+388,Electro components,3.2
+388,Steel,205.0
+388,Fabric,1.0
+388,Mechanical components,23.0
+389,Workdays,16305.0
+389,Plastics,14.0
+389,Electro components,5.1
+389,Steel,308.0
+389,Fabric,2.1
+389,Mechanical components,23.0
+390,Workdays,9590.0
+390,Plastics,8.1
+390,Electro components,7.0
+390,Steel,181.0
+390,Fabric,1.8
+390,Mechanical components,19.0
+391,Workdays,10425.0
+391,Plastics,9.0
+391,Electro components,3.0
+391,Steel,198.0
+391,Fabric,0.74
+391,Mechanical components,21.0
+392,Workdays,4587.0
+392,Plastics,4.0
+392,Electro components,1.9
+392,Steel,86.0
+392,Fabric,1.1
+392,Mechanical components,7.2
+393,Workdays,8492.0
+393,Plastics,7.3
+393,Electro components,2.5
+393,Steel,161.0
+393,Fabric,0.46
+393,Mechanical components,18.0
+394,Workdays,1126.0
+394,Plastics,0.96
+394,Electro components,0.66
+394,Steel,21.0
+394,Fabric,0.37
+394,Mechanical components,2.0
+395,Workdays,856.0
+395,Plastics,0.72
+395,Electro components,0.6
+395,Steel,16.0
+395,Fabric,0.29
+395,Mechanical components,1.7
+396,Workdays,1791.0
+396,Plastics,1.5
+396,Electro components,1.3
+396,Steel,33.0
+396,Fabric,0.88
+396,Mechanical components,3.5
+397,Workdays,900.0
+397,Plastics,0.76
+397,Electro components,0.64
+397,Steel,17.0
+397,Fabric,0.26
+397,Mechanical components,1.8
+398,Workdays,943.0
+398,Plastics,0.8
+398,Electro components,0.63
+398,Steel,17.0
+398,Fabric,0.26
+398,Mechanical components,1.8
+399,Workdays,806.0
+399,Plastics,0.68
+399,Electro components,0.58
+399,Steel,15.0
+399,Fabric,0.31
+399,Mechanical components,1.8
+400,Workdays,1589.0
+400,Plastics,1.4
+400,Electro components,0.8
+400,Steel,30.0
+400,Fabric,0.71
+400,Mechanical components,2.7
+401,Workdays,385.0
+401,Plastics,0.32
+401,Electro components,0.33
+401,Steel,7.3
+401,Fabric,0.31
+401,Mechanical components,0.83
+402,Workdays,990.0
+402,Plastics,0.84
+402,Electro components,0.66
+402,Steel,18.0
+402,Fabric,0.53
+402,Mechanical components,1.9
+403,Workdays,787.0
+403,Plastics,0.66
+403,Electro components,0.57
+403,Steel,14.0
+403,Fabric,0.25
+403,Mechanical components,1.6
+404,Workdays,787.0
+404,Plastics,0.66
+404,Electro components,0.57
+404,Steel,0.14
+404,Fabric,0.29
+404,Mechanical components,1.6
+405,Workdays,873.0
+405,Plastics,0.74
+405,Electro components,0.63
+405,Steel,16.0
+405,Fabric,0.33
+405,Mechanical components,1.7
+406,Workdays,787.0
+406,Plastics,0.66
+406,Electro components,0.57
+406,Steel,14.0
+406,Fabric,0.3
+406,Mechanical components,1.6
+407,Workdays,1005.0
+407,Plastics,0.84
+407,Electro components,0.81
+407,Steel,19.0
+407,Fabric,0.32
+407,Mechanical components,2.1
+408,Workdays,39524.0
+408,Plastics,15.0
+408,Electro components,8.0
+408,Steel,797.0
+408,Fabric,0.002
+408,Mechanical components,105.0
+409,Workdays,10553.0
+409,Plastics,4.2
+409,Electro components,2.1
+409,Steel,213.0
+409,Fabric,0.002
+409,Mechanical components,28.0
+410,Workdays,159950.0
+410,Plastics,63.0
+410,Electro components,32.0
+410,Steel,3216.0
+410,Fabric,0.002
+410,Mechanical components,411.0
+411,Workdays,3775.0
+411,Plastics,1.5
+411,Electro components,0.77
+411,Steel,76.0
+411,Fabric,0.002
+411,Mechanical components,10.0
+412,Workdays,221305.0
+412,Plastics,87.0
+412,Electro components,45.0
+412,Steel,4498.0
+412,Fabric,0.002
+412,Mechanical components,643.0
+413,Workdays,10553.0
+413,Plastics,4.2
+413,Electro components,2.1
+413,Steel,213.0
+413,Fabric,0.002
+413,Mechanical components,28.0
+414,Workdays,16179.0
+414,Plastics,6.4
+414,Electro components,3.3
+414,Steel,327.0
+414,Fabric,0.002
+414,Mechanical components,45.0
+415,Workdays,28854.0
+415,Plastics,11.0
+415,Electro components,5.9
+415,Steel,581.0
+415,Fabric,0.002
+415,Mechanical components,75.0
+416,Workdays,175705.0
+416,Plastics,69.0
+416,Electro components,36.0
+416,Steel,3562.0
+416,Fabric,0.002
+416,Mechanical components,496.0
+417,Workdays,29326.0
+417,Plastics,11.0
+417,Electro components,5.9
+417,Steel,589.0
+417,Fabric,0.002
+417,Mechanical components,74.0
+418,Workdays,33855.0
+418,Plastics,13.0
+418,Electro components,6.9
+418,Steel,681.0
+418,Fabric,0.002
+418,Mechanical components,87.0
+419,Workdays,46379.0
+419,Plastics,18.0
+419,Electro components,9.4
+419,Steel,932.0
+419,Fabric,0.002
+419,Mechanical components,119.0
+420,Workdays,15622.0
+420,Plastics,6.2
+420,Electro components,3.2
+420,Steel,317.0
+420,Fabric,0.002
+420,Mechanical components,44.0
+421,Workdays,4513.0
+421,Plastics,1.8
+421,Electro components,0.91
+421,Steel,90.0
+421,Fabric,0.51
+421,Mechanical components,11.0
+422,Workdays,6827.0
+422,Plastics,2.7
+422,Electro components,1.4
+422,Steel,139.0
+422,Fabric,0.47
+422,Mechanical components,21.0

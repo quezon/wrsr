@@ -1,0 +1,423 @@
+producer_id,producer,blueprint_id,name,transportation_type,is_vanilla
+47,Airplane production line,1,AN12,Cargo only,True
+47,Airplane production line,2,AN2,Passenger/cargo,True
+47,Airplane production line,3,IL18,Passenger/cargo,True
+47,Airplane production line,4,IL76,Cargo only,True
+47,Airplane production line,5,L-410 UPV,Passenger/cargo,True
+47,Airplane production line,6,An-14,Passenger/cargo,True
+47,Airplane production line,7,An-28,Passenger/cargo,True
+47,Airplane production line,8,IL38,Cargo only,True
+47,Airplane production line,9,L-200,Passenger/cargo,True
+47,Airplane production line,10,Tu104,Passenger/cargo,True
+47,Airplane production line,11,Tu142,Cargo only,True
+47,Airplane production line,12,Tu154,Passenger/cargo,True
+47,Airplane production line,13,Mi10,Helicopter,True
+47,Airplane production line,14,Mi4,Helicopter,True
+47,Airplane production line,15,Mi8,Helicopter,True
+47,Airplane production line,16,Tu144,Passenger/cargo,True
+47,Airplane production line,17,Mi10 (cargo),Helicopter (cargo only),True
+47,Airplane production line,18,Mi2,Helicopter,True
+47,Airplane production line,19,Mi6,Helicopter,True
+50,Vehicle production line,20,B1000,Ambulance,True
+50,Vehicle production line,21,Nysa 522,Ambulance,True
+50,Vehicle production line,22,RF-977,Ambulance,True
+50,Vehicle production line,23,S1203,Ambulance,True
+50,Vehicle production line,24,IMV-1600,Ambulance,True
+50,Vehicle production line,25,R2203,Ambulance,True
+50,Vehicle production line,26,S1202,Ambulance,True
+50,Vehicle production line,27,FZK-A07,Ambulance,True
+50,Vehicle production line,28,KT50,Bulldozer,True
+50,Vehicle production line,29,S100 Stalinec,Bulldozer,True
+50,Vehicle production line,30,Chav 11M3,Bus,True
+50,Vehicle production line,31,Ikr-260,Bus,True
+50,Vehicle production line,32,K-SM11,Bus,True
+50,Vehicle production line,33,Ikr-280,Bus,True
+50,Vehicle production line,34,ikr-256,Bus,True
+50,Vehicle production line,35,LZ677,Bus,True
+50,Vehicle production line,36,LZ-695B,Bus,True
+50,Vehicle production line,37,LZ-965N,Bus,True
+50,Vehicle production line,38,PZ-672,Bus,True
+50,Vehicle production line,39,Skd-706 RTO LUX,Bus,True
+50,Vehicle production line,40,Skd-706 RTO MTZ,Bus,True
+50,Vehicle production line,41,Zis-155,Bus,True
+50,Vehicle production line,42,IMV-1600,Bus,True
+50,Vehicle production line,43,R2203,Bus,True
+50,Vehicle production line,44,S1203,Bus,True
+50,Vehicle production line,45,Zil-158,Bus,True
+50,Vehicle production line,46,B1000 microbus,Bus,True
+50,Vehicle production line,47,IMV-2200 microbus,Bus,True
+50,Vehicle production line,48,RF-977,Bus,True
+50,Vehicle production line,49,FZK-A07,Bus,True
+50,Vehicle production line,50,Heavy cargo car,Cargo Cars,True
+50,Vehicle production line,51,Heavy aggregate car,Cargo Cars,True
+50,Vehicle production line,52,Heavy garbage car,Cargo Cars,True
+50,Vehicle production line,53,Light cargo car,Cargo Cars,True
+50,Vehicle production line,54,Light aggregate car,Cargo Cars,True
+50,Vehicle production line,55,Light garbage car,Cargo Cars,True
+50,Vehicle production line,56,Je300,Concrete Mixer,True
+50,Vehicle production line,57,Rmn 12-215,Concrete Mixer,True
+50,Vehicle production line,58,T148,Concrete Mixer,True
+50,Vehicle production line,59,Star 20,Concrete Mixer,False
+50,Vehicle production line,60,Kmz-5320,Concrete Mixer,True
+50,Vehicle production line,61,T138,Concrete Mixer,True
+50,Vehicle production line,62,Zil-133,Concrete Mixer,True
+50,Vehicle production line,63,A30N,Covered Hull,True
+50,Vehicle production line,64,Ifa-W50,Covered Hull,True
+50,Vehicle production line,65,IMV-2200,Covered Hull,True
+50,Vehicle production line,66,Kaz-256B,Covered Hull,True
+50,Vehicle production line,67,Kmz-5410,Covered Hull,True
+50,Vehicle production line,68,B1000,Covered Hull,True
+50,Vehicle production line,69,W50,Covered Hull,True
+50,Vehicle production line,70,Je300,Covered Hull,True
+50,Vehicle production line,71,Kmz-5320,Covered Hull,True
+50,Vehicle production line,72,LZ100,Covered Hull,True
+50,Vehicle production line,73,LZ100,Covered Hull,True
+50,Vehicle production line,74,MZ-503,Covered Hull,True
+50,Vehicle production line,75,Rmn-135,Covered Hull,True
+50,Vehicle production line,76,Skd-706 RTTN,Covered Hull,True
+50,Vehicle production line,77,T148,Covered Hull,True
+50,Vehicle production line,78,LZ100,Covered Hull,True
+50,Vehicle production line,79,MZ-504,Covered Hull,True
+50,Vehicle production line,80,Skd-706 RT,Covered Hull,True
+50,Vehicle production line,81,T138,Covered Hull,True
+50,Vehicle production line,82,U377,Covered Hull,True
+50,Vehicle production line,83,V3S,Covered Hull,True
+50,Vehicle production line,84,Skd-1203,Covered Hull,True
+50,Vehicle production line,85,FZK-A07,Covered Hull,True
+50,Vehicle production line,86,MZ-504,Dry Bulk Tank,True
+50,Vehicle production line,87,Skd-706 RT,Dry Bulk Tank,True
+50,Vehicle production line,88,Rmd 19-256 cistern,Dry Bulk Tank,True
+50,Vehicle production line,89,A30N,Dumper,True
+50,Vehicle production line,90,GZ53,Dumper,True
+50,Vehicle production line,91,Je300,Dumper,True
+50,Vehicle production line,92,Kmz-5320,Dumper,True
+50,Vehicle production line,93,LZ100,Dumper,True
+50,Vehicle production line,94,BZ-252,Dumper,True
+50,Vehicle production line,95,W50,Dumper,True
+50,Vehicle production line,96,Kaz-256B,Dumper,True
+50,Vehicle production line,97,Kmz-5410,Dumper,True
+50,Vehicle production line,98,LZ100,Dumper,True
+50,Vehicle production line,99,LZ100,Dumper,True
+50,Vehicle production line,100,Rmn 19-215DFK,Dumper,True
+50,Vehicle production line,101,Skd-706 RTS,Dumper,True
+50,Vehicle production line,102,T148,Dumper,True
+50,Vehicle production line,103,V3S,Dumper,True
+50,Vehicle production line,104,MZ-503,Dumper,True
+50,Vehicle production line,105,Rmn-135FK,Dumper,True
+50,Vehicle production line,106,T138,Dumper,True
+50,Vehicle production line,107,U377,Dumper,True
+50,Vehicle production line,108,Zil-130,Dumper,True
+50,Vehicle production line,109,Zil-133,Dumper,True
+50,Vehicle production line,110,Э-10011Д,Excavator,True
+50,Vehicle production line,111,Rmn 19-215,Excavator,True
+50,Vehicle production line,112,E-302B,Excavator,True
+50,Vehicle production line,113,T174,Excavator,True
+50,Vehicle production line,114,U377 logger,Felled Tree Capacity,True
+50,Vehicle production line,115,GZ53,Fire Truck,True
+50,Vehicle production line,116,Je300,Fire Truck,True
+50,Vehicle production line,117,Skd-706 RTHP,Fire Truck,True
+50,Vehicle production line,118,FZK-A07,Fire Truck,True
+50,Vehicle production line,119,IMV-2200,Fire Truck,True
+50,Vehicle production line,120,W50 fire ladder,Fire Truck,True
+50,Vehicle production line,121,W50,Fire Truck,True
+50,Vehicle production line,122,S1203,Fire Truck,True
+50,Vehicle production line,123,LZA-4045,Forklifts,True
+50,Vehicle production line,124,CK-4,Harvesting,True
+50,Vehicle production line,125,E512,Harvesting,True
+50,Vehicle production line,126,CK-5,Harvesting,True
+50,Vehicle production line,127,GZ53,Oil Tank,True
+50,Vehicle production line,128,W50,Oil Tank,True
+50,Vehicle production line,129,Kmz-5320,Oil Tank,True
+50,Vehicle production line,130,LZ100,Oil Tank,True
+50,Vehicle production line,131,Rmn 19-215,Oil Tank,True
+50,Vehicle production line,132,W50,Oil Tank,True
+50,Vehicle production line,133,Kaz-256B,Oil Tank,True
+50,Vehicle production line,134,Kmz-5410,Oil Tank,True
+50,Vehicle production line,135,MZ-503,Oil Tank,True
+50,Vehicle production line,136,Rmd 19-256 cistern,Oil Tank,True
+50,Vehicle production line,137,Rmn-135,Oil Tank,True
+50,Vehicle production line,138,T138,Oil Tank,True
+50,Vehicle production line,139,U377,Oil Tank,True
+50,Vehicle production line,140,Zil-130,Oil Tank,True
+50,Vehicle production line,141,Star 20,Oil Tank,False
+50,Vehicle production line,142,Skd-706 RTH,Oil Tank,True
+50,Vehicle production line,143,T148,Oil Tank,True
+50,Vehicle production line,144,V3S,Oil Tank,True
+50,Vehicle production line,145,Zil-133,Oil Tank,True
+50,Vehicle production line,146,Zil-133 with crane,Open Hull,True
+50,Vehicle production line,147,Rmn 12-215 logger,Open Hull,True
+50,Vehicle production line,148,A30N,Open Hull,True
+50,Vehicle production line,149,GZ53,Open Hull,True
+50,Vehicle production line,150,W50,Open Hull,True
+50,Vehicle production line,151,Rmn 12-215 logger with crane,Open Hull,True
+50,Vehicle production line,152,B1000,Open Hull,True
+50,Vehicle production line,153,W50,Open Hull,True
+50,Vehicle production line,154,IMV-2200 flatbed,Open Hull,True
+50,Vehicle production line,155,Je300,Open Hull,True
+50,Vehicle production line,156,Kmz-5320 with crane,Open Hull,True
+50,Vehicle production line,157,LZ100,Open Hull,True
+50,Vehicle production line,158,MZ-503,Open Hull,True
+50,Vehicle production line,159,Rmn 19-215DF,Open Hull,True
+50,Vehicle production line,160,Kaz-256B,Open Hull,True
+50,Vehicle production line,161,Kmz-5410,Open Hull,True
+50,Vehicle production line,162,LZ100,Open Hull,True
+50,Vehicle production line,163,MZ-504,Open Hull,True
+50,Vehicle production line,164,Rmd 19-256 flatbed,Open Hull,True
+50,Vehicle production line,165,Rmn-135F flatbed,Open Hull,True
+50,Vehicle production line,166,Skd-706 RTTN,Open Hull,True
+50,Vehicle production line,167,T148,Open Hull,True
+50,Vehicle production line,168,U377,Open Hull,True
+50,Vehicle production line,169,Zil-130,Open Hull,True
+50,Vehicle production line,170,Skd-706 RT,Open Hull,True
+50,Vehicle production line,171,T138,Open Hull,True
+50,Vehicle production line,172,T813 flatbed 6x6,Open Hull,True
+50,Vehicle production line,173,V3S,Open Hull,True
+50,Vehicle production line,174,Zil-133,Open Hull,True
+50,Vehicle production line,175,FZK-A07,Open Hull,True
+50,Vehicle production line,176,Skd-1203,Open Hull,True
+50,Vehicle production line,177,Heavy personal cabin,Passenger Cabins,True
+50,Vehicle production line,178,Light personal cabin,Passenger Cabins,True
+50,Vehicle production line,179,Light personal cabin v3,Passenger Cabins,True
+50,Vehicle production line,180,Heavy personal cabin v2,Passenger Cabins,True
+50,Vehicle production line,181,Light personal cabin v2,Passenger Cabins,True
+50,Vehicle production line,182,D150 asphalt paver,Paver,True
+50,Vehicle production line,183,D1300,Personal Car,True
+50,Vehicle production line,184,F 126p,Personal Car,True
+50,Vehicle production line,185,S100,Personal Car,True
+50,Vehicle production line,186,S110R coupe,Personal Car,True
+50,Vehicle production line,187,S1202,Personal Car,True
+50,Vehicle production line,188,F 125p,Personal Car,True
+50,Vehicle production line,189,GZ M21,Personal Car,True
+50,Vehicle production line,190,S1000,Personal Car,True
+50,Vehicle production line,191,S120L,Personal Car,True
+50,Vehicle production line,192,S120M,Personal Car,True
+50,Vehicle production line,193,T603,Personal Car,True
+50,Vehicle production line,194,Trabi 601,Personal Car,True
+50,Vehicle production line,195,V24,Personal Car,True
+50,Vehicle production line,196,VZ 2106,Personal Car,True
+50,Vehicle production line,197,T613,Personal Car,True
+50,Vehicle production line,198,Trabi 601 combi,Personal Car,True
+50,Vehicle production line,199,VZ 2101,Personal Car,True
+50,Vehicle production line,200,Wburg 353,Personal Car,True
+50,Vehicle production line,201,F 125,Police Car,True
+50,Vehicle production line,202,S100,Police Car,True
+50,Vehicle production line,203,S1202,Police Car,True
+50,Vehicle production line,204,V24,Police Car,True
+50,Vehicle production line,205,GZ M21,Police Car,True
+50,Vehicle production line,206,S120,Police Car,True
+50,Vehicle production line,207,Trabi 601,Police Car,True
+50,Vehicle production line,208,A30,Prison Bus,True
+50,Vehicle production line,209,Ifa-W50,Prison Bus,True
+50,Vehicle production line,210,Nysa,Prison Bus,True
+50,Vehicle production line,211,FZK-A07,Prison Bus,True
+50,Vehicle production line,212,B1000,Prison Bus,True
+50,Vehicle production line,213,IMV-1600,Prison Bus,True
+50,Vehicle production line,214,S1203,Prison Bus,True
+50,Vehicle production line,215,A30N,Refrigeration,True
+50,Vehicle production line,216,Kmz-5410,Refrigeration,True
+50,Vehicle production line,217,Rmn-135,Refrigeration,True
+50,Vehicle production line,218,Zil-130,Refrigeration,True
+50,Vehicle production line,219,GZ53,Refrigeration,True
+50,Vehicle production line,220,Rmd 19-256,Refrigeration,True
+50,Vehicle production line,221,Skd-706 RTTN,Refrigeration,True
+50,Vehicle production line,222,Je300,Road Crane,True
+50,Vehicle production line,223,LZ100,Road Crane,True
+50,Vehicle production line,224,Rmn 12-215,Road Crane,True
+50,Vehicle production line,225,T148,Road Crane,True
+50,Vehicle production line,226,W50,Road Crane,True
+50,Vehicle production line,227,Kmz-5320,Road Crane,True
+50,Vehicle production line,228,MZ-503,Road Crane,True
+50,Vehicle production line,229,T138,Road Crane,True
+50,Vehicle production line,230,U377,Road Crane,True
+50,Vehicle production line,231,Zil-133,Road Crane,True
+50,Vehicle production line,232,V3S,Road Crane,True
+50,Vehicle production line,233,D211,Roller,True
+50,Vehicle production line,234,LZ100,Sewage Cistern,True
+50,Vehicle production line,235,T138,Sewage Cistern,True
+50,Vehicle production line,236,V3S,Sewage Cistern,True
+50,Vehicle production line,237,Rmn-135,Sewage Cistern,True
+50,Vehicle production line,238,T148,Sewage Cistern,True
+50,Vehicle production line,239,Zil-130,Sewage Cistern,True
+50,Vehicle production line,240,GZ53,Snowplow,True
+50,Vehicle production line,241,Kaz-256,Snowplow,True
+50,Vehicle production line,242,LZ100,Snowplow,True
+50,Vehicle production line,243,Skd-706,Snowplow,True
+50,Vehicle production line,244,W50,Snowplow,True
+50,Vehicle production line,245,Kmz-5320,Snowplow,True
+50,Vehicle production line,246,Rmn,Snowplow,True
+50,Vehicle production line,247,T813,Snowplow,True
+50,Vehicle production line,248,MTZ-82,Sowing,True
+50,Vehicle production line,249,U650,Sowing,True
+50,Vehicle production line,250,T28,Sowing,True
+50,Vehicle production line,251,ZT-6911,Sowing,True
+50,Vehicle production line,252,A1,Tower Crane,True
+50,Vehicle production line,253,B2,Tower Crane,True
+50,Vehicle production line,254,Type-C3,Tower Crane,True
+50,Vehicle production line,255,A2,Tower Crane,True
+50,Vehicle production line,256,Type-C2,Tower Crane,True
+50,Vehicle production line,257,Type-C1,Tower Crane,True
+50,Vehicle production line,258,Skd-8T,Trolleybus,True
+50,Vehicle production line,259,ZiU-682,Trolleybus,True
+50,Vehicle production line,260,ZiU-5,Trolleybus,True
+50,Vehicle production line,261,Kmz-5320,Waste Truck,True
+50,Vehicle production line,262,GZ53-m,Waste Truck,True
+50,Vehicle production line,263,LZ100,Waste Truck,True
+50,Vehicle production line,264,Skd-706 RTK,Waste Truck,True
+50,Vehicle production line,265,Skd-706RT,Waste Truck,True
+50,Vehicle production line,266,Ifa-W50,Waste Truck,True
+50,Vehicle production line,267,Rmn 12-215,Waste Truck,True
+50,Vehicle production line,268,LZ100,Water Cistern,True
+50,Vehicle production line,269,T138,Water Cistern,True
+50,Vehicle production line,270,V3S,Water Cistern,True
+50,Vehicle production line,271,Rmn-135,Water Cistern,True
+50,Vehicle production line,272,T148,Water Cistern,True
+50,Vehicle production line,273,Zil-130,Water Cistern,True
+50,Vehicle production line,274,K700,Bulldozer,False
+50,Vehicle production line,275,Star 20,Concrete Mixer,False
+50,Vehicle production line,276,Star 20,Covered Hull,False
+50,Vehicle production line,277,K700 6x6,Covered Hull,False
+50,Vehicle production line,278,FedEx Truck (medium),Covered Hull,False
+50,Vehicle production line,279,Mobile Silo,Covered Hull,False
+50,Vehicle production line,280,FedEx Truck (small),Covered Hull,False
+50,Vehicle production line,281,FedEx Truck (big),Covered Hull,False
+50,Vehicle production line,282,K700 Loader,Dumper,False
+50,Vehicle production line,283,K700,Felled Tree Capacity,False
+50,Vehicle production line,284,Star 20,Fire Truck,False
+50,Vehicle production line,285,Star 20,Oil Tank,False
+50,Vehicle production line,286,Star 20,Open Hull,False
+50,Vehicle production line,287,K700 6x6,Open Hull,False
+50,Vehicle production line,288,Asphalt paver D-165-L,Paver,False
+50,Vehicle production line,289,KS-3562B,Road Crane,False
+50,Vehicle production line,290,ATK-1,Road Crane,False
+50,Vehicle production line,291,KC-6471,Road Crane,False
+50,Vehicle production line,292,D222 Roller-L,Roller,False
+50,Vehicle production line,293,Star 20,Sewage Cistern,False
+50,Vehicle production line,294,K700 6x6,Snowplow,False
+50,Vehicle production line,295,K700 Tractor,Sowing,False
+50,Vehicle production line,296,BK-1000,Tower Crane,False
+50,Vehicle production line,297,MSK-10-20 5 levels,Tower Crane,False
+50,Vehicle production line,298,KB-674 83m,Tower Crane,False
+50,Vehicle production line,299,KB-160.2,Tower Crane,False
+50,Vehicle production line,300,MSK-10-20 9 levels,Tower Crane,False
+50,Vehicle production line,301,Star 20,Water Cistern,False
+49,Railway production line,302,Boxcar 11-066,Cargo wagon,True
+49,Railway production line,303,Boxcar 11-280,Cargo wagon,True
+49,Railway production line,304,Isotherm refrig. wagon,Cargo wagon,True
+49,Railway production line,305,Boxcar (livestock),Cargo wagon,True
+49,Railway production line,306,Falls open hopper,Cargo wagon,True
+49,Railway production line,307,Boxcar 11-270,Cargo wagon,True
+49,Railway production line,308,11-715 dry bulk tank,Cargo wagon,True
+49,Railway production line,309,ZB5 refrig. wagon,Cargo wagon,True
+49,Railway production line,310,Faccs open hopper,Cargo wagon,True
+49,Railway production line,311,Open hopper,Cargo wagon,True
+49,Railway production line,312,12-132 open wagon,Cargo wagon,True
+49,Railway production line,313,13-401 open wagon,Cargo wagon,True
+49,Railway production line,314,13-926 open wagon,Cargo wagon,True
+49,Railway production line,315,15-1443 tanker,Cargo wagon,True
+49,Railway production line,316,15-871 tanker,Cargo wagon,True
+49,Railway production line,317,12-515 open wagon,Cargo wagon,True
+49,Railway production line,318,13-4012 open wagon,Cargo wagon,True
+49,Railway production line,319,Raj mixer wagon,Cargo wagon,True
+49,Railway production line,320,15-1547 tanker,Cargo wagon,True
+49,Railway production line,321,Eas open hopper,Cargo wagon,True
+49,Railway production line,322,Eas open,Cargo wagon,True
+49,Railway production line,323,Es open hopper,Cargo wagon,True
+49,Railway production line,324,Es waste,Cargo wagon,True
+49,Railway production line,325,Eas waste,Cargo wagon,True
+49,Railway production line,326,Es open,Cargo wagon,True
+49,Railway production line,327,060 DA,Diesel locomotive,True
+49,Railway production line,328,CME2,Diesel locomotive,True
+49,Railway production line,329,DR Class-V100,Diesel locomotive,True
+49,Railway production line,330,M62,Diesel locomotive,True
+49,Railway production line,331,2TE-2116,Diesel locomotive,True
+49,Railway production line,332,Type-753,Diesel locomotive,True
+49,Railway production line,333,CME3,Diesel locomotive,True
+49,Railway production line,334,DR Class-119,Diesel locomotive,True
+49,Railway production line,335,SU45,Diesel locomotive,True
+49,Railway production line,336,T3M2,Diesel locomotive,True
+49,Railway production line,337,T678,Diesel locomotive,True
+49,Railway production line,338,TEP70,Diesel locomotive,True
+49,Railway production line,339,"Class-700 ""Pig""",Diesel locomotive,True
+49,Railway production line,340,"Class-701 ""Pig""",Diesel locomotive,True
+49,Railway production line,341,TE7,Diesel locomotive,True
+49,Railway production line,342,"Class-749 ""Bardotka""",Diesel locomotive,True
+49,Railway production line,343,"Class-700A ""Pig""",Diesel locomotive,True
+49,Railway production line,344,"Class-701 ""Pig""",Diesel locomotive,True
+49,Railway production line,345,Type-163,Electric locomotive,True
+49,Railway production line,346,ChS2r (53E),Electric locomotive,True
+49,Railway production line,347,ChS4 (52E),Electric locomotive,True
+49,Railway production line,348,DR Class-243,Electric locomotive,True
+49,Railway production line,349,DR Class-E251,Electric locomotive,True
+49,Railway production line,350,ChS2 (25E),Electric locomotive,True
+49,Railway production line,351,ChS2t (63E),Electric locomotive,True
+49,Railway production line,352,ChS7,Electric locomotive,True
+49,Railway production line,353,PW-201E,Electric locomotive,True
+49,Railway production line,354,VL10,Electric locomotive,True
+49,Railway production line,355,VL23,Electric locomotive,True
+49,Railway production line,356,Class-150,Electric locomotive,True
+49,Railway production line,357,Class-125.8 twin,Electric locomotive,True
+49,Railway production line,358,ET40 twin,Electric locomotive,True
+49,Railway production line,359,VL80K,Electric locomotive,True
+49,Railway production line,360,Class-350,Electric locomotive,True
+49,Railway production line,361,Class-131 twin,Electric locomotive,True
+49,Railway production line,362,81-717,Metro,True
+49,Railway production line,363,Yauza 81-720,Metro,True
+49,Railway production line,364,Ecs,Metro,True
+49,Railway production line,365,81-717.5,Metro,True
+49,Railway production line,366,Astra IVA,Metro,True
+49,Railway production line,367,Ganz-MFAV,Metro,True
+49,Railway production line,368,MV-820,Motor wagon,True
+49,Railway production line,369,M131,Motor wagon,True
+49,Railway production line,370,DR Class-VT2.09,Motor wagon,True
+49,Railway production line,371,MV-853,Motor wagon,True
+49,Railway production line,372,M152,Motor wagon,True
+49,Railway production line,373,Ammd,Passenger wagon,True
+49,Railway production line,374,RT200,Passenger wagon,True
+49,Railway production line,375,TV61,Passenger wagon,True
+49,Railway production line,376,RIC,Passenger wagon,True
+49,Railway production line,377,TV50,Passenger wagon,True
+49,Railway production line,378,UIC-Y,Passenger wagon,True
+49,Railway production line,379,Kzh-461,Track builder,True
+49,Railway production line,380,DKGU-5,Track builder,True
+49,Railway production line,381,MUV-69,Track builder,True
+49,Railway production line,382,UK25,Track builder,True
+49,Railway production line,383,AGMu,Track builder,True
+49,Railway production line,384,EDK-300,Track builder,True
+49,Railway production line,385,KT1-5.6m,Track builder,True
+49,Railway production line,386,MUV,Track builder,False
+49,Railway production line,387,D1,Trainset,True
+49,Railway production line,388,DR1A,Trainset,True
+49,Railway production line,389,ER2,Trainset,True
+49,Railway production line,390,EJ-460,Trainset,True
+49,Railway production line,391,DP,Trainset,True
+49,Railway production line,392,PFWG-EN57,Trainset,True
+49,Railway production line,393,DRG SVT-137,Trainset,True
+49,Railway production line,394,102NA,Tram,True
+49,Railway production line,395,13N,Tram,True
+49,Railway production line,396,KT8D5,Tram,True
+49,Railway production line,397,LM68,Tram,True
+49,Railway production line,398,RVR6,Tram,True
+49,Railway production line,399,105NA,Tram,True
+49,Railway production line,400,CSMG,Tram,True
+49,Railway production line,401,KTM-2,Tram,True
+49,Railway production line,402,LM68M,Tram,True
+49,Railway production line,403,T1,Tram,True
+49,Railway production line,404,T2,Tram,True
+49,Railway production line,405,T6B5,Tram,True
+49,Railway production line,406,T3,Tram,True
+49,Railway production line,407,Tim2,Tram,True
+20,Dry dock,408,Container express,Cargo ships,True
+20,Dry dock,409,"""Ighnatov"" (cargo)",Cargo ships,True
+20,Dry dock,410,"""Lubbenau"" (aggregates)",Cargo ships,True
+20,Dry dock,411,River cargo ship,Cargo ships,True
+20,Dry dock,412,"""The Pride"" (tanker)",Cargo ships,True
+20,Dry dock,413,"""Fullin"" (tanker)",Cargo ships,True
+20,Dry dock,414,Hopper ship,Cargo ships,True
+20,Dry dock,415,"""Frida"" (cargo)",Cargo ships,True
+20,Dry dock,416,"""Sofia"" (tanker)",Cargo ships,True
+20,Dry dock,417,Type-587 Los (tanker),Cargo ships,True
+20,Dry dock,418,"""Volgobalt"" (cargo)",Cargo ships,True
+20,Dry dock,419,"""Volgodon"" (cargo)",Cargo ships,True
+20,Dry dock,420,"""Dunay""",Passenger ships,True
+20,Dry dock,421,"""Moskvich""",Passenger ships,True
+20,Dry dock,422,Meteor-342,Passenger ships,True

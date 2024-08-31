@@ -1,0 +1,57 @@
+name,is_finished_goods,is_waste,unit_of_measure
+Alcohol,True,False,ton
+Aluminium,False,False,ton
+Aluminium oxide,False,False,ton
+Aluminium scrap,False,False,ton
+Ash,False,False,ton
+Asphalt,False,False,ton
+Bauxite,False,False,ton
+Biological waste,False,True,ton
+Bitumen,False,False,ton
+Boards,False,False,ton
+Bricks,False,False,ton
+Burnable waste,False,True,ton
+Cement,False,False,ton
+Chemicals,False,False,ton
+Clothes,True,False,ton
+Coal,False,False,ton
+Coal ore,False,False,ton
+Concrete,False,False,ton
+Construction waste,False,True,ton
+Crops,False,False,ton
+Electro components,False,False,ton
+Electronics,False,False,ton
+Explosives,False,False,ton
+Fabric,False,False,ton
+Fertiliser,False,True,ton
+Food,False,False,ton
+Fuel,False,False,ton
+Gravel,False,False,ton
+Hazardous waste,False,True,ton
+Iron,False,False,ton
+Iron ore,False,False,ton
+Livestock,False,False,ton
+Liquid fertiliser,False,False,ton
+Meat,False,False,ton
+Mechanical components,False,False,ton
+Metal scrap,False,False,ton
+Mixed waste,False,True,ton
+Nuclear fuel,False,False,ton
+Nuclear waste,False,True,ton
+Oil,False,False,ton
+Other waste,False,True,ton
+Plastic waste,False,True,ton
+Plastics,False,False,ton
+Power,False,False,MWh
+Prefab panels,False,False,ton
+Quarried stone,False,False,ton
+Raw bauxite,False,False,ton
+Steel,False,False,ton
+UF6,False,False,ton
+Uranium ore,False,False,ton
+Uranium oxide,False,False,ton
+Vehicles,True,False,ton
+Waste water,False,True,m^2
+Water,False,False,m^2
+Wood,False,False,ton
+Workdays,False,False,workday

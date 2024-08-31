@@ -1,0 +1,1624 @@
+blueprint_id,resource,qty
+1,Alcohol,11.0
+1,Aluminium,22.0
+1,Aluminium oxide,9.9
+1,Boards,22.0
+1,Bricks,17.0
+1,Cement,9.9
+1,Chemicals,6.6
+1,Clothes,11.0
+1,Crops,17.0
+1,Electro components,7.7
+1,Electronics,7.7
+1,Explosives,8.8
+1,Fabric,15.0
+1,Food,11.0
+1,Livestock,7.7
+1,Meat,5.5
+1,Mechanical components,11.0
+1,Plastics,5.5
+1,Prefab panels,19.0
+1,Steel,22.0
+1,Uranium oxide,11.0
+1,Wood,22.0
+4,Alcohol,23.0
+4,Aluminium,47.0
+4,Aluminium oxide,21.0
+4,Boards,47.0
+4,Bricks,37.0
+4,Cement,21.0
+4,Chemicals,14.0
+4,Clothes,23.0
+4,Crops,37.0
+4,Electro components,16.0
+4,Electronics,16.0
+4,Explosives,18.0
+4,Fabric,32.0
+4,Food,23.0
+4,Livestock,16.0
+4,Meat,11.0
+4,Mechanical components,23.0
+4,Plastics,11.0
+4,Prefab panels,42.0
+4,Steel,47.0
+4,Uranium oxide,23.0
+4,Wood,47.0
+8,Alcohol,10.0
+8,Aluminium,20.0
+8,Aluminium oxide,9.0
+8,Boards,20.0
+8,Bricks,16.0
+8,Cement,9.0
+8,Chemicals,6.0
+8,Clothes,10.0
+8,Crops,16.0
+8,Electro components,7.0
+8,Electronics,7.0
+8,Explosives,8.0
+8,Fabric,14.0
+8,Food,10.0
+8,Livestock,7.0
+8,Meat,5.0
+8,Mechanical components,10.0
+8,Plastics,5.0
+8,Prefab panels,18.0
+8,Steel,20.0
+8,Uranium oxide,10.0
+8,Wood,20.0
+17,Alcohol,6.5
+17,Aluminium,13.0
+17,Aluminium oxide,5.8
+17,Boards,13.0
+17,Bricks,10.0
+17,Cement,5.8
+17,Chemicals,3.9
+17,Clothes,6.5
+17,Crops,10.0
+17,Electro components,4.5
+17,Electronics,4.5
+17,Explosives,5.2
+17,Fabric,9.1
+17,Food,6.5
+17,Livestock,4.5
+17,Meat,3.3
+17,Mechanical components,6.5
+17,Plastics,3.3
+17,Prefab panels,18.0
+17,Steel,13.0
+17,Uranium oxide,6.5
+17,Wood,13.0
+50,Alcohol,1.3
+50,Aluminium,2.5
+50,Aluminium oxide,1.1
+50,Boards,2.5
+50,Bricks,2.0
+50,Cement,1.1
+50,Chemicals,0.75
+50,Clothes,1.3
+50,Crops,2.0
+50,Electro components,0.88
+50,Electronics,0.88
+50,Explosives,1.0
+50,Fabric,1.8
+50,Food,1.3
+50,Livestock,0.88
+50,Meat,0.63
+50,Mechanical components,1.3
+50,Plastics,0.63
+50,Prefab panels,2.3
+50,Steel,2.5
+50,Uranium oxide,1.3
+50,Wood,2.5
+51,Aluminium scrap,3.3
+51,Asphalt,4.7
+51,Bauxite,4.7
+51,Coal,4.7
+51,Coal ore,4.7
+51,Construction waste,4.7
+51,Gravel,4.7
+51,Iron,4.7
+51,Iron ore,4.7
+51,Metal scrap,2.8
+51,Quarried stone,4.7
+51,Raw bauxite,4.7
+51,Uranium ore,4.7
+52,Aluminium scrap,4.5
+52,Biological waste,4.5
+52,Construction waste,4.5
+52,Fertiliser,4.5
+52,Hazardous waste,4.5
+52,Metal scrap,4.5
+52,Mixed waste,4.5
+52,Plastic waste,4.5
+53,Alcohol,0.6
+53,Aluminium,1.2
+53,Aluminium oxide,0.54
+53,Boards,1.2
+53,Bricks,0.96
+53,Cement,0.54
+53,Chemicals,0.36
+53,Clothes,0.6
+53,Crops,0.96
+53,Electro components,0.42
+53,Electronics,0.42
+53,Explosives,0.48
+53,Fabric,0.84
+53,Food,0.6
+53,Livestock,0.42
+53,Meat,0.3
+53,Mechanical components,0.6
+53,Plastics,0.3
+53,Prefab panels,1.1
+53,Steel,1.2
+53,Uranium oxide,0.6
+53,Wood,1.2
+54,Aluminium scrap,1.6
+54,Asphalt,2.3
+54,Bauxite,2.3
+54,Coal,2.3
+54,Coal ore,2.3
+54,Construction waste,2.3
+54,Gravel,2.3
+54,Iron,2.3
+54,Iron ore,2.3
+54,Metal scrap,1.4
+54,Quarried stone,2.3
+54,Raw bauxite,2.3
+54,Uranium ore,2.3
+55,Aluminium scrap,2.2
+55,Biological waste,2.2
+55,Construction waste,2.2
+55,Fertiliser,2.2
+55,Hazardous waste,2.2
+55,Metal scrap,2.2
+55,Mixed waste,2.2
+55,Plastic waste,2.2
+56,Concrete,13.0
+57,Concrete,10.0
+58,Concrete,10.0
+59,Concrete,3.5
+60,Concrete,11.0
+61,Concrete,10.0
+62,Concrete,12.0
+63,Alcohol,1.9
+63,Chemicals,1.1
+63,Clothes,1.9
+63,Crops,3.0
+63,Electro components,1.3
+63,Electronics,1.3
+63,Explosives,1.5
+63,Fabric,2.6
+63,Food,1.9
+63,Livestock,1.3
+63,Mechanical components,1.9
+63,Plastics,0.93
+64,Alcohol,2.5
+64,Chemicals,1.5
+64,Clothes,2.5
+64,Crops,4.0
+64,Electro components,1.8
+64,Electronics,1.8
+64,Explosives,2.0
+64,Fabric,3.5
+64,Food,2.5
+64,Livestock,1.8
+64,Mechanical components,2.5
+64,Plastics,1.3
+65,Alcohol,0.88
+65,Chemicals,0.53
+65,Clothes,0.88
+65,Crops,1.4
+65,Electro components,0.61
+65,Electronics,0.61
+65,Explosives,0.7
+65,Fabric,1.2
+65,Food,0.88
+65,Livestock,0.61
+65,Mechanical components,0.88
+65,Plastics,0.44
+66,Alcohol,5.8
+66,Chemicals,3.5
+66,Clothes,5.8
+66,Crops,9.2
+66,Electro components,4.0
+66,Electronics,4.0
+66,Explosives,4.6
+66,Fabric,8.1
+66,Food,5.8
+66,Livestock,4.0
+66,Mechanical components,5.8
+66,Plastics,2.9
+67,Alcohol,8.5
+67,Chemicals,5.1
+67,Clothes,8.5
+67,Crops,13.0
+67,Electro components,5.9
+67,Electronics,5.9
+67,Explosives,6.8
+67,Fabric,11.0
+67,Food,8.5
+67,Livestock,5.9
+67,Mechanical components,8.5
+67,Plastics,4.3
+68,Alcohol,0.55
+68,Chemicals,0.33
+68,Clothes,0.55
+68,Crops,0.88
+68,Electro components,0.38
+68,Electronics,0.38
+68,Explosives,0.44
+68,Fabric,0.77
+68,Food,0.55
+68,Livestock,0.38
+68,Mechanical components,0.55
+68,Plastics,0.28
+69,Alcohol,4.5
+69,Chemicals,2.7
+69,Clothes,4.5
+69,Crops,7.2
+69,Electro components,3.1
+69,Electronics,3.1
+69,Explosives,3.6
+69,Fabric,6.3
+69,Food,4.5
+69,Livestock,3.1
+69,Mechanical components,4.5
+69,Plastics,2.3
+70,Alcohol,4.0
+70,Chemicals,2.4
+70,Clothes,4.0
+70,Crops,6.4
+70,Electro components,2.8
+70,Electronics,2.8
+70,Explosives,3.2
+70,Fabric,5.6
+70,Food,4.0
+70,Livestock,2.8
+70,Mechanical components,4.0
+70,Plastics,2.0
+71,Alcohol,5.1
+71,Chemicals,3.1
+71,Clothes,5.1
+71,Crops,8.2
+71,Electro components,3.6
+71,Electronics,3.6
+71,Explosives,4.1
+71,Fabric,7.1
+71,Food,5.1
+71,Livestock,3.6
+71,Mechanical components,5.1
+71,Plastics,2.5
+72,Alcohol,4.5
+72,Chemicals,2.7
+72,Clothes,4.5
+72,Crops,7.2
+72,Electro components,3.1
+72,Electronics,3.1
+72,Explosives,3.6
+72,Fabric,6.3
+72,Food,4.5
+72,Livestock,3.1
+72,Mechanical components,4.5
+72,Plastics,2.3
+73,Alcohol,8.3
+73,Chemicals,5.0
+73,Clothes,8.3
+73,Crops,13.0
+73,Electro components,5.8
+73,Electronics,5.8
+73,Explosives,6.6
+73,Fabric,11.0
+73,Food,8.3
+73,Livestock,5.8
+73,Mechanical components,8.3
+73,Plastics,4.1
+74,Alcohol,3.5
+74,Chemicals,2.1
+74,Clothes,3.5
+74,Crops,5.6
+74,Electro components,2.5
+74,Electronics,2.5
+74,Explosives,2.8
+74,Fabric,4.9
+74,Food,3.5
+74,Livestock,1.3
+74,Mechanical components,3.5
+74,Plastics,1.8
+75,Alcohol,3.8
+75,Chemicals,2.3
+75,Clothes,3.8
+75,Crops,6.1
+75,Electro components,2.7
+75,Electronics,2.7
+75,Explosives,3.1
+75,Fabric,5.4
+75,Food,3.8
+75,Livestock,2.7
+75,Mechanical components,3.8
+75,Plastics,1.9
+76,Alcohol,6.5
+76,Chemicals,3.9
+76,Clothes,6.5
+76,Crops,10.0
+76,Electro components,4.5
+76,Electronics,4.5
+76,Explosives,5.2
+76,Fabric,9.1
+76,Food,6.5
+76,Livestock,4.5
+76,Mechanical components,6.5
+76,Plastics,3.3
+77,Alcohol,4.9
+77,Chemicals,2.9
+77,Clothes,4.9
+77,Crops,7.8
+77,Electro components,3.4
+77,Electronics,3.4
+77,Explosives,3.9
+77,Fabric,6.9
+77,Food,4.9
+77,Livestock,3.4
+77,Mechanical components,4.9
+77,Plastics,2.5
+78,Alcohol,7.0
+78,Chemicals,4.2
+78,Clothes,7.0
+78,Crops,11.0
+78,Electro components,4.9
+78,Electronics,4.9
+78,Explosives,5.6
+78,Fabric,9.8
+78,Food,7.0
+78,Livestock,4.9
+78,Mechanical components,7.0
+78,Plastics,3.5
+79,Alcohol,6.5
+79,Chemicals,3.9
+79,Clothes,6.5
+79,Crops,10.0
+79,Electro components,4.5
+79,Electronics,4.5
+79,Explosives,5.2
+79,Fabric,9.1
+79,Food,6.5
+79,Livestock,4.5
+79,Mechanical components,6.5
+79,Plastics,3.3
+80,Alcohol,3.5
+80,Chemicals,2.1
+80,Clothes,3.5
+80,Crops,5.6
+80,Electro components,2.5
+80,Electronics,2.5
+80,Explosives,2.8
+80,Fabric,4.9
+80,Food,3.5
+80,Livestock,1.3
+80,Mechanical components,3.5
+80,Plastics,1.8
+81,Alcohol,4.7
+81,Chemicals,2.8
+81,Clothes,4.7
+81,Crops,7.4
+81,Electro components,3.3
+81,Electronics,3.3
+81,Explosives,3.7
+81,Fabric,6.5
+81,Food,4.7
+81,Livestock,3.3
+81,Mechanical components,4.7
+81,Plastics,2.3
+82,Alcohol,4.3
+82,Chemicals,2.6
+82,Clothes,4.3
+82,Crops,6.8
+82,Electro components,3.0
+82,Electronics,3.0
+82,Explosives,3.4
+82,Fabric,5.9
+82,Food,4.3
+82,Livestock,3.0
+82,Mechanical components,4.3
+82,Plastics,2.1
+83,Alcohol,2.0
+83,Chemicals,1.2
+83,Clothes,2.0
+83,Crops,3.3
+83,Electro components,1.4
+83,Electronics,1.4
+83,Explosives,1.6
+83,Fabric,2.9
+83,Food,2.0
+83,Livestock,1.4
+83,Mechanical components,2.0
+83,Plastics,1.0
+84,Alcohol,0.5
+84,Chemicals,0.3
+84,Clothes,0.5
+84,Crops,0.8
+84,Electro components,0.35
+84,Electronics,0.35
+84,Explosives,0.4
+84,Fabric,0.7
+84,Food,0.5
+84,Livestock,0.35
+84,Mechanical components,0.5
+84,Plastics,0.25
+85,Alcohol,0.63
+85,Chemicals,0.38
+85,Clothes,0.63
+85,Crops,1.0
+85,Electro components,0.44
+85,Electronics,0.44
+85,Explosives,0.5
+85,Fabric,0.88
+85,Food,0.63
+85,Livestock,0.44
+85,Mechanical components,0.63
+85,Plastics,0.31
+86,Aluminium oxide,9.4
+86,Cement,9.4
+87,Aluminium oxide,7.0
+87,Cement,7.0
+88,Aluminium oxide,15.0
+88,Cement,15.0
+89,Aluminium scrap,2.8
+89,Asphalt,4.0
+89,Bauxite,4.0
+89,Coal,4.0
+89,Coal ore,4.0
+89,Construction waste,4.0
+89,Gravel,4.0
+89,Iron,4.0
+89,Iron ore,4.0
+89,Metal scrap,2.4
+89,Quarried stone,4.0
+89,Raw bauxite,4.0
+89,Uranium ore,4.0
+90,Aluminium scrap,2.5
+90,Asphalt,3.5
+90,Bauxite,3.5
+90,Coal,3.5
+90,Coal ore,3.5
+90,Construction waste,3.5
+90,Gravel,3.5
+90,Iron,3.5
+90,Iron ore,3.5
+90,Metal scrap,2.1
+90,Quarried stone,3.5
+90,Raw bauxite,3.5
+90,Uranium ore,3.5
+91,Aluminium scrap,5.3
+91,Asphalt,7.5
+91,Bauxite,7.5
+91,Coal,7.5
+91,Coal ore,7.5
+91,Construction waste,7.5
+91,Gravel,7.5
+91,Iron,7.5
+91,Iron ore,7.5
+91,Metal scrap,4.5
+91,Quarried stone,7.5
+91,Raw bauxite,7.5
+91,Uranium ore,7.5
+92,Aluminium scrap,7.7
+92,Asphalt,11.0
+92,Bauxite,11.0
+92,Coal,11.0
+92,Coal ore,11.0
+92,Construction waste,11.0
+92,Gravel,11.0
+92,Iron,11.0
+92,Iron ore,11.0
+92,Metal scrap,6.6
+92,Quarried stone,11.0
+92,Raw bauxite,11.0
+92,Uranium ore,11.0
+93,Aluminium scrap,5.6
+93,Asphalt,8.0
+93,Bauxite,8.0
+93,Coal,8.0
+93,Coal ore,8.0
+93,Construction waste,8.0
+93,Gravel,8.0
+93,Iron,8.0
+93,Iron ore,8.0
+93,Metal scrap,4.8
+93,Quarried stone,8.0
+93,Raw bauxite,8.0
+93,Uranium ore,8.0
+94,Aluminium scrap,17.0
+94,Asphalt,25.0
+94,Bauxite,25.0
+94,Coal,25.0
+94,Coal ore,25.0
+94,Construction waste,25.0
+94,Gravel,25.0
+94,Iron,25.0
+94,Iron ore,25.0
+94,Metal scrap,15.0
+94,Quarried stone,25.0
+94,Raw bauxite,25.0
+94,Uranium ore,25.0
+95,Aluminium scrap,2.1
+95,Asphalt,3.0
+95,Bauxite,3.0
+95,Coal,3.0
+95,Coal ore,3.0
+95,Construction waste,3.0
+95,Gravel,3.0
+95,Iron,3.0
+95,Iron ore,3.0
+95,Metal scrap,1.8
+95,Quarried stone,3.0
+95,Raw bauxite,3.0
+95,Uranium ore,3.0
+96,Aluminium scrap,8.4
+96,Asphalt,12.0
+96,Bauxite,12.0
+96,Coal,12.0
+96,Coal ore,12.0
+96,Construction waste,12.0
+96,Gravel,12.0
+96,Iron,12.0
+96,Iron ore,12.0
+96,Metal scrap,7.2
+96,Quarried stone,12.0
+96,Raw bauxite,12.0
+96,Uranium ore,12.0
+97,Aluminium scrap,11.0
+97,Asphalt,17.0
+97,Bauxite,17.0
+97,Coal,17.0
+97,Coal ore,17.0
+97,Construction waste,17.0
+97,Gravel,17.0
+97,Iron,17.0
+97,Iron ore,17.0
+97,Metal scrap,10.0
+97,Quarried stone,17.0
+97,Raw bauxite,17.0
+97,Uranium ore,17.0
+98,Aluminium scrap,9.1
+98,Asphalt,13.0
+98,Bauxite,13.0
+98,Coal,13.0
+98,Coal ore,13.0
+98,Construction waste,13.0
+98,Gravel,13.0
+98,Iron,13.0
+98,Iron ore,13.0
+98,Metal scrap,9.1
+98,Quarried stone,13.0
+98,Raw bauxite,13.0
+98,Uranium ore,13.0
+99,Aluminium scrap,9.8
+99,Asphalt,14.0
+99,Bauxite,14.0
+99,Coal,14.0
+99,Coal ore,14.0
+99,Construction waste,14.0
+99,Gravel,14.0
+99,Iron,14.0
+99,Iron ore,14.0
+99,Metal scrap,8.4
+99,Quarried stone,14.0
+99,Raw bauxite,14.0
+99,Uranium ore,14.0
+100,Aluminium scrap,7.0
+100,Asphalt,10.0
+100,Bauxite,10.0
+100,Coal,10.0
+100,Coal ore,10.0
+100,Construction waste,10.0
+100,Gravel,10.0
+100,Iron,10.0
+100,Iron ore,10.0
+100,Metal scrap,6.0
+100,Quarried stone,10.0
+100,Raw bauxite,10.0
+100,Uranium ore,10.0
+101,Aluminium scrap,5.3
+101,Asphalt,7.5
+101,Bauxite,7.5
+101,Coal,7.5
+101,Coal ore,7.5
+101,Construction waste,7.5
+101,Gravel,7.5
+101,Iron,7.5
+101,Iron ore,7.5
+101,Metal scrap,4.5
+101,Quarried stone,7.5
+101,Raw bauxite,7.5
+101,Uranium ore,7.5
+102,Aluminium scrap,7.8
+102,Asphalt,11.0
+102,Bauxite,11.0
+102,Coal,11.0
+102,Coal ore,11.0
+102,Construction waste,11.0
+102,Gravel,11.0
+102,Iron,11.0
+102,Iron ore,11.0
+102,Metal scrap,6.7
+102,Quarried stone,11.0
+102,Raw bauxite,11.0
+102,Uranium ore,11.0
+103,Aluminium scrap,3.1
+103,Asphalt,4.5
+103,Bauxite,4.5
+103,Coal,4.5
+103,Coal ore,4.5
+103,Construction waste,4.5
+103,Gravel,4.5
+103,Iron,4.5
+103,Iron ore,4.5
+103,Metal scrap,2.7
+103,Quarried stone,4.5
+103,Raw bauxite,4.5
+103,Uranium ore,4.5
+104,Aluminium scrap,4.9
+104,Asphalt,7.0
+104,Bauxite,7.0
+104,Coal,7.0
+104,Coal ore,7.0
+104,Construction waste,7.0
+104,Gravel,7.0
+104,Iron,7.0
+104,Iron ore,7.0
+104,Metal scrap,4.2
+104,Quarried stone,7.0
+104,Raw bauxite,7.0
+104,Uranium ore,7.0
+105,Aluminium scrap,4.1
+105,Asphalt,5.8
+105,Bauxite,5.8
+105,Coal,5.8
+105,Coal ore,5.8
+105,Construction waste,5.8
+105,Gravel,5.8
+105,Iron,5.8
+105,Iron ore,5.8
+105,Metal scrap,3.5
+105,Quarried stone,5.8
+105,Raw bauxite,5.8
+105,Uranium ore,5.8
+106,Aluminium scrap,7.0
+106,Asphalt,10.0
+106,Bauxite,10.0
+106,Coal,10.0
+106,Coal ore,10.0
+106,Construction waste,10.0
+106,Gravel,10.0
+106,Iron,10.0
+106,Iron ore,10.0
+106,Metal scrap,6.0
+106,Quarried stone,10.0
+106,Raw bauxite,10.0
+106,Uranium ore,10.0
+107,Aluminium scrap,6.7
+107,Asphalt,9.5
+107,Bauxite,9.5
+107,Coal,9.5
+107,Coal ore,9.5
+107,Construction waste,9.5
+107,Gravel,9.5
+107,Iron,9.5
+107,Iron ore,9.5
+107,Metal scrap,5.7
+107,Quarried stone,9.5
+107,Raw bauxite,9.5
+107,Uranium ore,9.5
+108,Aluminium scrap,3.5
+108,Asphalt,5.0
+108,Bauxite,5.0
+108,Coal,5.0
+108,Coal ore,5.0
+108,Construction waste,5.0
+108,Gravel,5.0
+108,Iron,5.0
+108,Iron ore,5.0
+108,Metal scrap,3.0
+108,Quarried stone,5.0
+108,Raw bauxite,5.0
+108,Uranium ore,5.0
+109,Aluminium scrap,8.4
+109,Asphalt,12.0
+109,Bauxite,12.0
+109,Coal,12.0
+109,Coal ore,12.0
+109,Construction waste,12.0
+109,Gravel,12.0
+109,Iron,12.0
+109,Iron ore,12.0
+109,Metal scrap,7.2
+109,Quarried stone,12.0
+109,Raw bauxite,12.0
+109,Uranium ore,12.0
+114,Aluminium,16.0
+123,Alcohol,0.88
+123,Aluminium,1.8
+123,Aluminium oxide,0.79
+123,Boards,1.8
+123,Bricks,1.4
+123,Cement,0.79
+123,Chemicals,0.53
+123,Clothes,0.88
+123,Crops,1.4
+123,Electro components,0.61
+123,Electronics,0.61
+123,Explosives,0.7
+123,Fabric,1.2
+123,Food,0.88
+123,Livestock,0.61
+123,Meat,0.44
+123,Mechanical components,0.88
+123,Plastics,0.44
+123,Prefab panels,1.6
+123,Steel,1.8
+123,Uranium oxide,0.88
+123,Wood,1.8
+127,Bitumen,4.0
+127,Fuel,4.0
+127,Liquid fertiliser,4.0
+127,Oil,4.0
+128,Bitumen,9.0
+128,Fuel,9.0
+128,Liquid fertiliser,9.0
+128,Oil,9.0
+129,Bitumen,9.0
+129,Fuel,9.0
+129,Liquid fertiliser,9.0
+129,Oil,9.0
+130,Bitumen,13.0
+130,Fuel,13.0
+130,Liquid fertiliser,13.0
+130,Oil,13.0
+131,Bitumen,8.7
+131,Fuel,8.7
+131,Liquid fertiliser,8.7
+131,Oil,8.7
+132,Bitumen,5.0
+132,Fuel,5.0
+132,Liquid fertiliser,5.0
+132,Oil,5.0
+133,Bitumen,11.0
+133,Fuel,11.0
+133,Liquid fertiliser,11.0
+133,Oil,11.0
+134,Bitumen,16.0
+134,Fuel,16.0
+134,Liquid fertiliser,16.0
+134,Oil,16.0
+135,Bitumen,7.0
+135,Fuel,7.0
+135,Liquid fertiliser,7.0
+135,Oil,7.0
+136,Bitumen,15.0
+136,Fuel,15.0
+136,Liquid fertiliser,15.0
+136,Oil,15.0
+137,Bitumen,3.8
+137,Fuel,3.8
+137,Liquid fertiliser,3.8
+137,Oil,3.8
+138,Bitumen,11.0
+138,Fuel,11.0
+138,Liquid fertiliser,11.0
+138,Oil,11.0
+139,Bitumen,8.0
+139,Fuel,8.0
+139,Liquid fertiliser,8.0
+139,Oil,8.0
+140,Bitumen,5.0
+140,Fuel,5.0
+140,Liquid fertiliser,5.0
+140,Oil,5.0
+141,Bitumen,3.5
+141,Fuel,3.5
+141,Liquid fertiliser,3.5
+141,Oil,3.5
+142,Bitumen,7.0
+142,Fuel,7.0
+142,Liquid fertiliser,7.0
+142,Oil,7.0
+143,Bitumen,10.0
+143,Fuel,10.0
+143,Liquid fertiliser,10.0
+143,Oil,10.0
+144,Bitumen,3.6
+144,Fuel,3.6
+144,Liquid fertiliser,3.6
+144,Oil,3.6
+145,Bitumen,11.0
+145,Fuel,11.0
+145,Liquid fertiliser,11.0
+145,Oil,11.0
+146,Aluminium,11.0
+146,Boards,11.0
+146,Bricks,9.2
+146,Plastic waste,9.2
+146,Prefab panels,10.0
+146,Steel,11.0
+146,Uranium oxide,6.9
+146,Vehicles,11.5
+146,Wood,11.0
+147,Boards,13.0
+147,Burnable waste,13.0
+148,Aluminium,3.7
+148,Boards,3.7
+148,Bricks,3.0
+148,Plastic waste,3.0
+148,Prefab panels,3.3
+148,Steel,3.7
+148,Uranium oxide,2.2
+148,Wood,3.7
+149,Aluminium,4.0
+149,Boards,4.0
+149,Bricks,3.2
+149,Plastic waste,3.2
+149,Prefab panels,3.6
+149,Steel,4.0
+149,Uranium oxide,2.4
+149,Vehicles,4.0
+149,Wood,4.0
+150,Aluminium,9.6
+150,Boards,9.6
+150,Bricks,7.7
+150,Plastic waste,7.7
+150,Prefab panels,8.6
+150,Steel,9.6
+150,Uranium oxide,5.8
+150,Vehicles,9.6
+150,Wood,9.6
+151,Boards,14.0
+151,Burnable waste,14.0
+152,Aluminium,1.1
+152,Boards,1.1
+152,Bricks,0.88
+152,Plastic waste,0.88
+152,Prefab panels,0.99
+152,Steel,1.1
+152,Uranium oxide,0.66
+152,Wood,1.1
+153,Aluminium,5.0
+153,Boards,5.0
+153,Bricks,4.0
+153,Plastic waste,4.0
+153,Prefab panels,4.5
+153,Steel,5.0
+153,Uranium oxide,3.0
+153,Vehicles,5.0
+153,Wood,5.0
+154,Aluminium,1.8
+154,Boards,1.8
+154,Bricks,1.4
+154,Plastic waste,1.4
+154,Prefab panels,1.6
+154,Steel,1.8
+154,Uranium oxide,1.1
+154,Wood,1.8
+155,Aluminium,8.0
+155,Boards,8.0
+155,Bricks,6.4
+155,Plastic waste,6.4
+155,Prefab panels,7.2
+155,Steel,8.0
+155,Uranium oxide,4.8
+155,Vehicles,8.0
+155,Wood,8.0
+156,Aluminium,10.0
+156,Boards,10.0
+156,Bricks,8.0
+156,Plastic waste,8.0
+156,Prefab panels,9.0
+156,Steel,10.0
+156,Uranium oxide,6.0
+156,Vehicles,10.0
+156,Wood,10.0
+157,Aluminium,9.0
+157,Boards,9.0
+157,Bricks,7.2
+157,Plastic waste,7.2
+157,Prefab panels,8.1
+157,Steel,9.0
+157,Uranium oxide,5.4
+157,Vehicles,9.0
+157,Wood,9.0
+158,Aluminium,7.0
+158,Boards,7.0
+158,Bricks,5.6
+158,Plastic waste,5.6
+158,Prefab panels,6.3
+158,Steel,7.0
+158,Uranium oxide,4.2
+158,Vehicles,7.0
+158,Wood,7.0
+159,Aluminium,11.0
+159,Boards,11.0
+159,Bricks,8.8
+159,Plastic waste,8.8
+159,Prefab panels,9.9
+159,Steel,11.0
+159,Uranium oxide,6.6
+159,Vehicles,11.0
+159,Wood,11.0
+160,Aluminium,11.0
+160,Boards,11.0
+160,Bricks,9.2
+160,Plastic waste,9.2
+160,Prefab panels,10.0
+160,Steel,11.0
+160,Uranium oxide,6.9
+160,Vehicles,11.5
+160,Wood,11.0
+161,Aluminium,17.0
+161,Boards,17.0
+161,Bricks,13.0
+161,Plastic waste,13.0
+161,Prefab panels,15.0
+161,Steel,17.0
+161,Uranium oxide,10.0
+161,Vehicles,17.0
+161,Wood,17.0
+162,Aluminium,16.0
+162,Boards,16.0
+162,Bricks,12.0
+162,Plastic waste,12.0
+162,Prefab panels,14.0
+162,Steel,16.0
+162,Uranium oxide,9.6
+162,Vehicles,16.0
+162,Wood,16.0
+163,Aluminium,13.0
+163,Boards,13.0
+163,Bricks,10.0
+163,Plastic waste,10.0
+163,Prefab panels,11.0
+163,Steel,13.0
+163,Uranium oxide,7.8
+163,Vehicles,13.0
+163,Wood,13.0
+164,Aluminium,18.0
+164,Boards,18.0
+164,Bricks,14.0
+164,Plastic waste,14.0
+164,Prefab panels,16.0
+164,Steel,18.0
+164,Uranium oxide,10.0
+164,Vehicles,18.0
+164,Wood,18.0
+165,Aluminium,6.8
+165,Boards,6.8
+165,Bricks,5.4
+165,Plastic waste,5.4
+165,Prefab panels,6.1
+165,Steel,6.8
+165,Uranium oxide,4.1
+165,Wood,6.8
+166,Aluminium,13.0
+166,Boards,13.0
+166,Bricks,10.0
+166,Plastic waste,10.0
+166,Prefab panels,11.0
+166,Steel,13.0
+166,Uranium oxide,7.8
+166,Vehicles,13.0
+166,Wood,13.0
+167,Aluminium,11.0
+167,Boards,11.0
+167,Bricks,8.8
+167,Plastic waste,8.8
+167,Prefab panels,9.9
+167,Steel,11.0
+167,Uranium oxide,6.6
+167,Vehicles,11.0
+167,Wood,11.0
+168,Aluminium,9.0
+168,Boards,9.0
+168,Bricks,7.2
+168,Plastic waste,7.2
+168,Prefab panels,8.1
+168,Steel,9.0
+168,Uranium oxide,5.4
+168,Vehicles,9.0
+168,Wood,9.0
+169,Aluminium,4.0
+169,Boards,4.0
+169,Bricks,3.2
+169,Plastic waste,3.2
+169,Prefab panels,3.6
+169,Steel,4.0
+169,Uranium oxide,2.4
+169,Vehicles,4.0
+169,Wood,4.0
+170,Aluminium,7.0
+170,Boards,7.0
+170,Bricks,5.6
+170,Plastic waste,5.6
+170,Prefab panels,6.3
+170,Steel,7.0
+170,Uranium oxide,4.2
+170,Vehicles,7.0
+170,Wood,7.0
+171,Aluminium,9.7
+171,Boards,9.7
+171,Bricks,7.8
+171,Plastic waste,7.8
+171,Prefab panels,8.7
+171,Steel,9.7
+171,Uranium oxide,5.8
+171,Vehicles,9.7
+171,Wood,9.7
+172,Aluminium,27.0
+172,Boards,27.0
+172,Bricks,21.0
+172,Plastic waste,21.0
+172,Prefab panels,24.0
+172,Steel,27.0
+172,Uranium oxide,16.0
+172,Vehicles,27.0
+172,Wood,27.0
+173,Aluminium,4.1
+173,Boards,4.1
+173,Bricks,3.3
+173,Plastic waste,3.3
+173,Prefab panels,3.7
+173,Steel,4.1
+173,Uranium oxide,2.5
+173,Vehicles,4.1
+173,Wood,4.1
+174,Aluminium,12.0
+174,Boards,12.0
+174,Bricks,9.6
+174,Plastic waste,9.6
+174,Prefab panels,10.0
+174,Steel,12.0
+174,Uranium oxide,7.2
+174,Vehicles,12.0
+174,Wood,12.0
+175,Aluminium,1.1
+175,Boards,1.1
+175,Bricks,0.92
+175,Plastic waste,0.92
+175,Prefab panels,1.0
+175,Steel,1.1
+175,Uranium oxide,0.69
+175,Wood,1.1
+176,Aluminium,1.0
+176,Boards,1.0
+176,Bricks,0.8
+176,Plastic waste,0.8
+176,Prefab panels,0.9
+176,Steel,1.0
+176,Uranium oxide,0.6
+176,Wood,1.0
+215,Aluminium,1.5
+216,Aluminium,8.0
+217,Aluminium,3.5
+218,Aluminium,2.5
+219,Aluminium,2.0
+220,Aluminium,7.5
+221,Aluminium,6.5
+234,Aluminium,7.0
+235,Aluminium,9.5
+236,Aluminium,3.5
+237,Aluminium,3.8
+238,Aluminium,10.0
+239,Aluminium,4.5
+261,Aluminium scrap,6.5
+261,Biological waste,6.5
+261,Construction waste,6.5
+261,Fertiliser,6.5
+261,Hazardous waste,6.5
+261,Metal scrap,6.5
+261,Mixed waste,6.5
+261,Plastic waste,6.5
+262,Aluminium scrap,4.0
+262,Biological waste,4.0
+262,Construction waste,4.0
+262,Fertiliser,4.0
+262,Hazardous waste,4.0
+262,Metal scrap,4.0
+262,Mixed waste,4.0
+262,Plastic waste,4.0
+263,Aluminium scrap,9.0
+263,Biological waste,9.0
+263,Construction waste,9.0
+263,Fertiliser,9.0
+263,Hazardous waste,9.0
+263,Metal scrap,9.0
+263,Mixed waste,9.0
+263,Plastic waste,9.0
+264,Aluminium scrap,6.5
+264,Biological waste,6.5
+264,Construction waste,6.5
+264,Fertiliser,6.5
+264,Hazardous waste,6.5
+264,Metal scrap,6.5
+264,Mixed waste,6.5
+264,Plastic waste,6.5
+265,Aluminium scrap,6.5
+265,Biological waste,6.5
+265,Construction waste,6.5
+265,Fertiliser,6.5
+265,Hazardous waste,6.5
+265,Metal scrap,6.5
+265,Mixed waste,6.5
+265,Plastic waste,6.5
+266,Aluminium scrap,5.0
+266,Biological waste,5.0
+266,Construction waste,5.0
+266,Fertiliser,5.0
+266,Hazardous waste,5.0
+266,Metal scrap,5.0
+266,Mixed waste,5.0
+266,Plastic waste,5.0
+267,Aluminium scrap,10.0
+267,Biological waste,10.0
+267,Construction waste,10.0
+267,Fertiliser,10.0
+267,Hazardous waste,10.0
+267,Metal scrap,10.0
+267,Mixed waste,10.0
+267,Plastic waste,10.0
+268,Aluminium,7.0
+269,Aluminium,11.0
+270,Aluminium,3.5
+271,Aluminium,3.8
+272,Aluminium,11.0
+273,Aluminium,4.5
+275,Concrete,3.5
+276,Alcohol,1.8
+276,Chemicals,1.1
+276,Clothes,1.8
+276,Crops,2.8
+276,Electro components,1.2
+276,Electronics,1.2
+276,Explosives,1.4
+276,Fabric,2.5
+276,Food,1.8
+276,Livestock,1.2
+276,Mechanical components,1.8
+276,Plastics,0.88
+277,Alcohol,8.0
+277,Chemicals,4.8
+277,Clothes,8.0
+277,Crops,12.0
+277,Electro components,5.6
+277,Electronics,5.6
+277,Explosives,6.4
+277,Fabric,11.0
+277,Food,8.0
+277,Livestock,5.6
+277,Mechanical components,8.0
+277,Plastics,4.0
+278,Alcohol,6.0
+278,Chemicals,3.6
+278,Clothes,6.0
+278,Crops,9.6
+278,Electro components,4.2
+278,Electronics,4.2
+278,Explosives,4.8
+278,Fabric,8.4
+278,Food,6.0
+278,Livestock,4.2
+278,Mechanical components,6.0
+278,Plastics,3.0
+279,Alcohol,31.0
+279,Chemicals,18.0
+279,Clothes,31.0
+279,Crops,50.0
+279,Electro components,21.0
+279,Electronics,21.0
+279,Explosives,25.0
+279,Fabric,43.0
+279,Food,31.0
+279,Livestock,21.0
+279,Mechanical components,31.0
+279,Plastics,15.0
+280,Alcohol,0.88
+280,Chemicals,0.75
+280,Clothes,0.88
+280,Crops,2.0
+280,Electro components,0.88
+280,Electronics,0.88
+280,Explosives,1.0
+280,Fabric,1.8
+280,Food,0.88
+280,Livestock,0.88
+280,Mechanical components,1.3
+280,Plastics,0.63
+281,Alcohol,15.0
+281,Chemicals,9.0
+281,Clothes,15.0
+281,Crops,24.0
+281,Electro components,10.0
+281,Electronics,10.0
+281,Explosives,12.0
+281,Fabric,21.0
+281,Food,15.0
+281,Livestock,10.0
+281,Mechanical components,15.0
+281,Plastics,7.5
+282,Aluminium scrap,5.6
+282,Asphalt,8.0
+282,Bauxite,8.0
+282,Coal,8.0
+282,Coal ore,8.0
+282,Construction waste,8.0
+282,Gravel,8.0
+282,Iron,8.0
+282,Iron ore,8.0
+282,Metal scrap,4.8
+282,Quarried stone,8.0
+282,Raw bauxite,8.0
+282,Uranium ore,8.0
+283,Aluminium,7.0
+283,Boards,7.0
+283,Bricks,5.6
+283,Plastic waste,5.6
+283,Prefab panels,6.3
+283,Steel,7.0
+283,Uranium oxide,4.2
+283,Wood,7.0
+285,Bitumen,3.5
+285,Fuel,3.5
+285,Liquid fertiliser,3.5
+285,Oil,3.5
+286,Aluminium,3.5
+286,Boards,3.5
+286,Bricks,2.8
+286,Plastic waste,2.8
+286,Prefab panels,3.1
+286,Steel,3.5
+286,Uranium oxide,2.1
+286,Wood,3.5
+287,Aluminium,16.0
+287,Boards,16.0
+287,Bricks,12.0
+287,Plastic waste,12.0
+287,Prefab panels,14.0
+287,Steel,16.0
+287,Uranium oxide,9.6
+287,Wood,16.0
+293,Aluminium,3.5
+301,Aluminium,3.5
+302,Alcohol,1.9
+302,Chemicals,1.1
+302,Clothes,1.9
+302,Crops,3.0
+302,Electro components,1.3
+302,Electronics,1.3
+302,Explosives,1.5
+302,Fabric,2.6
+302,Food,1.9
+302,Livestock,1.3
+302,Mechanical components,1.9
+302,Plastics,0.93
+303,Alcohol,34.0
+303,Chemicals,20.0
+303,Clothes,34.0
+303,Crops,55.0
+303,Electro components,24.0
+303,Electronics,24.0
+303,Explosives,27.0
+303,Fabric,48.0
+303,Food,34.0
+303,Livestock,24.0
+303,Mechanical components,34.0
+303,Plastics,17.0
+304,Aluminium,24.0
+305,Livestock,37.0
+306,Aluminium scrap,50.0
+306,Asphalt,72.0
+306,Bauxite,72.0
+306,Coal,72.0
+306,Coal ore,72.0
+306,Construction waste,72.0
+306,Gravel,72.0
+306,Iron,72.0
+306,Iron ore,72.0
+306,Metal scrap,43.0
+306,Quarried stone,72.0
+306,Raw bauxite,72.0
+306,Uranium ore,72.0
+307,Alcohol,34.0
+307,Chemicals,20.0
+307,Clothes,34.0
+307,Crops,54.0
+307,Electro components,23.0
+307,Electronics,23.0
+307,Explosives,27.0
+307,Fabric,47.0
+307,Food,34.0
+307,Livestock,23.0
+307,Mechanical components,34.0
+307,Plastics,17.0
+308,Aluminium oxide,55.0
+308,Cement,55.0
+309,Aluminium,22.0
+310,Aluminium scrap,39.0
+310,Asphalt,56.0
+310,Bauxite,56.0
+310,Coal,56.0
+310,Coal ore,56.0
+310,Construction waste,56.0
+310,Gravel,56.0
+310,Iron,56.0
+310,Iron ore,56.0
+310,Metal scrap,39.0
+310,Quarried stone,56.0
+310,Raw bauxite,56.0
+310,Uranium ore,56.0
+311,Aluminium scrap,35.0
+311,Asphalt,50.0
+311,Bauxite,50.0
+311,Coal,50.0
+311,Coal ore,50.0
+311,Construction waste,50.0
+311,Gravel,50.0
+311,Iron,50.0
+311,Iron ore,50.0
+311,Metal scrap,30.0
+311,Quarried stone,50.0
+311,Raw bauxite,50.0
+311,Uranium ore,50.0
+312,Aluminium,69.0
+312,Boards,69.0
+312,Bricks,55.0
+312,Plastic waste,55.0
+312,Prefab panels,62.0
+312,Steel,69.0
+312,Uranium oxide,41.0
+312,Wood,69.0
+313,Aluminium,67.0
+313,Boards,67.0
+313,Bricks,53.0
+313,Plastic waste,53.0
+313,Prefab panels,60.0
+313,Steel,67.0
+313,Uranium oxide,40.0
+313,Wood,67.0
+314,Aluminium,79.0
+314,Boards,79.0
+314,Bricks,63.0
+314,Plastic waste,63.0
+314,Prefab panels,71.0
+314,Steel,79.0
+314,Uranium oxide,47.0
+314,Wood,79.0
+315,Bitumen,60.0
+315,Fuel,60.0
+315,Liquid fertiliser,60.0
+315,Oil,60.0
+316,Bitumen,120.0
+316,Fuel,120.0
+316,Liquid fertiliser,120.0
+316,Oil,120.0
+317,Aluminium,69.0
+317,Boards,69.0
+317,Bricks,55.0
+317,Plastic waste,55.0
+317,Prefab panels,62.0
+317,Steel,69.0
+317,Uranium oxide,41.0
+317,Wood,69.0
+318,Aluminium,70.0
+318,Boards,70.0
+318,Bricks,56.0
+318,Plastic waste,56.0
+318,Prefab panels,63.0
+318,Steel,70.0
+318,Uranium oxide,42.0
+318,Wood,70.0
+319,Aluminium oxide,73.0
+319,Cement,73.0
+320,Bitumen,68.0
+320,Fuel,68.0
+320,Liquid fertiliser,68.0
+320,Oil,68.0
+321,Aluminium scrap,39.0
+321,Asphalt,56.0
+321,Bauxite,56.0
+321,Coal,56.0
+321,Coal ore,56.0
+321,Construction waste,56.0
+321,Gravel,56.0
+321,Iron,56.0
+321,Iron ore,56.0
+321,Metal scrap,33.0
+321,Quarried stone,56.0
+321,Raw bauxite,56.0
+321,Uranium ore,56.0
+322,Aluminium,56.0
+322,Boards,56.0
+322,Bricks,44.0
+322,Plastic waste,44.0
+322,Prefab panels,50.0
+322,Steel,56.0
+322,Uranium oxide,33.0
+322,Wood,56.0
+323,Aluminium scrap,20.0
+323,Asphalt,29.0
+323,Bauxite,29.0
+323,Coal,29.0
+323,Coal ore,29.0
+323,Construction waste,29.0
+323,Gravel,29.0
+323,Iron,29.0
+323,Iron ore,29.0
+323,Metal scrap,17.0
+323,Quarried stone,29.0
+323,Raw bauxite,29.0
+323,Uranium ore,29.0
+324,Aluminium scrap,18.0
+324,Biological waste,18.0
+324,Construction waste,18.0
+324,Fertiliser,18.0
+324,Hazardous waste,18.0
+324,Metal scrap,18.0
+324,Mixed waste,18.0
+324,Plastic waste,18.0
+325,Aluminium scrap,37.0
+325,Biological waste,37.0
+325,Construction waste,37.0
+325,Fertiliser,37.0
+325,Hazardous waste,37.0
+325,Metal scrap,37.0
+325,Mixed waste,37.0
+325,Plastic waste,37.0
+326,Aluminium,29.0
+326,Boards,29.0
+326,Bricks,23.0
+326,Plastic waste,23.0
+326,Prefab panels,26.0
+326,Steel,29.0
+326,Uranium oxide,17.0
+326,Wood,29.0
+408,Aluminium,2720.0
+408,Boards,2720.0
+408,Bricks,2176.0
+408,Plastic waste,2176.0
+408,Prefab panels,2448.0
+408,Steel,2720.0
+408,Uranium oxide,1632.0
+408,Wood,2720.0
+409,Aluminium,1120.0
+409,Boards,1120.0
+409,Bricks,896.0
+409,Plastic waste,896.0
+409,Prefab panels,1008.0
+409,Steel,1120.0
+409,Uranium oxide,672.0
+409,Wood,1120.0
+410,Aluminium scrap,5775.0
+410,Asphalt,8250.0
+410,Bauxite,8250.0
+410,Coal,8250.0
+410,Coal ore,8250.0
+410,Construction waste,8250.0
+410,Gravel,8250.0
+410,Iron,8250.0
+410,Iron ore,8250.0
+410,Metal scrap,4950.0
+410,Quarried stone,8250.0
+410,Raw bauxite,8250.0
+410,Uranium ore,8250.0
+411,Alcohol,85.0
+411,Aluminium,170.0
+411,Aluminium oxide,76.0
+411,Boards,170.0
+411,Bricks,136.0
+411,Cement,76.0
+411,Chemicals,51.0
+411,Clothes,85.0
+411,Crops,136.0
+411,Electro components,59.0
+411,Electronics,59.0
+411,Explosives,68.0
+411,Fabric,119.0
+411,Food,85.0
+411,Livestock,59.0
+411,Meat,42.0
+411,Mechanical components,85.0
+411,Plastics,42.0
+411,Prefab panels,153.0
+411,Steel,170.0
+411,Uranium oxide,85.0
+411,Wood,170.0
+412,Bitumen,19250.0
+412,Fuel,19250.0
+412,Liquid fertiliser,19250.0
+412,Oil,19250.0
+413,Bitumen,850.0
+413,Fuel,850.0
+413,Liquid fertiliser,850.0
+413,Oil,850.0
+414,Aluminium scrap,784.0
+414,Asphalt,1120.0
+414,Bauxite,1120.0
+414,Coal,1120.0
+414,Coal ore,1120.0
+414,Construction waste,1120.0
+414,Gravel,1120.0
+414,Iron,1120.0
+414,Iron ore,1120.0
+414,Metal scrap,672.0
+414,Quarried stone,1120.0
+414,Raw bauxite,1120.0
+414,Uranium ore,1120.0
+415,Alcohol,875.0
+415,Aluminium,1750.0
+415,Aluminium oxide,787.0
+415,Boards,1750.0
+415,Bricks,1400.0
+415,Cement,787.0
+415,Chemicals,525.0
+415,Clothes,875.0
+415,Crops,1400.0
+415,Electro components,612.0
+415,Electronics,612.0
+415,Explosives,700.0
+415,Fabric,1225.0
+415,Food,875.0
+415,Livestock,612.0
+415,Meat,437.0
+415,Mechanical components,875.0
+415,Plastics,437.0
+415,Prefab panels,1575.0
+415,Steel,1750.0
+415,Uranium oxide,875.0
+415,Wood,1750.0
+416,Bitumen,14250.0
+416,Fuel,14250.0
+416,Liquid fertiliser,14250.0
+416,Oil,14250.0
+417,Bitumen,2770.0
+417,Fuel,2770.0
+417,Liquid fertiliser,2770.0
+417,Oil,2770.0
+418,Alcohol,1290.0
+418,Aluminium,2580.0
+418,Aluminium oxide,1161.0
+418,Boards,2580.0
+418,Bricks,2064.0
+418,Cement,1161.0
+418,Chemicals,774.0
+418,Clothes,1290.0
+418,Crops,2064.0
+418,Electro components,903.0
+418,Electronics,903.0
+418,Explosives,1032.0
+418,Fabric,1806.0
+418,Food,1290.0
+418,Livestock,903.0
+418,Meat,645.0
+418,Mechanical components,1290.0
+418,Plastics,645.0
+418,Prefab panels,2322.0
+418,Steel,2580.0
+418,Uranium oxide,1290.0
+418,Wood,2580.0
+419,Alcohol,1785.0
+419,Aluminium,3570.0
+419,Aluminium oxide,1606.0
+419,Boards,3570.0
+419,Bricks,2856.0
+419,Cement,1606.0
+419,Chemicals,1071.0
+419,Clothes,1785.0
+419,Crops,2856.0
+419,Electro components,1249.0
+419,Electronics,1249.0
+419,Explosives,1428.0
+419,Fabric,2499.0
+419,Food,1785.0
+419,Livestock,1249.0
+419,Meat,892.0
+419,Mechanical components,1785.0
+419,Plastics,892.0
+419,Prefab panels,3213.0
+419,Steel,3570.0
+419,Uranium oxide,1785.0
+419,Wood,3570.0

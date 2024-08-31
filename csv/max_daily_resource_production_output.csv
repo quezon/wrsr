@@ -1,0 +1,69 @@
+producer_id,producer,output,output_qty
+3,Aluminium plant (2316054140),Aluminium,24.0
+3,Aluminium plant (2316054140),Hazardous waste,2.09
+3,Aluminium plant (2316054140),Mixed waste,7.39
+5,Livestock Farm,Livestock,10.0
+6,Asphalt plant,Asphalt,145.0
+7,Bauxite mine,Raw bauxite,22.5
+7,Bauxite mine,Mixed waste,17.55
+9,Brick factory,Bricks,51.0
+9,Brick factory,Mixed waste,0.045
+10,Cement plant,Cement,108.0
+10,Cement plant,Mixed waste,7.48
+63,AURIP (2748946044),Chemicals,56.0
+12,Clothing factory,Clothes,1.2
+12,Clothing factory,Mixed waste,0.03
+13,Coal mine,Coal ore,924.0
+13,Coal mine,Mixed waste,16.17
+14,Coal Processing,Coal,120.0
+14,Coal Processing,Mixed waste,5.25
+64,Coking Plant (old),Coal,300.0
+64,Coking Plant (old),Oil,45.0
+64,Coking Plant (old),Mixed waste,17.75
+15,Compact Steel mill,Steel,21.0
+15,Compact Steel mill,Mixed waste,5.91
+15,Compact Steel mill,Power,20.0
+17,Concrete plant,Concrete,175.0
+17,Concrete plant,Mixed waste,4.35
+19,Distillery,Alcohol,6.0
+19,Distillery,Mixed waste,2.39
+21,Electrical Components Factory (2368856696),Electro components,5.0
+21,Electrical Components Factory (2368856696),Mixed waste,0.07
+24,Fabric factory,Fabric,5.0
+24,Fabric factory,Mixed waste,1.87
+25,Vertical Farm,Mixed waste,0.03
+25,Vertical Farm,Hazardous waste,0.06
+25,Vertical Farm,Crops,400.0
+27,Food factory,Food,20.0
+27,Food factory,Mixed waste,1.53
+29,Gravel processing,Gravel,82.0
+29,Gravel processing,Mixed waste,0.3
+30,Gravel quarry,Gravel,350.0
+30,Gravel quarry,Mixed waste,6.13
+34,Incinerator - Power plant,Power,660.0
+34,Incinerator - Power plant,Mixed waste,
+35,Iron mine,Iron ore,1000.0
+35,Iron mine,Mixed waste,17.5
+36,Iron processing plant (2381743400),Iron,480.0
+36,Iron processing plant (2381743400),Mixed waste,26.4
+37,Large Electronics Assembly (1922581574),Electronics,22.0
+37,Large Electronics Assembly (1922581574),Mixed waste,0.32
+41,Pumpjack,Oil,7.0
+42,Oil refinery,Fuel,125.0
+42,Oil refinery,Bitumen,75.0
+42,Oil refinery,Mixed waste,3.13
+43,Plastics factory,Mixed waste,3.96
+43,Plastics factory,Plastics,33.0
+44,Gas Power plant,Power,1050.0
+44,Gas Power plant,Mixed waste,0.11
+46,Prefab panels factory,Prefab panels,71.0
+46,Prefab panels factory,Mixed waste,0.46
+51,Rolling Mill (mechanical components factory) (2467860304),Mechanical components,100.0
+52,Sawmill,Boards,140.0
+55,Slaughterhouse,Meat,60.0
+55,Slaughterhouse,Mixed waste,4.5
+56,Steel mill,Livestock,11.0
+58,Tres Xemeneies v2 (2745547691),Power,6000.0
+58,Tres Xemeneies v2 (2745547691),Mixed waste,1.0
+62,Woodcutting Post,Wood,6.3
+62,Woodcutting Post,Mixed waste,0.0043

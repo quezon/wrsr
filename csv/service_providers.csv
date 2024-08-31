@@ -1,0 +1,85 @@
+service_provider_id,service_provider,construct_id
+1,Vehicle Repair Station (Small),46
+2,Vehicle Repair Station (Medium),47
+3,Vehicle Repair Station (Large),48
+4,Car Dealer,65
+5,Grocery Store,441
+6,Grocery Kiosk,442
+7,Shopping Center,443
+8,Small Shopping Center,444
+9,Small Shopping Center,445
+10,Small Shopping Center,446
+11,Small Shop,447
+12,"""Panorama"" Restaurant",448
+13,Pub,449
+14,Pub,450
+15,Alcohol Kiosk,451
+16,Cinema,452
+17,Amphitheatre,453
+18,House Of Culture,454
+19,Pyramid Museum,455
+20,National Uprising Museum,456
+21,"""The Palace Of Communism"" (Museum)",457
+22,Gallery Of Art,458
+23,Republic Theater,459
+24,Museum Of The Republic,460
+25,Televsion Station,461
+26,Radio Station,462
+27,Football Field,463
+28,Volleyball Court,464
+29,City Stadium,465
+30,Outdoor Swimming Pool,466
+31,Basketball And Volleyball Court,467
+32,Basketball And Volleyball Court,468
+33,Football Field,469
+34,Tennis Court,470
+35,Beach,471
+36,Indoor Poll,472
+37,Sport Hall,473
+38,Sport Hall,474
+39,Hospital,475
+40,Large Hospital,476
+41,Small Clinic,477
+42,Fire Station,478
+43,Fire Station,479
+44,Fire Station,480
+45,Kindergarden,481
+46,Kindergarden,482
+47,Kindergarden,483
+48,School,484
+49,School,485
+50,School,486
+51,School,487
+52,Orphanage,488
+53,Orphanage,489
+54,Medical University,490
+55,Technical University,491
+56,Technical University,492
+57,Headquarters Of The Communist Party,493
+58,Small Headquarters Of The Party,494
+59,Police Station,497
+60,Police Station (Small),498
+61,Court House,499
+62,Court House (Small),500
+63,Prison,501
+64,Prison,502
+65,Secret Police,503
+66,Secret Police (Small),504
+67,City Accounting Office,505
+68,Pollution Monitoring Station,506
+69,Small Hotel**,507
+70,Small Hotel**,508
+71,Mountain Hotel**,509
+72,Hotel (3 Stars),510
+73,City Hotel****,511
+74,Hotel (4 Stars),512
+75,"""Surprise"" (Carousel)",513
+76,"""Autodrome"" (Carousel)",514
+77,Ferris Wheel (Carousel),515
+78,"""Chamomile"" (Carousel)",516
+79,Beach Cafe/Bar,517
+80,"""The View"" (Cafe/Bar)",518
+81,"""Delicije"" (Cafe/Bar)",519
+82,Sight Tower,520
+83,Sight Tower 2,521
+84,Zoo,522

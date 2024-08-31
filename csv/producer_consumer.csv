@@ -1,0 +1,54 @@
+Resource,Producers,Consumers
+Alcohol,Distillery,Pub
+Aluminium,"Aluminium plant, Scrapping facility",Production airplane
+Aluminium oxide,Alumina plant,Aluminium plant
+Aluminium scrap,"Aluminium separation, General separation, Scrapping facility",Aluminium recycling plant
+Ash,"Incinerator - Heating plant, Incinerator - Power plant",Dissipate over time
+Asphalt,Asphalt plant,Construction office
+Bauxite,Bauxite processing plant,Alumina plant
+Biological waste,Workers,"Incinerator, Incinerator - Heating plant, Incinerator - Power plant"
+Bitumen,Oil refinery,Asphalt plant
+Boards,Sawmill,Construction office
+Bricks,Brick factory,Construction office
+Burnable waste,,"Incinerator, Incinerator - Heating plant, Incinerator - Power plant"
+Cement,Cement plant,"Concrete plant, Prefab panels factory"
+Chemicals,Chemical plant,"Electronic components factory, Fabric factory, Plastics factory"
+Clothes,Clothing factory,Stores
+Coal,Coal Processing,"Brick factory, Cement plant, Powerplant coal, Steel mill"
+Coal ore,Coal mine,Coal processing
+Concrete,Concrete plant,Construction office
+Construction waste,"Demolition office, General separation",Gravel recycling plant
+Crops,Farm,"Animal farm, Chemical plant, Distillery, Fabric factory, Food factory"
+Electro components,"Electronic Components Factory, Scrapping facility","Dry Dock, Electronic Factory, Production Train, Production Vehicle"
+Electronics,Electronic factory,"Dry dock, Production train, Production vehicle"
+Explosives,Explosives factory,Demolition office
+Fabric,Fabric factory,"Clothing factory, Dry dock, Production train, Production vehicle"
+Fertiliser,Composting plant,"Farms, Incinerator, Incinerator - Heating plant, Incinerator - Power plant"
+Food,Food factory,Stores
+Fuel,Oil refinery,Vehicles
+Gravel,"Gravel processing, Gravel recycling plant","Asphalt plant, Cement plant, Chemical plant, Concrete plant, Panels factory"
+Hazardous waste,Hospital,"Incinerator, Incinerator - Heating plant, Incinerator - Power plant"
+Iron,Iron processing,Steel mill
+Iron ore,Iron mine,Iron Ore Processing Plant
+Livestock,Animal farm,Slaughterhouse
+Liquid fertiliser,Synthetic fertilizer factory,Farms
+Meat,Slaughterhouse,Stores
+Mechanical components,"Mechanical components factory, Scrapping facility","Dry dock, Electronic factory, Production train, Production vehicle"
+Metal scrap,"Demolition office, General separation, Scrap separation, Scrapping facility",Steel recycling plant
+Mixed waste,"Workers, Almost all buildings","General separation, Incinerator, Incinerator - Heating plant, Incinerator - Power plant"
+Nuclear fuel,Nuclear fuel fabrication,Nuclear power plant
+Nuclear Waste,Nuclear power plant,"Export, Containers"
+Oil,Oil mine,"Chemical plant, Oil refinery, Plastics factory"
+Other waste,,"Incinerator, Incinerator - Heating plant, Incinerator - Power plant"
+Plastic waste,General separation,"Plastic recycling plant, Incinerator, Incinerator - Heating plant, Incinerator - Power plant"
+Plastics,Plastics factory,"Dry dock, Electronic components factory, Electronic factory, Production train, Production vehicle"
+Power,"Powerplant coal, Power plant gas, Nuclear power plant",Buildings
+Prefab panels,Prefab panels factory,Construction office
+Quarried stone,Gravel quarry,Gravel processing plant
+Raw bauxite,Bauxite mine,Bauxite processing plant
+Steel,"Steel mill, Scrapping facility","Dry dock, Electronic components factory, Mechanical components factory, Production train, Production vehicle"
+UF6,Uranium conversion plant,Nuclear fuel fabrication
+Uranium ore,Uranium mine,Uranium processing plant
+Uranium oxide,Uranium processing plant,Uranium conversion plant
+Vehicles,"Dry dock, Production airplanes, Production ships, Production train, Production vehicle","Vehicle depots, Train depot, Ship dock"
+Wood,Woodcutting Post,"Chemical Plant, Sawmill"

@@ -1,0 +1,619 @@
+construct_id,name,constructed_types,is_vanilla,cost_function,unit of measure,smallest unit
+1,Tram Railroad Connection,Road,True,linear,each,1.0
+2,Road With Tram Track,Road,True,linear,meter,5.0
+3,Tram Track (No Access For Pedestrians And Cars),Road,True,linear,meter,5.0
+4,One-Way Road,Road,True,linear,meter,5.0
+5,Asphalt Road With Street Lights And Sidewalks,Road,True,linear,meter,5.0
+6,Panel Road,Road,True,linear,meter,5.0
+7,Trolleybus,Road,True,linear,meter,5.0
+8,Asphalt Road,Road,True,linear,meter,5.0
+9,Gravel Road,Road,True,linear,meter,5.0
+10,Arch Bridge With Tram Track,Road Bridge,True,formula,,
+11,Beam Bridge With Tram Track,Road Bridge,True,formula,,
+12,Prefab Bridge With Tram Track,Road Bridge,True,formula,,
+13,Concrete Bridge With Tram Track,Road Bridge,True,formula,,
+14,Brick Bridge With Tram Track,Road Bridge,True,formula,,
+15,Beam Bridge With Trolleys,Road Bridge,True,formula,,
+16,Steel/Brick Bridge With Trolleys,Road Bridge,True,formula,,
+17,Prefab Bridge With Trolleys,Road Bridge,True,formula,,
+18,Concrete Bridge With Trolleys,Road Bridge,True,formula,,
+19,Brick Bridge With Trolleys,Road Bridge,True,formula,,
+20,Arch Bridge,Road Bridge,True,formula,,
+21,Truss Bridge,Road Bridge,True,formula,,
+22,Tied Arch Bridge,Road Bridge,True,formula,,
+23,Beam Bridge,Road Bridge,True,formula,,
+24,Arch Bridge With Trolleys,Road Bridge,True,formula,,
+25,Concrete Bridge,Road Bridge,True,formula,,
+26,Steel/Brick Bridge,Road Bridge,True,formula,,
+27,Wooden Bridge,Road Bridge,True,formula,,
+28,Prefab Bridge,Road Bridge,True,formula,,
+29,Brick Bridge,Road Bridge,True,formula,,
+30,Road Tunnel,Road Tunnel,True,formula,,
+31,Road Tunnel With Tram Track,Road Tunnel,True,formula,,
+32,Bus End Station (Large),End Station,True,linear,each,1.0
+33,Bus End Station (Small),End Station,True,linear,each,1.0
+34,Tram Depot 8X,Train Depot,True,linear,each,1.0
+35,Bus End Station (Small),End Station,True,linear,each,1.0
+36,Bus End Station (Large),End Station,True,linear,each,1.0
+37,Trolleybus End Station,End Station,True,linear,each,1.0
+38,Tram End Station,End Station,True,linear,each,1.0
+39,Road Vehicles Depot,Road Vehicles Depot,True,linear,each,1.0
+40,Road Vehicles Depot,Road Vehicles Depot,True,linear,each,1.0
+41,Trolleybus Depot,Road Vehicles Depot,True,linear,each,1.0
+42,Tram Depot 4X,Train Depot,True,linear,each,1.0
+43,Technical Services,Technical Services,True,linear,each,1.0
+44,Technical Services,Technical Services,True,linear,each,1.0
+45,Technical Services,Technical Services,True,linear,each,1.0
+46,Vehicle Repair Station (Small),Vehicle Repair Station,True,linear,each,1.0
+47,Vehicle Repair Station (Medium),Vehicle Repair Station,True,linear,each,1.0
+48,Vehicle Repair Station (Large),Vehicle Repair Station,True,linear,each,1.0
+49,Tram Stop (Small),Platform/Station,True,linear,each,1.0
+50,Tram Stop (Larger),Platform/Station,True,linear,each,1.0
+51,Bus Stop,Platform/Station,True,linear,each,1.0
+52,Trolleybus Stop,Platform/Station,True,linear,each,1.0
+53,Bus Platform,Platform/Station,True,linear,each,1.0
+54,Bus Platform,Platform/Station,True,linear,each,1.0
+55,Bus Station,Platform/Station,True,linear,each,1.0
+56,Bus Platform,Platform/Station,True,linear,each,1.0
+57,Bus Platform Small,Platform/Station,True,linear,each,1.0
+58,Bus Platform,Platform/Station,True,linear,each,1.0
+59,Small Parking Lot (Optimized Traffic),Parking Lot,True,linear,each,1.0
+60,Medium Parking Lot (Optimized Traffic),Parking Lot,True,linear,each,1.0
+61,Big Parking Lot (Optimized Traffic),Parking Lot,True,linear,each,1.0
+62,Small Parking Lot,Parking Lot,True,linear,each,1.0
+63,Medium Parking Lot,Parking Lot,True,linear,each,1.0
+64,Large Parking Lot,Parking Lot,True,linear,each,1.0
+65,Car Dealer,Shop,True,linear,each,1.0
+66,Road Cargo Station,Cargo Station,True,linear,each,1.0
+67,Road Cargo Station,Cargo Station,True,linear,each,1.0
+68,Road Cargo Station,Cargo Station,True,linear,each,1.0
+69,Oil/Fuel Loading & Unloading,Cargo Station,True,linear,each,1.0
+70,Oil/Fuel Loading & Unloading,Cargo Station,True,linear,each,1.0
+71,Truck Aggregate Loading,Cargo Station,True,linear,each,1.0
+72,Truck Aggregate Unloading,Cargo Station,True,linear,each,1.0
+73,Road Dry Bulk Loading/Unloading,Cargo Station,True,linear,each,1.0
+74,Gas Station,Refueling,True,linear,each,1.0
+75,Gas Station,Refueling,True,linear,each,1.0
+76,Gas Station,Refueling,True,linear,each,1.0
+77,Gas Station,Refueling,True,linear,each,1.0
+78,Gas Station,Refueling,True,linear,each,1.0
+79,Gas Station,Refueling,True,linear,each,1.0
+80,Trolleybus Trafo,Refueling,True,linear,each,1.0
+81,Tram Trafo,Refueling,True,linear,each,1.0
+82,Electrified Railway,Railway,True,linear,meter,5.0
+83,Metro Railway,Railway,True,linear,meter,5.0
+84,Concrete-Based Railway,Railway,True,linear,meter,5.0
+85,Wood-Based Railway,Railway,True,linear,meter,5.0
+86,Steel Deck Truss Bridge,Railway Bridge,True,formula,,
+87,Truss Bridge,Railway Bridge,True,formula,,
+88,Steel Deck Truss Bridge,Railway Bridge,True,formula,,
+89,Truss Bridge,Railway Bridge,True,formula,,
+90,Truss Bridge,Railway Bridge,True,formula,,
+91,Steel Deck Truss Bridge,Railway Bridge,True,formula,,
+92,Railway Bridge,Railway Bridge,True,formula,,
+93,Truss Bridge,Railway Bridge,True,formula,,
+94,Truss Bridge,Railway Bridge,True,formula,,
+95,Railway Bridge,Railway Bridge,True,formula,,
+96,Truss Bridge,Railway Bridge,True,formula,,
+97,Railway Tunnel,Railway Tunnel,True,formula,,
+98,Metro Tunnel,Railway Tunnel,True,formula,,
+99,Metro Ground-Level End Station,End Station,True,linear,each,1.0
+100,Railway End Station,End Station,True,linear,each,1.0
+101,Metro End Station,End Station,True,linear,each,1.0
+102,Train Depot,Train Depot,True,linear,each,1.0
+103,Long Train Depot,Train Depot,True,linear,each,1.0
+104,Metro Ground-Level Station (Small),Platform/Station,True,linear,each,1.0
+105,Metro Ground-Level Station (Large),Platform/Station,True,linear,each,1.0
+106,Large Train Station,Platform/Station,True,linear,each,1.0
+107,Train Platform Small,Platform/Station,True,linear,each,1.0
+108,Train Platform,Platform/Station,True,linear,each,1.0
+109,Metro Station Entrance,Platform/Station,True,linear,each,1.0
+110,Metro Platform Without Entrance,Platform/Station,True,linear,each,1.0
+111,Metro Above-Ground Station (Small),Platform/Station,True,linear,each,1.0
+112,Metro Above-Ground Station (Large),Platform/Station,True,linear,each,1.0
+113,Cargo Train Station,Cargo Station,True,linear,each,1.0
+114,Cargo Train Station,Cargo Station,True,linear,each,1.0
+115,Cargo Train Station,Cargo Station,True,linear,each,1.0
+116,Cargo Train Station,Cargo Station,True,linear,each,1.0
+117,Cargo Train Station,Cargo Station,True,linear,each,1.0
+118,Cargo Train Station,Cargo Station,True,linear,each,1.0
+119,Cargo Train Station,Cargo Station,True,linear,each,1.0
+120,Oil/Fuel Loading & Unloading,Cargo Station,True,linear,each,1.0
+121,Oil/Fuel Loading & Unloading,Cargo Station,True,linear,each,1.0
+122,Oil/Fuel Loading & Unloading,Cargo Station,True,linear,each,1.0
+123,Train Aggregate Loading,Cargo Station,True,linear,each,1.0
+124,Train Aggregate Unloading,Cargo Station,True,linear,each,1.0
+125,Train Aggregate Unloading,Cargo Station,True,linear,each,1.0
+126,Train Aggregate Unloading,Cargo Station,True,linear,each,1.0
+127,Train Aggregate Loading,Cargo Station,True,linear,each,1.0
+128,Train Aggregate Unloading,Cargo Station,True,linear,each,1.0
+129,Train Aggregate Unloading,Cargo Station,True,linear,each,1.0
+130,Train Aggregate Unloading,Cargo Station,True,linear,each,1.0
+131,Railway Dry Bulk Loading/Unloading,Cargo Station,True,linear,each,1.0
+132,Train Diesel Station,Refueling,True,linear,each,1.0
+133,Train Diesel Station,Refueling,True,linear,each,1.0
+134,Underground Railroad Electric Connection,Refueling,True,linear,each,1.0
+135,Underground Railroad Electric Connection,Refueling,True,linear,each,1.0
+136,Railway Electric Connection,Refueling,True,linear,each,1.0
+137,Underground Railroad Electric Connection,Refueling,True,linear,each,1.0
+138,Footpath,Footpath,True,linear,meter,5.0
+139,Asphalt Footpath,Footpath,True,linear,meter,5.0
+140,Asphalt Footpath With Lamps,Footpath,True,linear,meter,5.0
+141,Pedestrian Overpass (Steel),Footpath,True,linear,meter,5.0
+142,Pergola,Footpath,True,linear,each,1.0
+143,Pergola,Footpath,True,linear,each,1.0
+144,Pedestrian Overpass (Concrete),Footpath,True,linear,each,1.0
+145,Pedestrian Bridge (Steel),Footpath,True,linear,meter,5.0
+146,Pedestrian Bridge (Concrete),Footpath,True,linear,meter,5.0
+147,Pedestrian Underpass,Footpath,True,linear,each,1.0
+148,Pedestrian Metro Entrance (Stairs),Footpath,True,linear,each,1.0
+149,Pedestrian Metro Entrance (Escalators),Footpath,True,linear,each,1.0
+150,Pedestrian Tunnel,Footpath,True,formula,,
+151,Ship Dock (Small),Ship Dock,True,linear,each,1.0
+152,Ship Dock (Medium),Ship Dock,True,linear,each,1.0
+153,Passenger Harbor (Small),Platform/Station,True,linear,each,1.0
+154,Passenger Harbor (Small),Platform/Station,True,linear,each,1.0
+155,Passenger Harbor (Medium),Platform/Station,True,linear,each,1.0
+156,Passenger Harbor (Small),Platform/Station,True,linear,each,1.0
+157,Cargo Harbor (Small),Cargo Station,True,linear,each,1.0
+158,Cargo Harbor (Medium),Cargo Station,True,linear,each,1.0
+159,Cargo Harbor (Small),Cargo Station,True,linear,each,1.0
+160,Pumping Harbor,Cargo Station,True,linear,each,1.0
+161,Harbor For Aggregate Loading,Cargo Station,True,linear,each,1.0
+162,Harbor For Aggregate Unloading,Cargo Station,True,linear,each,1.0
+163,Harbor For Containers And Vehicles,Cargo Station,True,linear,each,1.0
+164,Taxiway,Runway,True,linear,meter,20.0
+165,Runway,Runway,True,linear,meter,40.0
+166,3X Airplane Parking 50M,Airplane Parking,True,linear,each,1.0
+167,Airplane Parking 75M,Airplane Parking,True,linear,each,1.0
+168,Airplane Parking 30M,Airplane Parking,True,linear,each,1.0
+169,Airplane Parking 40M,Airplane Parking,True,linear,each,1.0
+170,Airplane Parking 50M,Airplane Parking,True,linear,each,1.0
+171,Heliport,Airplane Parking,True,linear,each,1.0
+172,Heliport 3X,Airplane Parking,True,linear,each,1.0
+173,Control Tower,Control Tower,True,linear,each,1.0
+174,Airport Road Connection,Road,True,linear,each,1.0
+175,Airport Terminal,Platform/Station,True,linear,each,1.0
+176,Airport Terminal,Platform/Station,True,linear,each,1.0
+177,Heliport Passenger Terminal,Platform/Station,True,linear,each,1.0
+178,Airport Cargo Terminal,Cargo Station,True,linear,each,1.0
+179,Heliport Cargo Terminal,Cargo Station,True,linear,each,1.0
+180,Heliport Cargo Terminal 3X,Cargo Station,True,linear,each,1.0
+181,Light Cableway Pole,Cableway Pole,True,linear,each,1.0
+182,Light Cableway Pole,Cableway Pole,True,linear,each,1.0
+183,Light Cableway Pole,Cableway Pole,True,linear,each,1.0
+184,Light Cableway Pole,Cableway Pole,True,linear,each,1.0
+185,Heavy Cableway Pole,Cableway Pole,True,linear,each,1.0
+186,Heavy Cableway Pole,Cableway Pole,True,linear,each,1.0
+187,Heavy Cableway Pole,Cableway Pole,True,linear,each,1.0
+188,Heavy Cableway Pole,Cableway Pole,True,linear,each,1.0
+189,Small Cableway Station,Cargo Station,True,linear,each,1.0
+190,Big Cableway Station,Cargo Station,True,linear,each,1.0
+191,Cableway Aggregate Loading (Small),Cargo Station,True,linear,each,1.0
+192,Cableway Aggregate Loading (Big),Cargo Station,True,linear,each,1.0
+193,Cableway Aggregate Unloading (Small),Cargo Station,True,linear,each,1.0
+194,Cableway Aggregate Unloading (Big),Cargo Station,True,linear,each,1.0
+195,Factory Connection,Forklift Facility,True,linear,meter,10.0
+196,Factory Connection Crossing,Forklift Facility,True,linear,each,1.0
+197,Forklift Garage,Forklift Facility,True,linear,each,1.0
+198,Small Distribution Office,Distribution Office,True,linear,each,1.0
+199,Medium Distribution Office,Distribution Office,True,linear,each,1.0
+200,Train Distribution Office,Train Distribution Service,True,linear,each,1.0
+201,Container-Loading Facility,Container Facility,True,linear,each,1.0
+202,Container-Unloading Facility,Container Facility,True,linear,each,1.0
+203,Open Storage (Small),Storage,True,linear,each,1.0
+204,Open Storage (Medium),Storage,True,linear,each,1.0
+205,Grain Storage,Storage,True,linear,each,1.0
+206,Grain Storage,Storage,True,linear,each,1.0
+207,Grain Storage,Storage,True,linear,each,1.0
+208,Grain Storage,Storage,True,linear,each,1.0
+209,Warehouse,Storage,True,linear,each,1.0
+210,Grain Storage,Storage,True,linear,each,1.0
+211,Grain Storage,Storage,True,linear,each,1.0
+212,Grain Storage,Storage,True,linear,each,1.0
+213,Grain Storage,Storage,True,linear,each,1.0
+214,Warehouse,Storage,True,linear,each,1.0
+215,Warehouse,Storage,True,linear,each,1.0
+216,Warehouse,Storage,True,linear,each,1.0
+217,Warehouse,Storage,True,linear,each,1.0
+218,Warehouse,Storage,True,linear,each,1.0
+219,Space For Vehicles/Containers (Large),Storage,True,linear,each,1.0
+220,Space For Vehicles/Containers (Small),Storage,True,linear,each,1.0
+221,Meat Storage,Storage,True,linear,each,1.0
+222,Meat Storage,Storage,True,linear,each,1.0
+223,Conveyer Connection,Conveyer/Pipe Engine,True,formula,,
+224,Conveyer Engine/Transfer,Conveyer/Pipe Engine,True,linear,each,1.0
+225,Conveyer Engine/Transfer,Conveyer/Pipe Engine,True,linear,each,1.0
+226,Conveyer Engine/Transfer,Conveyer/Pipe Engine,True,linear,each,1.0
+227,Conveyer Engine/Transfer,Conveyer/Pipe Engine,True,linear,each,1.0
+228,Conveyer Engine/Transfer,Conveyer/Pipe Engine,True,linear,each,1.0
+229,Conveyer Engine/Transfer,Conveyer/Pipe Engine,True,linear,each,1.0
+230,Conveyer Engine/Transfer,Conveyer/Pipe Engine,True,linear,each,1.0
+231,Conveyer Engine/Transfer,Conveyer/Pipe Engine,True,linear,each,1.0
+232,Conveyer Overpass,Conveyer/Pipe Engine,True,linear,each,1.0
+233,Conveyer Overpass,Conveyer/Pipe Engine,True,linear,each,1.0
+234,Conveyer Overpass,Conveyer/Pipe Engine,True,linear,each,1.0
+235,Aggregate Storage,Cargo Station,True,linear,each,1.0
+236,Aggregate Storage,Cargo Station,True,linear,each,1.0
+237,Aggregate Storage,Cargo Station,True,linear,each,1.0
+238,Small Aggregate Storage,Cargo Station,True,linear,each,1.0
+239,Large Aggregate Storage,Cargo Station,True,linear,each,1.0
+240,Aggregate Storage,Cargo Station,True,linear,each,1.0
+241,Pipe Connection,Conveyer/Pipe Engine,True,formula,,
+242,Liquid-Pumping Station,Conveyer/Pipe Engine,True,linear,each,1.0
+243,Liquid-Pumping Station,Conveyer/Pipe Engine,True,linear,each,1.0
+244,Underground Pumping Station,Conveyer/Pipe Engine,True,linear,each,1.0
+245,Underground Pumping Station,Conveyer/Pipe Engine,True,linear,each,1.0
+246,Foreign Pipeline Connection,Conveyer/Pipe Engine,True,linear,each,1.0
+247,Oil/Fuel Storage,Storage,True,linear,each,1.0
+248,Oil/Fuel Storage,Storage,True,linear,each,1.0
+249,Oil/Fuel Storage,Storage,True,linear,each,1.0
+250,Dry Bulk Conveyer Connection,Conveyer/Pipe Engine,True,formula,,
+251,Dry-Bulk Conveyer Engine/Transfer,Conveyer/Pipe Engine,True,linear,each,1.0
+252,Dry-Bulk Conveyer Engine/Transfer,Conveyer/Pipe Engine,True,linear,each,1.0
+253,Dry-Bulk Conveyer Engine/Transfer,Conveyer/Pipe Engine,True,linear,each,1.0
+254,Dry-Bulk Conveyer Engine/Transfer,Conveyer/Pipe Engine,True,linear,each,1.0
+255,Dry-Bulk Conveyer Engine/Transfer,Conveyer/Pipe Engine,True,linear,each,1.0
+256,Dry-Bulk Conveyer Engine/Transfer,Conveyer/Pipe Engine,True,linear,each,1.0
+257,Dry-Bulk Conveyer Engine/Transfer,Conveyer/Pipe Engine,True,linear,each,1.0
+258,Dry-Bulk Conveyer Engine/Transfer,Conveyer/Pipe Engine,True,linear,each,1.0
+259,Dry-Bulk Conveyer Overpass,Conveyer/Pipe Engine,True,linear,each,1.0
+260,Dry-Bulk Conveyer Overpass,Conveyer/Pipe Engine,True,linear,each,1.0
+261,Dry-Bulk Conveyer Overpass,Conveyer/Pipe Engine,True,linear,each,1.0
+262,Dry Bulk Storage,Storage,True,linear,each,1.0
+263,Dry Bulk Storage,Storage,True,linear,each,1.0
+264,Dry Bulk Storage,Storage,True,linear,each,1.0
+265,Dry Bulk Storage,Storage,True,linear,each,1.0
+266,Cement Silo,Storage,True,linear,each,1.0
+267,Coal Power Plant,Power Plant,True,linear,each,1.0
+268,Gas Power Plant,Power Plant,True,linear,each,1.0
+269,Solar Power Plant,Power Plant,True,linear,each,1.0
+270,Small Wind Power Plant,Power Plant,True,linear,each,1.0
+271,Big Wind Power Plant,Power Plant,True,linear,each,1.0
+272,Single-Reactor Nuclear Power Plant,Power Plant,True,linear,each,1.0
+273,Twin-Reactor Nuclear Power Plant,Power Plant,True,linear,each,1.0
+274,Cooling Tower,Cooling Tower,True,linear,each,1.0
+275,Cooling Pipe Connection,Power Plant,True,linear,meter,10.0
+276,Medium-Voltage Wires Wattage:1.20 MW,Wire,True,formula,,
+277,Medium-Voltage Wires Wattage:1.50 MW,Wire,True,formula,,
+278,Medium-Voltage Wires Wattage:2.35 MW,Wire,True,formula,,
+279,Medium-Voltage Wires Wattage:0.65 MW,Wire,True,formula,,
+280,Medium-Voltage Wires Wattage:0.65 MW,Wire,True,linear,meter,12.0
+281,Medium-Voltage Wires Wattage:1.15 MW,Wire,True,linear,meter,12.0
+282,Medium-Voltage Wires Wattage:1.85 MW,Wire,True,linear,meter,12.0
+283,Medium-Voltage Switch,Power Transformer,True,linear,each,1.0
+284,Medium-Voltage Switch 5X,Power Transformer,True,linear,each,1.0
+285,Medium-Voltage Switch (Priority),Power Transformer,True,linear,each,1.0
+286,Electric Substation,Power Substation,True,linear,each,1.0
+287,Electric Substation,Power Substation,True,linear,each,1.0
+288,High-Voltage Wires Wattage:10 MW,Wire,True,formula,,
+289,High-Voltage Wires Wattage:14 MW,Wire,True,formula,,
+290,High-Voltage Wires Wattage:13 MW,Wire,True,formula,,
+291,High-Voltage Wires Wattage: 4 MW,Wire,True,formula,,
+292,High-Voltage Wires Wattage:15 MW,Wire,True,formula,,
+293,High-Voltage Wires Wattage: 6 MW,Wire,True,formula,,
+294,High-Voltage Wires Wattage:18 MW,Wire,True,formula,,
+295,High-Voltage Wires Wattage: 8 MW,Wire,True,formula,,
+296,High-Voltage Wires Wattage: 5 MW,Wire,True,linear,meter,10.0
+297,High-Voltage Wires Wattage: 7 MW,Wire,True,linear,meter,10.0
+298,High-Voltage Wires Wattage: 12 MW,Wire,True,linear,meter,10.0
+299,High-Voltage Switch,Power Transformer,True,linear,each,1.0
+300,High-Voltage Switch 6X,Power Transformer,True,linear,each,1.0
+301,High-Voltage Switch (Priority),Power Transformer,True,linear,each,1.0
+302,Power Transformer,Power Transformer,True,linear,each,1.0
+303,Small Water Pipe,Conveyer/Pipe Engine,True,formula,,
+304,Medium Water Pipe,Conveyer/Pipe Engine,True,formula,,
+305,Big Water Pipe,Conveyer/Pipe Engine,True,formula,,
+306,Water Substation,Water Substation,True,linear,each,1.0
+307,Small Water-Pumping Station,Water Facility,True,linear,each,1.0
+308,Big-Water-Pumping Station,Water Facility,True,linear,each,1.0
+309,Underground Water Reservoir,Water Facility,True,linear,each,1.0
+310,Small Water Tower,Water Facility,True,linear,each,1.0
+311,Big Water Tower,Water Facility,True,linear,each,1.0
+312,Small Water Well,Water Well,True,linear,each,1.0
+313,Big Water Well,Water Well,True,linear,each,1.0
+314,Surface Water Intake,Water Well,True,linear,each,1.0
+315,Water Treatment (Small),Water Treatment,True,linear,each,1.0
+316,Water Treatment (Big),Water Treatment,True,linear,each,1.0
+317,Water Loading/Unloading Station,Cargo Station,True,linear,each,1.0
+318,Water Switch,Water Facility,True,linear,each,1.0
+319,Small Sewage Pipe,Conveyer/Pipe Engine,True,formula,,
+320,Medium Sewage Pipe,Conveyer/Pipe Engine,True,formula,,
+321,Big Sewage Pipe,Conveyer/Pipe Engine,True,formula,,
+322,Sewage Tank,Sewage Substation,True,linear,each,1.0
+323,Sewage Pump,Sewage Facility,True,linear,each,1.0
+324,Sewage Pump,Sewage Facility,True,linear,each,1.0
+325,Sewage Pump,Sewage Facility,True,linear,each,1.0
+326,Sewage Switch,Sewage Facility,True,linear,each,1.0
+327,Sewage Discharge,Sewage Discharge,True,linear,each,1.0
+328,Sewage Treatment (Small),Sewage Treatment,True,linear,each,1.0
+329,Sewage Treatment (Big),Sewage Treatment,True,linear,each,1.0
+330,Sewage Loading/Unloading Station,Sewage Facility,True,linear,each,1.0
+331,Small Heating Plant,Heating Plant,True,linear,each,1.0
+332,Heating Plant,Heating Plant,True,linear,each,1.0
+333,Heating Pipe Small,Conveyer/Pipe Engine,True,formula,,
+334,Heating Pipe Underground Small,Conveyer/Pipe Engine,True,formula,,
+335,Heating Pipe Big,Conveyer/Pipe Engine,True,formula,,
+336,Heating Pipe Underground Big,Conveyer/Pipe Engine,True,formula,,
+337,Small Heat-Pumping Station,Conveyer/Pipe Engine,True,linear,each,1.0
+338,Heat-Pumping Station,Conveyer/Pipe Engine,True,linear,each,1.0
+339,Small Heat Exchanger,Heating Exchanger,True,linear,each,1.0
+340,Small Heat Exchanger,Heating Exchanger,True,linear,each,1.0
+341,Heat Exchanger,Heating Exchanger,True,linear,each,1.0
+342,Heat Exchanger,Heating Exchanger,True,linear,each,1.0
+343,Stand For Small Garbage Containers (Small),Trash Containers,True,linear,each,1.0
+344,Stand For Small Garbage Containers (Small),Trash Containers,True,linear,each,1.0
+345,Stand For Small Garbage Containers (Large),Trash Containers,True,linear,each,1.0
+346,Stand For Small Garbage Containers (Large),Trash Containers,True,linear,each,1.0
+347,Stand For Big Garbage Containers (Small),Trash Containers,True,linear,each,1.0
+348,Stand For Big Garbage Containers (Large),Trash Containers,True,linear,each,1.0
+349,General Separation,Factory,True,linear,each,1.0
+350,Scrap Separation,Factory,True,linear,each,1.0
+351,Aluminum Separation,Factory,True,linear,each,1.0
+352,Gravel Recycling Plant,Factory,True,linear,each,1.0
+353,Plastic Recycling Plant,Factory,True,linear,each,1.0
+354,Steel Recycling Plant,Factory,True,linear,each,1.0
+355,Aluminum Recycling Plant,Factory,True,linear,each,1.0
+356,Waste Treatment Plant,Factory,True,linear,each,1.0
+357,Incinerator (Small),Factory,True,linear,each,1.0
+358,Incinerator (Large),Factory,True,linear,each,1.0
+359,Incinerator - Power Plant,Power Plant,True,linear,each,1.0
+360,Incinerator - Heating Plant,Heating Plant,True,linear,each,1.0
+361,Scrapping Facility (Small),Factory,True,linear,each,1.0
+362,Scrapping Facility (Large),Factory,True,linear,each,1.0
+363,Ship-Scrapping Facility (Small),Factory,True,linear,each,1.0
+364,Ship-Scrapping Facility (Large),Factory,True,linear,each,1.0
+365,Dump (Small),Storage,True,linear,each,1.0
+366,Dump (Medium),Storage,True,linear,each,1.0
+367,Dump With Claw Machine (Small),Storage,True,linear,each,1.0
+368,Dump With Claw Machine (Large),Storage,True,linear,each,1.0
+369,Dump With Claw Machine (Railway),Storage,True,linear,each,1.0
+370,Transfer For Big Garbage Containers (Small),Cargo Station,True,linear,each,1.0
+371,Transfer For Big Garbage Containers (Large),Cargo Station,True,linear,each,1.0
+372,Low-Quality Rural Flats,Residential,True,linear,each,1.0
+373,Flats - Prefab,Residential,True,linear,each,1.0
+374,Flats - Prefab,Residential,True,linear,each,1.0
+375,Flats - Prefab,Residential,True,linear,each,1.0
+376,Flats - Prefab,Residential,True,linear,each,1.0
+377,Low-Quality Rural Flats,Residential,True,linear,each,1.0
+378,Low-Quality Rural Flats,Residential,True,linear,each,1.0
+379,Flats - Prefab (Type 75),Residential,True,linear,each,1.0
+380,Flats - Prefab (Type 75),Residential,True,linear,each,1.0
+381,Flats - Prefab (Type 75),Residential,True,linear,each,1.0
+382,Flats - Prefab (Type 75),Residential,True,linear,each,1.0
+383,Flats - Prefab (1Lg-600A),Residential,True,linear,each,1.0
+384,Flats - Prefab (1Lg-600A),Residential,True,linear,each,1.0
+385,Flats - Brick,Residential,True,linear,each,1.0
+386,Flats - Brick,Residential,True,linear,each,1.0
+387,Flats - Brick,Residential,True,linear,each,1.0
+388,Flats - Brick,Residential,True,linear,each,1.0
+389,Flats - Prefab,Residential,True,linear,each,1.0
+390,Flats - Prefab (Type 75),Residential,True,linear,each,1.0
+391,Flats - Prefab,Residential,True,linear,each,1.0
+392,Flats - Prefab,Residential,True,linear,each,1.0
+393,Flats - Prefab,Residential,True,linear,each,1.0
+394,Flats - Prefab,Residential,True,linear,each,1.0
+395,Flats - Prefab,Residential,True,linear,each,1.0
+396,Flats - Prefab (Type 75),Residential,True,linear,each,1.0
+397,Flats - Prefab (1Lg-600A),Residential,True,linear,each,1.0
+398,Flats - Prefab (1Lg-600A),Residential,True,linear,each,1.0
+399,Flats - Prefab (1Lg-600A),Residential,True,linear,each,1.0
+400,Flats - Prefab (1Lg-600A),Residential,True,linear,each,1.0
+401,Flats - Prefab,Residential,True,linear,each,1.0
+402,Flats - Prefab,Residential,True,linear,each,1.0
+403,Flats - Prefab (Type 75),Residential,True,linear,each,1.0
+404,Flats - Prefab (Type 75),Residential,True,linear,each,1.0
+405,Flats - Prefab (Type 75),Residential,True,linear,each,1.0
+406,Flats - Prefab (Type 75),Residential,True,linear,each,1.0
+407,Flats - Prefab (Type 75),Residential,True,linear,each,1.0
+408,Flats - Prefab (Type 75),Residential,True,linear,each,1.0
+409,Flats - Prefab (Type 75),Residential,True,linear,each,1.0
+410,Flats - Brick,Residential,True,linear,each,1.0
+411,Flats - Brick,Residential,True,linear,each,1.0
+412,Flats - Prefab (Type 464),Residential,True,linear,each,1.0
+413,Flats - Prefab,Residential,True,linear,each,1.0
+414,Flats - Prefab,Residential,True,linear,each,1.0
+415,Flats - Prefab (Type 75),Residential,True,linear,each,1.0
+416,Flats - Prefab (Type 75),Residential,True,linear,each,1.0
+417,Flats - Prefab,Residential,True,linear,each,1.0
+418,Flats - Prefab,Residential,True,linear,each,1.0
+419,Flats - Prefab,Residential,True,linear,each,1.0
+420,Flats - Prefab,Residential,True,linear,each,1.0
+421,Flats - Prefab,Residential,True,linear,each,1.0
+422,Flats - Prefab,Residential,True,linear,each,1.0
+423,Flats - Prefab (Type 75),Residential,True,linear,each,1.0
+424,Flats - Prefab (Type 75),Residential,True,linear,each,1.0
+425,Flats - Prefab (1Lg-600A),Residential,True,linear,each,1.0
+426,Flats - Prefab (1Lg-600A),Residential,True,linear,each,1.0
+427,Flats - Prefab (1Lg-600A),Residential,True,linear,each,1.0
+428,Flats - Prefab (1Lg-600A),Residential,True,linear,each,1.0
+429,Flats - Prefab,Residential,True,linear,each,1.0
+430,Flats - Prefab,Residential,True,linear,each,1.0
+431,Flats - Prefab,Residential,True,linear,each,1.0
+432,Flats - Brick,Residential,True,linear,each,1.0
+433,Flats - Prefab,Residential,True,linear,each,1.0
+434,Flats - Prefab,Residential,True,linear,each,1.0
+435,Flats - Prefab,Residential,True,linear,each,1.0
+436,Flats - Prefab,Residential,True,linear,each,1.0
+437,Flats - Prefab (Type 75),Residential,True,linear,each,1.0
+438,Flats - Prefab (Type 75),Residential,True,linear,each,1.0
+439,Flats - Prefab (Type 75),Residential,True,linear,each,1.0
+440,Flats - Prefab (Type 75),Residential,True,linear,each,1.0
+441,Grocery Store,Shop,True,linear,each,1.0
+442,Grocery Kiosk,Shop,True,linear,each,1.0
+443,Shopping Center,Shop,True,linear,each,1.0
+444,Small Shopping Center,Shop,True,linear,each,1.0
+445,Small Shopping Center,Shop,True,linear,each,1.0
+446,Small Shopping Center,Shop,True,linear,each,1.0
+447,Small Shop,Shop,True,linear,each,1.0
+448,"""Panorama"" Restaurant",Pub,True,linear,each,1.0
+449,Pub,Pub,True,linear,each,1.0
+450,Pub,Pub,True,linear,each,1.0
+451,Alcohol Kiosk,Cinema,True,linear,each,1.0
+452,Cinema,Cinema,True,linear,each,1.0
+453,Amphitheatre,Cinema,True,linear,each,1.0
+454,House Of Culture,Attraction,True,linear,each,1.0
+455,Pyramid Museum,Attraction,True,linear,each,1.0
+456,National Uprising Museum,Attraction,True,linear,each,1.0
+457,"""The Palace Of Communism"" (Museum)",Attraction,True,linear,each,1.0
+458,Gallery Of Art,Attraction,True,linear,each,1.0
+459,Republic Theater,Attraction,True,linear,each,1.0
+460,Museum Of The Republic,Broadcasting,True,linear,each,1.0
+461,Televsion Station,Broadcasting,True,linear,each,1.0
+462,Radio Station,Broadcasting,True,linear,each,1.0
+463,Football Field,Sports Playground,True,linear,each,1.0
+464,Volleyball Court,Sports Playground,True,linear,each,1.0
+465,City Stadium,Sports Playground,True,linear,each,1.0
+466,Outdoor Swimming Pool,Sports Playground,True,linear,each,1.0
+467,Basketball And Volleyball Court,Sports Playground,True,linear,each,1.0
+468,Basketball And Volleyball Court,Sports Playground,True,linear,each,1.0
+469,Football Field,Sports Playground,True,linear,each,1.0
+470,Tennis Court,Sports Playground,True,linear,each,1.0
+471,Beach,Sports Playground,True,linear,each,1.0
+472,Indoor Poll,Sports Playground,True,linear,each,1.0
+473,Sport Hall,Sports Playground,True,linear,each,1.0
+474,Sport Hall,Sports Playground,True,linear,each,1.0
+475,Hospital,Hospital,True,linear,each,1.0
+476,Large Hospital,Hospital,True,linear,each,1.0
+477,Small Clinic,Hospital,True,linear,each,1.0
+478,Fire Station,Fire Station,True,linear,each,1.0
+479,Fire Station,Fire Station,True,linear,each,1.0
+480,Fire Station,Fire Station,True,linear,each,1.0
+481,Kindergarden,Kindergarden,True,linear,each,1.0
+482,Kindergarden,Kindergarden,True,linear,each,1.0
+483,Kindergarden,Kindergarden,True,linear,each,1.0
+484,School,School,True,linear,each,1.0
+485,School,School,True,linear,each,1.0
+486,School,School,True,linear,each,1.0
+487,School,School,True,linear,each,1.0
+488,Orphanage,Orphanage,True,linear,each,1.0
+489,Orphanage,Orphanage,True,linear,each,1.0
+490,Medical University,University,True,linear,each,1.0
+491,Technical University,University,True,linear,each,1.0
+492,Technical University,University,True,linear,each,1.0
+493,Headquarters Of The Communist Party,University,True,linear,each,1.0
+494,Small Headquarters Of The Party,University,True,linear,each,1.0
+495,University Halls Of Residence,Hostel,True,linear,each,1.0
+496,University Halls Of Residence,Hostel,True,linear,each,1.0
+497,Police Station,Police Station,True,linear,each,1.0
+498,Police Station (Small),Police Station,True,linear,each,1.0
+499,Court House,Court House,True,linear,each,1.0
+500,Court House (Small),Court House,True,linear,each,1.0
+501,Prison,Prison,True,linear,each,1.0
+502,Prison,Prison,True,linear,each,1.0
+503,Secret Police,Secret Police,True,linear,each,1.0
+504,Secret Police (Small),Secret Police,True,linear,each,1.0
+505,City Accounting Office,City Hall,True,linear,each,1.0
+506,Pollution Monitoring Station,Attraction,True,linear,each,1.0
+507,Small Hotel**,Attraction,True,linear,each,1.0
+508,Small Hotel**,Attraction,True,linear,each,1.0
+509,Mountain Hotel**,Attraction,True,linear,each,1.0
+510,Hotel (3 Stars),Attraction,True,linear,each,1.0
+511,City Hotel****,Attraction,True,linear,each,1.0
+512,Hotel (4 Stars),Attraction,True,linear,each,1.0
+513,"""Surprise"" (Carousel)",Attraction,True,linear,each,1.0
+514,"""Autodrome"" (Carousel)",Attraction,True,linear,each,1.0
+515,Ferris Wheel (Carousel),Attraction,True,linear,each,1.0
+516,"""Chamomile"" (Carousel)",Attraction,True,linear,each,1.0
+517,Beach Cafe/Bar,Attraction,True,linear,each,1.0
+518,"""The View"" (Cafe/Bar)",Attraction,True,linear,each,1.0
+519,"""Delicije"" (Cafe/Bar)",Attraction,True,linear,each,1.0
+520,Sight Tower,Attraction,True,linear,each,1.0
+521,Sight Tower 2,Attraction,True,linear,each,1.0
+522,Zoo,Attraction,True,linear,each,1.0
+523,Medium Round Fountain,Monument,True,linear,each,1.0
+524,Small Round Fountain,Monument,True,linear,each,1.0
+525,Small Round Fountain,Monument,True,linear,each,1.0
+526,Rectangular Fountain,Monument,True,linear,each,1.0
+527,Medium Round Fountain,Monument,True,linear,each,1.0
+528,Medium Round Fountain,Monument,True,linear,each,1.0
+529,Small Fountain,Monument,True,linear,each,1.0
+530,Medium Fountain,Monument,True,linear,each,1.0
+531,Big Fountain,Monument,True,linear,each,1.0
+532,Lenin's Statue In Copper,Monument,True,linear,each,1.0
+533,Enternal Flame Obelisk,Monument,True,linear,each,1.0
+534,Childrens' Playground,Monument,True,linear,each,1.0
+535,Childrens' Playground,Monument,True,linear,each,1.0
+536,Childrens' Playground,Monument,True,linear,each,1.0
+537,Soviet Emblem,Monument,True,linear,each,1.0
+538,Soviet Symbol In Concrete And Copper,Monument,True,linear,each,1.0
+539,Soviet Symbol In Concrete,Monument,True,linear,each,1.0
+540,Red Star Monument,Monument,True,linear,each,1.0
+541,Lenin'S Statue In Concrete,Monument,True,linear,each,1.0
+542,Plank Fence,Fence,True,linear,meter,10.0
+543,Wrought Iron Fence,Fence,True,linear,meter,10.0
+544,Wrought Iron Fence,Fence,True,linear,meter,10.0
+545,Wrought Iron Fence,Fence,True,linear,meter,10.0
+546,Prefab Fence,Fence,True,linear,meter,10.0
+547,Prefab Fence,Fence,True,linear,meter,10.0
+548,Brick Fence,Fence,True,linear,meter,10.0
+549,Fence,Fence,True,linear,meter,10.0
+550,Mauer,Fence,True,linear,meter,10.0
+551,Prefab Fence,Fence,True,linear,meter,10.0
+552,Fence Gate,Fence,True,linear,each,1.0
+553,Fence Gate,Fence,True,linear,each,1.0
+554,Fence Gate,Fence,True,linear,each,1.0
+555,Fence Gate,Fence,True,linear,each,1.0
+556,Railway Gate,Fence,True,linear,each,1.0
+557,Park Gate With Vases,Fence,True,linear,each,1.0
+558,Fence Gate,Fence,True,linear,each,1.0
+559,Small Farm,Factory,True,linear,each,1.0
+560,Medium Farm,Factory,True,linear,each,1.0
+561,Large Farm,Factory,True,linear,each,1.0
+562,Synthetic Fertilizer Factory,Factory,True,linear,each,1.0
+563,Composting Plant,Factory,True,linear,each,1.0
+564,Food Factory,Factory,True,linear,each,1.0
+565,Distillery,Factory,True,linear,each,1.0
+566,Livestock Farm,Factory,True,linear,each,1.0
+567,Livestock Hall/Range,Factory,True,linear,each,1.0
+568,Slaughterhouse,Factory,True,linear,each,1.0
+569,Woodcutting Post,Factory,True,linear,each,1.0
+570,Sawmill,Factory,True,linear,each,1.0
+571,Fabric Factory,Factory,True,linear,each,1.0
+572,Clothing Factory,Factory,True,linear,each,1.0
+573,Gravel Quarry,Factory,True,linear,each,1.0
+574,Gravel Quarry,Factory,True,linear,each,1.0
+575,Gravel Processing Plant,Factory,True,linear,each,1.0
+576,Gravel Processing Plant,Factory,True,linear,each,1.0
+577,Cement Plant,Factory,True,linear,each,1.0
+578,Cement Plant,Factory,True,linear,each,1.0
+579,Concrete Plant,Factory,True,linear,each,1.0
+580,Prefab Panels Factory,Factory,True,linear,each,1.0
+581,Asphalt Plant,Factory,True,linear,each,1.0
+582,Brick Factory,Factory,True,linear,each,1.0
+583,Pumpjack,Conveyer/Pipe Engine,True,linear,each,1.0
+584,Oil Refinery,Factory,True,linear,each,1.0
+585,Coal Mine,Factory,True,linear,each,1.0
+586,Coal Processing Plant,Factory,True,linear,each,1.0
+587,Chemical Plant,Factory,True,linear,each,1.0
+588,Chemical Plant,Factory,True,linear,each,1.0
+589,Plastics Factory,Factory,True,linear,each,1.0
+590,Iron Mine,Factory,True,linear,each,1.0
+591,Iron Processing Plant,Factory,True,linear,each,1.0
+592,Steel Mill,Factory,True,linear,each,1.0
+593,Bauxite Mine,Factory,True,linear,each,1.0
+594,Bauxite Processong Plant,Factory,True,linear,each,1.0
+595,Alumina Plant,Factory,True,linear,each,1.0
+596,Aluminum Plant,Factory,True,linear,each,1.0
+597,Uranium Mine,Factory,True,linear,each,1.0
+598,Uranium Processing Plant,Factory,True,linear,each,1.0
+599,Uranium Conversion Plant,Factory,True,linear,each,1.0
+600,Nuclear Fuel Fabrication,Factory,True,linear,each,1.0
+601,Electrical Components Factory,Factory,True,linear,each,1.0
+602,Electronics Assembly Hall,Factory,True,linear,each,1.0
+603,Mechanical Components Factory,Factory,True,linear,each,1.0
+604,Vehicle Production Line,Factory,True,linear,each,1.0
+605,Railway Production Line,Factory,True,linear,each,1.0
+606,Dry Dock (Big),Factory,True,linear,each,1.0
+607,Airplane Production Line,Factory,True,linear,each,1.0
+608,Construction Office,Construction Office,True,linear,each,1.0
+609,Construction Office,Construction Office,True,linear,each,1.0
+610,Construction Office,Construction Office,True,linear,each,1.0
+611,Construction Office,Construction Office,True,linear,each,1.0
+612,Helicopter Construction Office,Construction Office,True,linear,each,1.0
+613,Rail Construction Office,Railway Construction Office,True,linear,each,1.0
+614,Rail Construction Office,Railway Construction Office,True,linear,each,1.0
+615,Helicopter Demolition Office,Demolition Office,True,linear,each,1.0
+616,Demolition Office (Small),Demolition Office,True,linear,each,1.0
+617,Demolition Office (Large),Demolition Office,True,linear,each,1.0
+618,Explosives Factory,Factory,True,linear,each,1.0

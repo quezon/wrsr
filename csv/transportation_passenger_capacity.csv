@@ -1,0 +1,124 @@
+blueprint_id,name,transportation_type,passenger_capacity
+2,AN2,Passenger/cargo,12.0
+3,IL18,Passenger/cargo,92.0
+5,L-410 UPV,Passenger/cargo,15.0
+6,An-14,Passenger/cargo,7.0
+7,An-28,Passenger/cargo,18.0
+9,L-200,Passenger/cargo,4.0
+10,Tu104,Passenger/cargo,75.0
+12,Tu154,Passenger/cargo,164.0
+13,Mi10,Helicopter,28.0
+14,Mi4,Helicopter,12.0
+15,Mi8,Helicopter,22.0
+16,Tu144,Passenger/cargo,150.0
+18,Mi2,Helicopter,8.0
+19,Mi6,Helicopter,47.0
+20,B1000,Ambulance,1.0
+21,Nysa 522,Ambulance,1.0
+22,RF-977,Ambulance,1.0
+23,S1203,Ambulance,1.0
+24,IMV-1600,Ambulance,1.0
+25,R2203,Ambulance,1.0
+26,S1202,Ambulance,1.0
+27,FZK-A07,Ambulance,1.0
+30,Chav 11M3,Bus,55.0
+31,Ikr-260,Bus,98.0
+32,K-SM11,Bus,82.0
+33,Ikr-280,Bus,135.0
+34,ikr-256,Bus,45.0
+35,LZ677,Bus,83.0
+36,LZ-695B,Bus,52.0
+37,LZ-965N,Bus,57.0
+38,PZ-672,Bus,32.0
+39,Skd-706 RTO LUX,Bus,40.0
+40,Skd-706 RTO MTZ,Bus,80.0
+41,Zis-155,Bus,52.0
+42,IMV-1600,Bus,6.0
+43,R2203,Bus,7.0
+44,S1203,Bus,7.0
+45,Zil-158,Bus,60.0
+46,B1000 microbus,Bus,7.0
+47,IMV-2200 microbus,Bus,11.0
+48,RF-977,Bus,8.0
+49,FZK-A07,Bus,7.0
+177,Heavy personal cabin,Passenger Cabins,10.0
+178,Light personal cabin,Passenger Cabins,4.0
+179,Light personal cabin v3,Passenger Cabins,4.0
+180,Heavy personal cabin v2,Passenger Cabins,12.0
+181,Light personal cabin v2,Passenger Cabins,4.0
+183,D1300,Personal Car,4.0
+184,F 126p,Personal Car,4.0
+185,S100,Personal Car,4.0
+186,S110R coupe,Personal Car,4.0
+187,S1202,Personal Car,4.0
+188,F 125p,Personal Car,4.0
+189,GZ M21,Personal Car,4.0
+190,S1000,Personal Car,4.0
+191,S120L,Personal Car,4.0
+192,S120M,Personal Car,4.0
+193,T603,Personal Car,4.0
+194,Trabi 601,Personal Car,4.0
+195,V24,Personal Car,4.0
+196,VZ 2106,Personal Car,4.0
+197,T613,Personal Car,4.0
+198,Trabi 601 combi,Personal Car,4.0
+199,VZ 2101,Personal Car,4.0
+200,Wburg 353,Personal Car,4.0
+201,F 125,Police Car,4.0
+202,S100,Police Car,2.0
+203,S1202,Police Car,2.0
+204,V24,Police Car,4.0
+205,GZ M21,Police Car,3.0
+206,S120,Police Car,4.0
+207,Trabi 601,Police Car,4.0
+208,A30,Prison Bus,13.0
+209,Ifa-W50,Prison Bus,18.0
+210,Nysa,Prison Bus,6.0
+211,FZK-A07,Prison Bus,6.0
+212,B1000,Prison Bus,6.0
+213,IMV-1600,Prison Bus,5.0
+214,S1203,Prison Bus,5.0
+258,Skd-8T,Trolleybus,65.0
+259,ZiU-682,Trolleybus,84.0
+260,ZiU-5,Trolleybus,68.0
+362,81-717,Metro,525.0
+363,Yauza 81-720,Metro,525.0
+364,Ecs,Metro,525.0
+365,81-717.5,Metro,525.0
+366,Astra IVA,Metro,664.0
+367,Ganz-MFAV,Metro,189.0
+368,MV-820,Motor wagon,95.0
+369,M131,Motor wagon,65.0
+370,DR Class-VT2.09,Motor wagon,68.0
+371,MV-853,Motor wagon,115.0
+372,M152,Motor wagon,85.0
+373,Ammd,Passenger wagon,115.0
+374,RT200,Passenger wagon,155.0
+375,TV61,Passenger wagon,110.0
+376,RIC,Passenger wagon,115.0
+377,TV50,Passenger wagon,98.0
+378,UIC-Y,Passenger wagon,125.0
+394,102NA,Tram,106.0
+395,13N,Tram,83.0
+396,KT8D5,Tram,251.0
+397,LM68,Tram,75.0
+398,RVR6,Tram,75.0
+399,105NA,Tram,88.0
+400,CSMG,Tram,203.0
+401,KTM-2,Tram,90.0
+402,LM68M,Tram,150.0
+403,T1,Tram,72.0
+404,T2,Tram,82.0
+405,T6B5,Tram,95.0
+406,T3,Tram,86.0
+407,Tim2,Tram,92.0
+420,"""Dunay""",Passenger ships,295.0
+421,"""Moskvich""",Passenger ships,147.0
+422,Meteor-342,Passenger ships,135.0
+387,D1,Trainset,330.0
+388,DR1A,Trainset,295.0
+389,ER2,Trainset,416.0
+390,EJ-460,Trainset,512.0
+391,DP,Trainset,210.0
+392,PFWG-EN57,Trainset,325.0
+393,DRG SVT-137,Trainset,130.0
