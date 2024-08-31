@@ -25,9 +25,10 @@ You must have PostgreSQL and Python installed on your Operating System. You also
 
 - [@quezon](https://github.com/quezon)
 
-## Suggestions and Recommendations
+## Plead for Help, Suggestions and Recommendations
 
-If you have any suggestions and recommendations to improve this project, please reach me out at 
+I need help with getting the cost function/formula for non linear costs such as for Roads, Bridges and Tunnels.
+If you have any suggestions, recommendations to improve this project or want to help me out with this project, please reach me out at 
 
 Gmail: labgrie@gmail.com
 
