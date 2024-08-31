@@ -26,7 +26,7 @@ This project aims to utilize the production resource utilization, passenger capa
 
 ## Suggestions and Recommendations
 
-If you have any suggestions and recommendations to improve this project, please reach me out to us at 
+If you have any suggestions and recommendations to improve this project, please reach me out at 
 
 Gmail: labgrie@gmail.com
 
