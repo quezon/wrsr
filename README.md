@@ -25,7 +25,7 @@ pipreqs
   chmod +x run.sh
   ./run.sh
 
-# Note!! Running these commands will erase your existing wrsr database. Please backup queries and data before running this command.
+# Warning!! Running these commands will erase your existing wrsr database. Please backup queries and data before running this command.
 
 ```
 

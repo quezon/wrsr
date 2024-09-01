@@ -8,7 +8,7 @@ def get_col_id_idx(head_row):
 
 data_old = get_data("denormalized tables.ods")
 
-denormalized_tables = ['transportation_build_resource_requirements','transportation_cargo_capacity','building_constructed_linear_costing']
+denormalized_tables = ['transportation_build_resource_requirements','transportation_cargo_capacity','construction_linear_costing']
 normalized_tables = []
 denormalized_tables_start_col_idx = [1,1,1]
 denormalized_tables_row_count = []

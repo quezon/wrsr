@@ -1,4 +1,4 @@
-construct_id,name,constructed_types,is_vanilla,cost_function,unit of measure,smallest unit
+construct_id,name,constructed_types,is_vanilla,cost_function,unit_of_measure,smallest_unit
 1,Tram Railroad Connection,Road,True,linear,each,1.0
 2,Road With Tram Track,Road,True,linear,meter,5.0
 3,Tram Track (No Access For Pedestrians And Cars),Road,True,linear,meter,5.0

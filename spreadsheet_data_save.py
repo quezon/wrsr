@@ -9,7 +9,7 @@ header=0
 engine = create_engine('postgresql://wrsr:wrsr3423@localhost:5432/wrsr')
 file = ezodf.opendoc(filename="normalized tables.ods")
 
-os.makedirs('csv', exist_ok=True)
+os.makedirs('csv/public/', exist_ok=True)
 
 num = 0
 while (True):
@@ -38,9 +38,9 @@ for sheet in file.sheets:
 		curr_idx += 1	
 
 	if num == 3:
-		df.to_csv('csv/' + sheet.name + '.csv',index=False)
+		df.to_csv('csv/public/' + sheet.name + '.csv',index=False)
 		df.to_sql(sheet.name, engine, if_exists='replace', index=False)
 	if num == 2:
 		df.to_sql(sheet.name, engine, if_exists='replace', index=False)
 	if num == 1:
-		df.to_csv('csv/' + sheet.name + '.csv',index=False)
+		df.to_csv('csv/public/' + sheet.name + '.csv',index=False)
