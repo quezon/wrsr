@@ -1,4 +1,4 @@
-# Workers and Resource Soviet Republic Resource and Capacity data
+# Resource and Capacity data
 
 This project aims to utilize the production resource utilization, passenger capacity, construction resource requirements and residential capacity data with Workshop or Non-workshop items for analysis with sql queries or graph database queries. 
 
